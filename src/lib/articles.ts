@@ -58,8 +58,8 @@ export async function getArticle(slug: string): Promise<Article | null> {
   const title = (data.title as string) || slug;
   const description = (data.meta_description as string) || "Office chair buying guide article.";
   const author = (data.author as string) || "Dr. James Holloway, Ergonomics Consultant";
-  const date = (data.datePublished as string) || "2026-03-11";
-  const dateModified = (data.dateModified as string) || date;
+  const date = String(data.datePublished || "2026-03-11").split('T')[0];
+  const dateModified = String(data.dateModified || date).split('T')[0];
   const category = "Guide";
 
   let htmlContent = result.toString();

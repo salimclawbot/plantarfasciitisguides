@@ -14,11 +14,11 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: { absolute: article.title },
     description: article.description,
-    alternates: { canonical: `https://officechairpicks.vercel.app/${article.slug}` },
+    alternates: { canonical: `https://plantarfasciitis-site.vercel.app/${article.slug}` },
     openGraph: {
       title: article.title,
       description: article.description,
-      url: `https://officechairpicks.vercel.app/${article.slug}`,
+      url: `https://plantarfasciitis-site.vercel.app/${article.slug}`,
       type: "article",
       siteName: "Office Chair Picks",
     },
@@ -40,11 +40,11 @@ export default async function ArticlePage({ params }: PageProps) {
       publisher: {
         "@type": "Organization",
         name: "Office Chair Picks",
-        logo: { "@type": "ImageObject", url: "https://officechairpicks.vercel.app/icon.svg" },
+        logo: { "@type": "ImageObject", url: "https://plantarfasciitis-site.vercel.app/icon.svg" },
       },
       datePublished: article.date,
       dateModified: article.dateModified,
-      mainEntityOfPage: { "@type": "WebPage", "@id": `https://officechairpicks.vercel.app/${article.slug}` },
+      mainEntityOfPage: { "@type": "WebPage", "@id": `https://plantarfasciitis-site.vercel.app/${article.slug}` },
     };
 
   return (

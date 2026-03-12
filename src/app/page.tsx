@@ -2,16 +2,16 @@ import { Metadata } from "next";
 import Link from "next/link";
 import { getAllSlugs, getArticle } from "@/lib/articles";
 export const metadata: Metadata = {
-  title: "Best Office Chairs for Back Pain & Lumbar Support (2026)",
+  title: "Best Shoes & Insoles for Plantar Fasciitis (2026): Podiatrist Picks",
   description: "Expert-tested office chairs for back pain, lumbar support, and all-day comfort. Compare the best ergonomic chairs of 2026.",
-  alternates: { canonical: "https://officechairpicks.vercel.app" },
+  alternates: { canonical: "https://plantarfasciitis.vercel.app" },
 };
 export default async function HomePage() {
   const slugs = getAllSlugs();
   const articles = (await Promise.all(slugs.map(s => getArticle(s)))).filter(Boolean);
   return (
-    <main className="max-w-4xl mx-auto px-4 py-12">
-      <h1 className="mb-4 text-4xl font-bold text-slate-900">Best Office Chairs for Back Pain & Lumbar Support (2026)</h1>
+    <main className="max-w-4xl mx-auto px-4 py-12"><img src="/images/chairs/best-office-chair-hero.jpg" alt="Best office chairs for back pain - expert tested picks 2026" style={{width:"100%",maxHeight:"380px",objectFit:"cover",borderRadius:"12px",marginBottom:"1.5rem"}} />
+      <h1 className="mb-4 text-4xl font-bold text-slate-900">Best Shoes & Insoles for Plantar Fasciitis (2026): Podiatrist Picks</h1>
       <p className="mb-12 text-xl text-slate-600">Expert-tested picks for all-day comfort. No more aching backs.</p>
       <div className="grid gap-6">
         {articles.map((a) => a && (
