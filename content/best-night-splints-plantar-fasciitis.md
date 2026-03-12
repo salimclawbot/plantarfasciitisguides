@@ -105,7 +105,7 @@ Night splints interrupt this cycle by maintaining the foot in a neutral or sligh
 
 A landmark study by Powell et al. in the *Journal of Bone and Joint Surgery* (1998) found that 88% of patients who added a night splint to their treatment regimen achieved satisfactory outcomes, compared to 69% using stretching and orthotics alone.
 
-![NANO_BANANA_PROMPT: A detailed medical illustration showing a cross-sectional side view of a human foot and ankle inside a posterior night splint. The plantar fascia is highlighted in red showing the stretch from the calcaneus (heel bone) to the metatarsal heads. Arrows indicate the dorsiflexion angle at 90 degrees. The calf muscle and Achilles tendon are shown in an elongated, stretched position. Clean white medical illustration style with anatomical labels. Background shows a bed pillow to indicate nighttime use context.](/images/best-night-splints-plantar-fasciitis/plantar-fascia-stretch-anatomy.jpg)
+![NANO_BANANA_PROMPT: A detailed medical illustration showing a cross-sectional side view of a human foot and ankle inside a posterior night splint. The plantar fascia is highlighted in red showing the stretch from the calcaneus (heel bone) to the metatarsal heads. Arrows indicate the dorsiflexion angle at 90 degrees. The calf muscle and Achilles tendon are shown in an elongated, stretched position. Clean white medical illustration style with anatomical labels. Background shows a bed pillow to indicate nighttime use context.](/images/articles/plantar-anatomy-illustration.png)
 *How a night splint maintains the plantar fascia in a gentle stretch position during sleep.*
 
 ---
@@ -138,7 +138,7 @@ These use a fabric sleeve or sock with one or more tension straps running from t
 
 **Drawbacks:** Less consistent stretch angle, straps can loosen during sleep, and they provide minimal support for the midfoot.
 
-![NANO_BANANA_PROMPT: An educational infographic comparing three types of plantar fasciitis night splints side by side. Left panel shows a posterior (boot-style) night splint with labels pointing to the rigid posterior shell, padded liner, and adjustable dorsiflexion straps — rated 5 stars for stretch intensity and 2 stars for comfort. Center panel shows a dorsal night splint with the rigid shell on top of the foot and open heel design — rated 4 stars for stretch and 4 stars for comfort. Right panel shows a sock-style Strassburg-type splint with elastic tension strap from toe to shin — rated 3 stars for stretch and 5 stars for comfort. Each panel includes weight, typical price range, and a brief pros/cons list. Clean modern medical illustration style with teal and white color scheme.](/images/best-night-splints-plantar-fasciitis/night-splint-types-comparison-infographic.jpg)
+![NANO_BANANA_PROMPT: An educational infographic comparing three types of plantar fasciitis night splints side by side. Left panel shows a posterior (boot-style) night splint with labels pointing to the rigid posterior shell, padded liner, and adjustable dorsiflexion straps — rated 5 stars for stretch intensity and 2 stars for comfort. Center panel shows a dorsal night splint with the rigid shell on top of the foot and open heel design — rated 4 stars for stretch and 4 stars for comfort. Right panel shows a sock-style Strassburg-type splint with elastic tension strap from toe to shin — rated 3 stars for stretch and 5 stars for comfort. Each panel includes weight, typical price range, and a brief pros/cons list. Clean modern medical illustration style with teal and white color scheme.](/images/articles/plantar-splint-types-infographic.png)
 *Comparison of the three main night splint designs: posterior, dorsal, and sock-style.*
 
 ---
@@ -252,7 +252,7 @@ The 2002 landmark study by Batt et al. in the *Journal of Foot and Ankle Surgery
 
 </div>
 
-![NANO_BANANA_PROMPT: A lifestyle photograph of a person sitting on the edge of a bed at night, wearing a dorsal night splint on their right foot. The bedroom is softly lit by a warm bedside lamp. The person is wearing pajama pants and a comfortable t-shirt. On the nightstand there is a glass of water and an alarm clock showing 10:30 PM. The foot with the night splint is slightly elevated on a small pillow. The scene conveys comfort and a normal bedtime routine. Realistic photography style with warm tones.](/images/best-night-splints-plantar-fasciitis/night-splint-bedtime-routine.jpg)
+![NANO_BANANA_PROMPT: A lifestyle photograph of a person sitting on the edge of a bed at night, wearing a dorsal night splint on their right foot. The bedroom is softly lit by a warm bedside lamp. The person is wearing pajama pants and a comfortable t-shirt. On the nightstand there is a glass of water and an alarm clock showing 10:30 PM. The foot with the night splint is slightly elevated on a small pillow. The scene conveys comfort and a normal bedtime routine. Realistic photography style with warm tones.](/images/articles/plantar-night-splint-wearing.png)
 *Wearing a night splint should become part of your regular bedtime routine for best results.*
 
 ### 4. Nice Stretch 90 Plantar Fasciitis Splint — Best Premium Boot
@@ -380,7 +380,7 @@ This is the most important point in this article. A 2018 study in *Foot & Ankle 
 
 > "I tell my patients: the best night splint is the one you'll actually wear every night. A Strassburg Sock worn consistently beats a rigid boot that sits in the closet." — Dr. James O'Brien
 
-![NANO_BANANA_PROMPT: A realistic photograph of a person's foot being fitted with a posterior night splint by a medical professional in a clinical podiatry office. The podiatrist's gloved hands are adjusting the straps while the patient sits on an examination table. The office background shows anatomical foot charts on the wall, a skeleton foot model on the desk, and medical equipment. The night splint is clearly visible with its L-shaped rigid shell and foam padding. Professional medical photography style with bright clinical lighting.](/images/best-night-splints-plantar-fasciitis/podiatrist-fitting-night-splint.jpg)
+![NANO_BANANA_PROMPT: A realistic photograph of a person's foot being fitted with a posterior night splint by a medical professional in a clinical podiatry office. The podiatrist's gloved hands are adjusting the straps while the patient sits on an examination table. The office background shows anatomical foot charts on the wall, a skeleton foot model on the desk, and medical equipment. The night splint is clearly visible with its L-shaped rigid shell and foam padding. Professional medical photography style with bright clinical lighting.](/images/articles/plantar-splint-fitting.png)
 *Having a podiatrist assess your foot and recommend the right splint type can improve outcomes significantly.*
 
 ---
@@ -410,7 +410,7 @@ By week 4, wearing the splint should feel routine. Most patients report noticeab
 
 Wean gradually. Reduce to 5 nights per week for 2 weeks, then 3 nights per week for 2 weeks, then discontinue. If morning pain returns at any stage, resume nightly use for another 4 weeks.
 
-![NANO_BANANA_PROMPT: An educational infographic titled 'Night Splint Treatment Timeline for Plantar Fasciitis' showing a horizontal 12-week timeline. Week 1 is labeled 'Break-In Period' with an icon of a clock showing 2-3 hours. Weeks 2-4 are labeled 'Building Consistency' with a moon icon representing full-night wear. Weeks 4-8 are labeled 'Peak Therapeutic Phase' with a green improvement trend line showing pain reduction on a VAS scale from 7 down to 3. Weeks 8-12 are labeled 'Consolidation' with the trend line leveling at VAS 1-2. A final section shows 'Gradual Weaning' over 4 additional weeks. Key statistics are displayed: 68% improvement by week 8, 94% sock-style compliance rate, and 88% overall success rate. Clean modern design with teal, white, and coral accents.](/images/best-night-splints-plantar-fasciitis/treatment-timeline-infographic.jpg)
+![NANO_BANANA_PROMPT: An educational infographic titled 'Night Splint Treatment Timeline for Plantar Fasciitis' showing a horizontal 12-week timeline. Week 1 is labeled 'Break-In Period' with an icon of a clock showing 2-3 hours. Weeks 2-4 are labeled 'Building Consistency' with a moon icon representing full-night wear. Weeks 4-8 are labeled 'Peak Therapeutic Phase' with a green improvement trend line showing pain reduction on a VAS scale from 7 down to 3. Weeks 8-12 are labeled 'Consolidation' with the trend line leveling at VAS 1-2. A final section shows 'Gradual Weaning' over 4 additional weeks. Key statistics are displayed: 68% improvement by week 8, 94% sock-style compliance rate, and 88% overall success rate. Clean modern design with teal, white, and coral accents.](/images/articles/plantar-treatment-timeline-infographic.png)
 *Follow this evidence-based timeline for optimal results with your night splint.*
 
 ---
