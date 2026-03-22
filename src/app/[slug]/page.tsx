@@ -14,11 +14,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: { absolute: article.title },
     description: article.description,
-    alternates: { canonical: `https://plantarfasciitis-site.vercel.app/${article.slug}` },
+    alternates: { canonical: `https://plantarfasciitisguides.com/${article.slug}` },
     openGraph: {
       title: article.title,
       description: article.description,
-      url: `https://plantarfasciitis-site.vercel.app/${article.slug}`,
+      url: `https://plantarfasciitisguides.com/${article.slug}`,
+      images: [{ url: `https://plantarfasciitisguides.com/og-image.jpg`, width: 1200, height: 630, alt: article.title }],
       type: "article",
       siteName: "Office Chair Picks",
     },

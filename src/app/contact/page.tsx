@@ -1,4 +1,4 @@
-export const metadata = { title: "Contact" };
+export const metadata = { title: "Contact", alternates: { canonical: "https://plantarfasciitisguides.com/contact" } };
 
 export default function ContactPage() {
   return (
