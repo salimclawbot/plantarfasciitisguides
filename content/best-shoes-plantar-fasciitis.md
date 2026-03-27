@@ -121,22 +121,22 @@ article_schema: |
 
 ## Table of Contents
 
-- [What to Look for in Plantar Fasciitis Shoes](#what-to-look-for)
-- [Our Top 8 Picks for 2026](#top-picks)
-- [Best Running Shoes for Plantar Fasciitis](#best-running)
-- [Best Walking Shoes for Plantar Fasciitis](#best-walking)
-- [Best Work Shoes for Plantar Fasciitis](#best-work)
-- [Best Budget Option](#best-budget)
-- [Best Sandal for Plantar Fasciitis](#best-sandal)
-- [How We Tested and Selected](#methodology)
-- [Shoe Features Explained: What Actually Matters](#features-explained)
-- [When to See a Podiatrist](#when-to-see-podiatrist)
-- [Frequently Asked Questions](#faq)
-- [Sources & Methodology](#sources)
+- [What to Look for in Plantar Fasciitis Shoes](#what-to-look-for-in-plantar-fasciitis-shoes)
+- [Our Top 8 Picks for 2026](#our-top-8-picks-for-2026)
+- [Best Running Shoes for Plantar Fasciitis](#best-budget-option)
+- [Best Walking Shoes for Plantar Fasciitis](#best-walking-shoes-for-plantar-fasciitis)
+- [Best Work Shoes for Plantar Fasciitis](#best-budget-option)
+- [Best Budget Option](#best-budget-option)
+- [Best Sandal for Plantar Fasciitis](#best-sandal-for-plantar-fasciitis)
+- [How We Tested and Selected](#sources-and-methodology)
+- [Shoe Features Explained: What Actually Matters](#shoe-features-explained-what-actually-matters)
+- [When to See a Podiatrist](#when-to-see-a-podiatrist)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Sources & Methodology](#sources-and-methodology)
 
 ---
 
-## What to Look for in Plantar Fasciitis Shoes {#what-to-look-for}
+## What to Look for in Plantar Fasciitis Shoes
 
 Not every "comfortable" shoe is good for plantar fasciitis. In fact, some of the most popular cushioned shoes on the market actually make the condition worse because they lack structural support. Before we get into specific recommendations, you need to understand the five features that separate genuinely therapeutic footwear from marketing hype.
 
@@ -162,11 +162,11 @@ The heel drop is the height difference between the heel and forefoot of the shoe
 
 If your podiatrist has recommended custom orthotics, or if you want the option of upgrading to aftermarket insoles, you need shoes with removable insoles. Most quality running and walking shoes include this feature, but always check before buying.
 
-For a deeper understanding of the condition itself, read our complete guide on [what causes plantar fasciitis and how to treat it](/what-is-plantar-fasciitis).
+For a deeper understanding of the condition itself, read our complete guide on what causes plantar fasciitis and how to treat it.
 
 ---
 
-## Our Top 8 Picks for 2026 {#top-picks}
+## Our Top 8 Picks for 2026
 
 We evaluated over 30 shoes across running, walking, work, and casual categories. These eight earned their place based on arch support quality, cushioning technology, heel stability, user reviews from verified plantar fasciitis sufferers, and overall build quality.
 
@@ -182,7 +182,7 @@ We evaluated over 30 shoes across running, walking, work, and casual categories.
 <p><strong>Why it's #1:</strong> The Gel-Kayano has been the gold standard for overpronation control and plantar fasciitis support for over two decades. The 31st iteration features ASICS' FF BLAST PLUS cushioning in the midsole paired with their signature rearfoot and forefoot GEL technology. The 4D Guidance System provides stability without feeling rigid, and the engineered mesh upper keeps your foot locked in without pressure points.</p>
 <p><strong>Pros:</strong> Exceptional arch support · GEL cushioning absorbs heel strike impact · Firm heel counter · Removable insole for custom orthotics · Durable outsole (500+ miles) · Wide width available</p>
 <p><strong>Cons:</strong> Heavier than neutral shoes (310g men's) · Premium price point · Break-in period of 20-30 miles · Can feel warm in hot weather</p>
-<p><a href="https://www.amazon.com/s?k=ASICS+Gel-Kayano+31&tag=theforge05-20">Check Price on Amazon (US)</a> · <a href="https://www.amazon.com.au/s?k=ASICS+Gel-Kayano+31&tag=doublefury-22">Amazon AU</a></p>
+<p><a href="https://www.amazon.com/s?k=ASICS+Gel-Kayano+31&tag=theforge05-20">Check Price on Amazon (US)</a> · <a href="https://www.amazon.com.au/s?k=ASICS+Gel-Kayano+31&tag=doublefury-22&tag=theforge05-20">Amazon AU</a></p>
 </div>
 
 <div class="product-card">
@@ -193,7 +193,7 @@ We evaluated over 30 shoes across running, walking, work, and casual categories.
 <p><strong>Why we love it:</strong> If your primary symptom is sharp heel pain on impact, the Bondi 8 is your best friend. HOKA's signature oversized midsole provides the most cushioning of any shoe on this list. The compression-moulded EVA midsole is remarkably plush without sacrificing responsiveness, and the Meta-Rocker geometry promotes a smooth heel-to-toe transition that reduces stress on the plantar fascia.</p>
 <p><strong>Pros:</strong> Maximum cushioning reduces heel impact · Lightweight for its size (303g men's) · Smooth rocker transition · Wide toe box · Removable insole · Excellent for standing all day</p>
 <p><strong>Cons:</strong> Lower heel drop (4mm) may not suit all PF sufferers · Bulky appearance · Less lateral stability · Outsole wears faster on pavement</p>
-<p><a href="https://www.amazon.com/s?k=HOKA+Bondi+8&tag=theforge05-20">Check Price on Amazon (US)</a> · <a href="https://www.amazon.com.au/s?k=HOKA+Bondi+8&tag=doublefury-22">Amazon AU</a></p>
+<p><a href="https://www.amazon.com/s?k=HOKA+Bondi+8&tag=theforge05-20">Check Price on Amazon (US)</a> · <a href="https://www.amazon.com.au/s?k=HOKA+Bondi+8&tag=doublefury-22&tag=theforge05-20">Amazon AU</a></p>
 </div>
 
 <div class="product-card">
@@ -204,7 +204,7 @@ We evaluated over 30 shoes across running, walking, work, and casual categories.
 <p><strong>Why runners choose it:</strong> The Ghost 16 delivers the ideal 12mm heel drop that podiatrists frequently recommend for plantar fasciitis. Brooks' DNA LOFT v2 cushioning adapts to your stride, providing more cushioning at heel strike and more responsiveness at toe-off. The segmented crash pad in the outsole absorbs impact at every angle, which matters if your gait isn't perfectly neutral.</p>
 <p><strong>Pros:</strong> Ideal 12mm heel drop · DNA LOFT v2 adaptive cushioning · Smooth transitions for running · Breathable mesh upper · Removable insole · Available in wide and extra-wide</p>
 <p><strong>Cons:</strong> Neutral shoe (less stability control) · Arch support is moderate, not aggressive · May need aftermarket insoles for severe PF · Outsole picks up debris</p>
-<p><a href="https://www.amazon.com/s?k=Brooks+Ghost+16&tag=theforge05-20">Check Price on Amazon (US)</a> · <a href="https://www.amazon.com.au/s?k=Brooks+Ghost+16&tag=doublefury-22">Amazon AU</a></p>
+<p><a href="https://www.amazon.com/s?k=Brooks+Ghost+16&tag=theforge05-20">Check Price on Amazon (US)</a> · <a href="https://www.amazon.com.au/s?k=Brooks+Ghost+16&tag=doublefury-22&tag=theforge05-20">Amazon AU</a></p>
 </div>
 
 <div class="product-card">
@@ -215,7 +215,7 @@ We evaluated over 30 shoes across running, walking, work, and casual categories.
 <p><strong>Why walkers love it:</strong> The 990 series has been an American podiatrist favourite since the 1980s, and the v6 is the best version yet. It combines FuelCell midsole cushioning with an ENCAP midsole for stability — a dual-density approach that supports your arch while cushioning your heel. The pigskin and mesh upper provides a secure, comfortable fit that doesn't require breaking in.</p>
 <p><strong>Pros:</strong> Dual-density midsole (cushion + stability) · 12mm heel drop · Made in USA quality · Excellent arch support out of the box · Removable insole · Classic look that works with most outfits</p>
 <p><strong>Cons:</strong> Most expensive on our list · Heavier (340g men's) · Limited colour options · Suede upper requires more care</p>
-<p><a href="https://www.amazon.com/s?k=New+Balance+990v6&tag=theforge05-20">Check Price on Amazon (US)</a> · <a href="https://www.amazon.com.au/s?k=New+Balance+990v6&tag=doublefury-22">Amazon AU</a></p>
+<p><a href="https://www.amazon.com/s?k=New+Balance+990v6&tag=theforge05-20">Check Price on Amazon (US)</a> · <a href="https://www.amazon.com.au/s?k=New+Balance+990v6&tag=doublefury-22&tag=theforge05-20">Amazon AU</a></p>
 </div>
 
 <div class="product-card">
@@ -226,7 +226,7 @@ We evaluated over 30 shoes across running, walking, work, and casual categories.
 <p><strong>Why professionals trust it:</strong> Nurses, chefs, teachers, and anyone on their feet for 8+ hour shifts consistently rate the Dansko Professional as their go-to for plantar fasciitis relief. The rigid polyurethane rocker bottom absorbs shock while the contoured midsole supports the arch. The rocker sole design naturally offloads pressure from the heel and forefoot, which directly reduces plantar fascia strain.</p>
 <p><strong>Pros:</strong> Designed for 8-12 hour standing shifts · Rocker sole reduces PF strain · Firm arch support · Slip-resistant outsole · Wide toe box · Exceptionally durable (years of daily wear)</p>
 <p><strong>Cons:</strong> Not suitable for running or sport · Clog style isn't for everyone · Can feel clunky initially · No removable insole · Sizing runs large — order half size down</p>
-<p><a href="https://www.amazon.com/s?k=Dansko+Professional+Clog&tag=theforge05-20">Check Price on Amazon (US)</a> · <a href="https://www.amazon.com.au/s?k=Dansko+Professional+Clog&tag=doublefury-22">Amazon AU</a></p>
+<p><a href="https://www.amazon.com/s?k=Dansko+Professional+Clog&tag=theforge05-20">Check Price on Amazon (US)</a> · <a href="https://www.amazon.com.au/s?k=Dansko+Professional+Clog&tag=doublefury-22&tag=theforge05-20">Amazon AU</a></p>
 </div>
 
 <div class="product-card">
@@ -237,7 +237,7 @@ We evaluated over 30 shoes across running, walking, work, and casual categories.
 <p><strong>Why it stands out:</strong> Vionic was founded by a podiatrist, and the Walker Classic is their flagship plantar fasciitis shoe. It features Vionic's Orthaheel technology — a built-in orthotic footbed with a deep heel cup that cradles the heel and provides aggressive arch support. If you've been told you need orthotics but don't want to spend $300+ on custom ones, this shoe is a strong alternative.</p>
 <p><strong>Pros:</strong> Built-in podiatrist-designed orthotic · Deep heel cup · APMA Seal of Acceptance · Leather upper is durable and professional · Removable insole for custom orthotics · Moderate price point</p>
 <p><strong>Cons:</strong> Style is clinical/plain · Heavier than athletic shoes · Limited breathability (leather upper) · Break-in period of 1-2 weeks</p>
-<p><a href="https://www.amazon.com/s?k=Vionic+Walker+Classic&tag=theforge05-20">Check Price on Amazon (US)</a> · <a href="https://www.amazon.com.au/s?k=Vionic+Walker+Classic&tag=doublefury-22">Amazon AU</a></p>
+<p><a href="https://www.amazon.com/s?k=Vionic+Walker+Classic&tag=theforge05-20">Check Price on Amazon (US)</a> · <a href="https://www.amazon.com.au/s?k=Vionic+Walker+Classic&tag=doublefury-22&tag=theforge05-20">Amazon AU</a></p>
 </div>
 
 <div class="product-card">
@@ -248,7 +248,7 @@ We evaluated over 30 shoes across running, walking, work, and casual categories.
 <p><strong>Why budget shoppers choose it:</strong> The Air Monarch IV is Nike's best-selling shoe of all time, and there's a reason podiatrists quietly recommend it for mild to moderate plantar fasciitis. The full-length Air-Sole unit provides responsive heel cushioning, the midsole offers decent arch support, and the firm heel counter locks your foot in place. At under $80, it's the best value on this list by a wide margin.</p>
 <p><strong>Pros:</strong> Excellent value under $80 · Full-length Nike Air cushioning · Firm heel counter · 10mm heel drop · Durable leather upper · Widely available in stores to try on</p>
 <p><strong>Cons:</strong> Arch support is adequate but not premium · Heavier and bulkier (370g men's) · Not ideal for serious running · Style is polarising · Insole is glued (not easily removable)</p>
-<p><a href="https://www.amazon.com/s?k=Nike+Air+Monarch+IV&tag=theforge05-20">Check Price on Amazon (US)</a> · <a href="https://www.amazon.com.au/s?k=Nike+Air+Monarch+IV&tag=doublefury-22">Amazon AU</a></p>
+<p><a href="https://www.amazon.com/s?k=Nike+Air+Monarch+IV&tag=theforge05-20">Check Price on Amazon (US)</a> · <a href="https://www.amazon.com.au/s?k=Nike+Air+Monarch+IV&tag=doublefury-22&tag=theforge05-20">Amazon AU</a></p>
 </div>
 
 <div class="product-card">
@@ -259,14 +259,14 @@ We evaluated over 30 shoes across running, walking, work, and casual categories.
 <p><strong>Why it's the PF sandal:</strong> When you need an open-toe option for warm weather or indoor wear, the Birkenstock Arizona is the only sandal we confidently recommend. The contoured cork-latex footbed provides genuine arch support with a deep heel cup — it's essentially a sandal with a built-in orthotic. The cork moulds to your foot over time, creating a custom fit that improves with wear.</p>
 <p><strong>Pros:</strong> Genuine arch support in a sandal · Deep heel cup · Cork moulds to your foot over time · Durable construction (lasts years) · Great for indoor wear on hard floors · Resoleable</p>
 <p><strong>Cons:</strong> Significant break-in period (1-2 weeks) · No heel strap (less secure) · Cork can crack if not maintained · Not suitable for high-activity use · Sizing is European (check conversion chart)</p>
-<p><a href="https://www.amazon.com/s?k=Birkenstock+Arizona&tag=theforge05-20">Check Price on Amazon (US)</a> · <a href="https://www.amazon.com.au/s?k=Birkenstock+Arizona&tag=doublefury-22">Amazon AU</a></p>
+<p><a href="https://www.amazon.com/s?k=Birkenstock+Arizona&tag=theforge05-20">Check Price on Amazon (US)</a> · <a href="https://www.amazon.com.au/s?k=Birkenstock+Arizona&tag=doublefury-22&tag=theforge05-20">Amazon AU</a></p>
 </div>
 
 </div>
 
 ---
 
-## Best Running Shoes for Plantar Fasciitis {#best-running}
+## Best Running Shoes for Plantar Fasciitis
 
 Running with plantar fasciitis requires careful shoe selection because the repetitive impact of each stride puts 2-3 times your body weight through your feet. The wrong running shoe doesn't just fail to help — it actively makes the condition worse.
 
@@ -282,7 +282,7 @@ For more guidance on staying active while managing heel pain, check our article 
 
 ---
 
-## Best Walking Shoes for Plantar Fasciitis {#best-walking}
+## Best Walking Shoes for Plantar Fasciitis
 
 Walking is the activity most plantar fasciitis sufferers do every day, and it's where the right shoe makes the biggest practical difference. Unlike running — which many people can temporarily stop — walking is unavoidable. Your walking shoes need to perform from the moment your feet hit the floor in the morning until you sit down at night.
 
@@ -296,7 +296,7 @@ For walking specifically, we'd also recommend the **HOKA Bondi 8** — its maxim
 
 ---
 
-## Best Work Shoes for Plantar Fasciitis {#best-work}
+## Best Work Shoes for Plantar Fasciitis
 
 If your job keeps you on your feet for extended periods, your work shoes matter more than any other footwear you own. Standing on hard surfaces for 8-12 hours creates sustained, repetitive stress on the plantar fascia that even the best morning stretching routine can't fully counteract.
 
@@ -310,7 +310,7 @@ For work environments that require a more conventional shoe appearance, the **Vi
 
 ---
 
-## Best Budget Option {#best-budget}
+## Best Budget Option
 
 Not everyone can spend $150-200 on shoes, and we respect that. Plantar fasciitis shouldn't be a condition that only people with disposable income can properly manage.
 
@@ -320,7 +320,7 @@ If even $65 is a stretch, consider purchasing premium insoles like Superfeet Gre
 
 ---
 
-## Best Sandal for Plantar Fasciitis {#best-sandal}
+## Best Sandal for Plantar Fasciitis
 
 Most podiatrists will tell you to avoid sandals and flip-flops if you have plantar fasciitis — and they're right about standard flat sandals. However, the **Birkenstock Arizona** is the exception because it's not really a flat sandal. The contoured cork-latex footbed provides legitimate arch support and a deep heel cup that you won't find in any other mainstream sandal.
 
@@ -330,7 +330,7 @@ If you deal with related conditions like lower back or hip pain from altered gai
 
 ---
 
-## How We Tested and Selected {#methodology}
+## How We Tested and Selected
 
 We don't just read spec sheets and rewrite marketing copy. Our selection methodology for this guide involved:
 
@@ -348,7 +348,7 @@ We don't just read spec sheets and rewrite marketing copy. Our selection methodo
 
 ---
 
-## Shoe Features Explained: What Actually Matters {#features-explained}
+## Shoe Features Explained: What Actually Matters
 
 The shoe industry uses a lot of proprietary names and marketing language that can make shopping overwhelming. Here's a plain-English breakdown of the technologies and features that actually matter for plantar fasciitis.
 
@@ -374,7 +374,7 @@ The notable exception is HOKA's 4mm drop on the Bondi 8. HOKA compensates for th
 
 ---
 
-## When to See a Podiatrist {#when-to-see-podiatrist}
+## When to See a Podiatrist
 
 The right shoes are a critical part of managing plantar fasciitis, but they're not a substitute for medical care when symptoms are severe or persistent. See a podiatrist if:
 
@@ -385,7 +385,7 @@ The right shoes are a critical part of managing plantar fasciitis, but they're n
 - You've had plantar fasciitis for over 6 months without improvement
 - Morning pain has gotten progressively worse over several weeks
 
-A podiatrist can assess your specific biomechanics, fit you for custom orthotics if needed, and discuss treatment options like physical therapy, shockwave therapy, or corticosteroid injections for severe cases. In the meantime, understanding [what is plantar fasciitis](/what-is-plantar-fasciitis) and incorporating daily [plantar fasciitis exercises](/plantar-fasciitis-exercises) can help you manage symptoms while you wait for your appointment.
+A podiatrist can assess your specific biomechanics, fit you for custom orthotics if needed, and discuss treatment options like physical therapy, shockwave therapy, or corticosteroid injections for severe cases. In the meantime, understanding what is plantar fasciitis and incorporating daily [plantar fasciitis exercises](/plantar-fasciitis-exercises) can help you manage symptoms while you wait for your appointment.
 
 ![Runner lacing up supportive shoes before a morning jog with plantar fasciitis](/images/best-shoes-plantar-fasciitis-7.jpg)
 
@@ -393,7 +393,7 @@ A podiatrist can assess your specific biomechanics, fit you for custom orthotics
 
 ---
 
-## Frequently Asked Questions {#faq}
+## Frequently Asked Questions
 
 ### What type of shoe is best for plantar fasciitis?
 
@@ -421,7 +421,7 @@ Not necessarily. While premium shoes from brands like ASICS, Brooks, and New Bal
 
 ---
 
-## Sources & Methodology {#sources}
+## Sources and Methodology
 
 This guide was developed using the following sources and methodology:
 

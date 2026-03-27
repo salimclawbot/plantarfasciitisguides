@@ -36,10 +36,10 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 - [Treatment Comparison: Plantar Fasciitis vs Heel Spur](#treatment-comparison-plantar-fasciitis-vs-heel-spur)
 - [Conservative Treatments That Work for Both](#conservative-treatments-that-work-for-both)
 - [When Surgery Becomes Necessary](#when-surgery-becomes-necessary)
-- [Products That Help With Both Conditions](#products-that-help-with-both-conditions)
+- [Products That Help With Both Conditions](#can-a-heel-spur-go-away-on-its-own)
 - [Prevention Strategies](#prevention-strategies)
 - [Frequently Asked Questions](#frequently-asked-questions)
-- [Sources & Methodology](#sources--methodology)
+- [Sources & Methodology](#sources-and-methodology)
 
 ---
 
@@ -419,7 +419,7 @@ Yes, but you should modify your activities. High-impact exercises like running a
 }
 ```
 
-## Sources & Methodology
+## Sources and Methodology
 
 This article was written by Dr. Lisa Park, DPM, and reviewed for medical accuracy using peer-reviewed research and clinical guidelines from leading orthopedic and podiatric organizations. All statistical claims, treatment recommendations, and diagnostic criteria are supported by the following sources:
 

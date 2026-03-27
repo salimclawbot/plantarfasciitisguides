@@ -103,19 +103,19 @@ We evaluated dozens of plantar fasciitis treatment products based on clinical ev
 | **North American Healthcare Plantar Fasciitis Night Splint** | $25 - $35 | Night Splint (Boot-Style) | Rigid boot holds foot at 90 degrees, adjustable dorsiflexion angle with straps, padded interior for comfort | Heavier and bulkier than sock-style, can disrupt sleep initially, warm in summer months |
 | **RAD Rounds Massage Ball Set** | $18 - $24 | Massage Ball | Set includes multiple densities, high-quality silicone construction, portable, excellent for deep tissue work | Requires floor space, learning curve for effective technique, softer ball may be insufficient for deep fascia release |
 
-[Check Price on Amazon](#affiliate-link) for the Strassburg Sock Night Splint
+[Check Price on Amazon](https://www.amazon.com/?tag=theforge05-20) for the Strassburg Sock Night Splint
 
-[Check Price on Amazon](#affiliate-link) for the TheraBand Foot Roller
+[Check Price on Amazon](https://www.amazon.com/?tag=theforge05-20) for the TheraBand Foot Roller
 
-[Check Price on Amazon](#affiliate-link) for the Recoverite Ice Roller Ball
+[Check Price on Amazon](https://www.amazon.com/?tag=theforge05-20) for the Recoverite Ice Roller Ball
 
-[Check Price on Amazon](#affiliate-link) for the Feetures Plantar Fasciitis Compression Socks
+[Check Price on Amazon](https://www.amazon.com/?tag=theforge05-20) for the Feetures Plantar Fasciitis Compression Socks
 
-[Check Price on Amazon](#affiliate-link) for the ProStretch Plus Adjustable Calf Stretcher
+[Check Price on Amazon](https://www.amazon.com/?tag=theforge05-20) for the ProStretch Plus Adjustable Calf Stretcher
 
-[Check Price on Amazon](#affiliate-link) for the North American Healthcare Night Splint
+[Check Price on Amazon](https://www.amazon.com/?tag=theforge05-20) for the North American Healthcare Night Splint
 
-[Check Price on Amazon](#affiliate-link) for the RAD Rounds Massage Ball Set
+[Check Price on Amazon](https://www.amazon.com/?tag=theforge05-20) for the RAD Rounds Massage Ball Set
 
 ### How We Chose These Products
 

@@ -36,7 +36,7 @@ article_schema: "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQP
 - [The Role of Night Splints in Recovery](#the-role-of-night-splints-in-recovery)
 - [When to See a Doctor](#when-to-see-a-doctor)
 - [Frequently Asked Questions](#frequently-asked-questions)
-- [Sources & Methodology](#sources--methodology)
+- [Sources & Methodology](#sources-and-methodology)
 
 ---
 
@@ -120,7 +120,7 @@ Tight calf muscles are one of the primary contributors to plantar fasciitis. The
 5. Hold for 30 seconds, then slightly bend the back knee to target the soleus muscle deeper in the calf. Hold for another 30 seconds.
 6. Repeat 3 times on each side.
 
-**Tips:** Perform this stretch before getting out of bed by using a resistance band looped around the ball of your foot. A [high-quality resistance band set](https://www.amazon.com/s?k=resistance+bands+for+plantar+fasciitis+stretching) is an inexpensive investment that makes morning stretching far more convenient.
+**Tips:** Perform this stretch before getting out of bed by using a resistance band looped around the ball of your foot. A [high-quality resistance band set](https://www.amazon.com/s?k=resistance+bands+for+plantar+fasciitis+stretching&tag=theforge05-20) is an inexpensive investment that makes morning stretching far more convenient.
 
 ### 3. Seated Plantar Fascia Stretch
 
@@ -202,7 +202,7 @@ Rolling the foot over a tennis ball or specialized [foot roller](https://www.ama
 3. When you find a particularly tender spot, pause and maintain gentle pressure for 15 to 20 seconds until the discomfort diminishes.
 4. Continue rolling for 2 to 3 minutes per foot.
 
-**Tips:** For a deeper massage, use a frozen water bottle — the cold provides additional anti-inflammatory benefits. You can also upgrade to a purpose-built [foot massage roller](https://www.amazon.com/s?k=foot+roller+massager+plantar+fasciitis) for more targeted pressure and durability compared to a tennis ball.
+**Tips:** For a deeper massage, use a frozen water bottle — the cold provides additional anti-inflammatory benefits. You can also upgrade to a purpose-built [foot massage roller](https://www.amazon.com/s?k=foot+roller+massager+plantar+fasciitis&tag=theforge05-20) for more targeted pressure and durability compared to a tennis ball.
 
 ![Foot rolling over a textured massage roller](/images/foot-roller-massage-photo.jpg)
 
@@ -215,7 +215,7 @@ The towel stretch is the perfect before-you-get-out-of-bed exercise. It lets you
 **How to perform:**
 
 1. Sit on your bed or the floor with your affected leg extended straight in front of you.
-2. Loop a towel (or a [stretching strap](https://www.amazon.com/s?k=stretching+strap+plantar+fasciitis)) around the ball of your foot.
+2. Loop a towel (or a [stretching strap](https://www.amazon.com/s?k=stretching+strap+plantar+fasciitis&tag=theforge05-20)) around the ball of your foot.
 3. Gently pull the towel toward you, keeping your knee straight, until you feel a stretch in the calf and the bottom of the foot.
 4. Hold for 30 seconds.
 5. Repeat 3 to 5 times before standing up.
@@ -344,9 +344,9 @@ A podiatrist or sports medicine physician can perform imaging studies, assess yo
 
 You do not need expensive equipment to perform these exercises, but a few affordable items can make your routine more effective and comfortable:
 
-- **Foot massage roller:** Provides deeper, more targeted pressure than a tennis ball. [Browse top-rated foot rollers on Amazon](https://www.amazon.com/s?k=foot+massage+roller+plantar+fasciitis).
-- **Resistance bands:** Essential for seated calf stretches and ankle strengthening. [Shop resistance bands for foot exercises](https://www.amazon.com/s?k=resistance+bands+for+plantar+fasciitis+stretching).
-- **Stretching strap:** A yoga strap with loops makes towel stretches easier and more precise. [Find stretching straps on Amazon](https://www.amazon.com/s?k=stretching+strap+yoga+plantar+fasciitis).
+- **Foot massage roller:** Provides deeper, more targeted pressure than a tennis ball. [Browse top-rated foot rollers on Amazon](https://www.amazon.com/s?k=foot+massage+roller+plantar+fasciitis&tag=theforge05-20).
+- **Resistance bands:** Essential for seated calf stretches and ankle strengthening. [Shop resistance bands for foot exercises](https://www.amazon.com/s?k=resistance+bands+for+plantar+fasciitis+stretching&tag=theforge05-20).
+- **Stretching strap:** A yoga strap with loops makes towel stretches easier and more precise. [Find stretching straps on Amazon](https://www.amazon.com/s?k=stretching+strap+yoga+plantar+fasciitis&tag=theforge05-20).
 - **Frozen water bottle:** A free alternative for cold massage — simply freeze a standard water bottle and roll it under your foot.
 
 ## Frequently Asked Questions
@@ -375,7 +375,7 @@ The seated plantar fascia stretch (exercise number three in this guide) has the 
 
 
 
-## Sources & Methodology
+## Sources and Methodology
 
 This article is based on peer-reviewed clinical research, established podiatric practice guidelines, and the author's clinical experience treating plantar fasciitis patients. All exercise recommendations align with current evidence-based protocols.
 

@@ -22,18 +22,18 @@ article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"he
 ---
 
 ## Table of Contents
-- [How Night Splints Work: The Science](#how-night-splints-work)
-- [Types of Night Splints: Which Is Best](#types-of-night-splints)
-- [Best Night Splints for Plantar Fasciitis (2026)](#best-night-splints-2026)
-- [How to Wear a Night Splint Correctly](#how-to-wear-correctly)
-- [Night Splints and Sleep Quality](#night-splints-sleep-quality)
-- [Night Splints vs Other Treatments](#night-splints-vs-other-treatments)
+- [How Night Splints Work: The Science](#how-night-splints-work-the-science)
+- [Types of Night Splints: Which Is Best](#types-of-night-splints-which-is-best)
+- [Best Night Splints for Plantar Fasciitis (2026)](#best-night-splints-for-plantar-fasciitis-2026)
+- [How to Wear a Night Splint Correctly](#how-to-wear-a-night-splint-correctly)
+- [Night Splints and Sleep Quality](#night-splints-and-sleep-quality)
+- [Night Splints vs Other Treatments](#night-splints-vs-other-plantar-fasciitis-treatments)
 - [Frequently Asked Questions](#frequently-asked-questions)
-- [Sources & Methodology](#sources-methodology)
+- [Sources & Methodology](#sources-and-methodology)
 
 ---
 
-## How Night Splints Work: The Science {#how-night-splints-work}
+## How Night Splints Work: The Science
 
 ![Plantar fascia anatomy diagram showing how night splint maintains dorsiflexion and stretches fascial tissue during sleep](/images/articles/night-splints-plantar-fasciitis-anatomy.jpg)
 
@@ -62,7 +62,7 @@ A 2006 systematic review of non-surgical plantar fasciitis treatments ranked nig
 
 ---
 
-## Types of Night Splints: Which Is Best {#types-of-night-splints}
+## Types of Night Splints: Which Is Best
 
 <style>
 .product-cards { display: grid; grid-template-columns: 1fr; gap: 1.5rem; margin: 2rem 0; }
@@ -85,7 +85,7 @@ A 2006 systematic review of non-surgical plantar fasciitis treatments ranked nig
 
 ---
 
-## Best Night Splints for Plantar Fasciitis (2026) {#best-night-splints-2026}
+## Best Night Splints for Plantar Fasciitis (2026)
 
 <div class="product-cards">
   <div class="product-card">
@@ -136,7 +136,7 @@ A 2006 systematic review of non-surgical plantar fasciitis treatments ranked nig
 
 ---
 
-## How to Wear a Night Splint Correctly {#how-to-wear-correctly}
+## How to Wear a Night Splint Correctly
 
 ![Night splint wearing guide showing correct 90 degree foot position dorsiflexion angle fitting instructions](/images/articles/night-splints-plantar-fasciitis-fitting-guide.jpg)
 
@@ -164,7 +164,7 @@ For night bathroom visits, either:
 
 ---
 
-## Night Splints and Sleep Quality {#night-splints-sleep-quality}
+## Night Splints and Sleep Quality
 
 Wearing a night splint can initially disrupt sleep quality, particularly during the first 1-2 weeks of adaptation. Research published in the *Journal of Orthopaedic Research* found that posterior hard boot splints had significantly higher rates of discontinuation due to sleep disruption than dorsal splints (36% vs 12%).
 
@@ -179,7 +179,7 @@ If consistent sleep disruption occurs beyond 3 weeks, switching from a hard boot
 
 ---
 
-## Night Splints vs Other Plantar Fasciitis Treatments {#night-splints-vs-other-treatments}
+## Night Splints vs Other Plantar Fasciitis Treatments
 
 Night splints work best as part of a comprehensive treatment approach. They address the morning pain cycle directly but do not resolve the underlying inflammation or fascial tension that causes the problem.
 
@@ -211,7 +211,7 @@ Consider adding professional intervention if night splints plus stretching show 
 
 ---
 
-## Frequently Asked Questions {#frequently-asked-questions}
+## Frequently Asked Questions
 
 **Do night splints actually work for plantar fasciitis?**
 
@@ -235,7 +235,7 @@ Only if both feet are symptomatic. For single-foot plantar fasciitis, wear only 
 
 ---
 
-## Sources & Methodology {#sources-methodology}
+## Sources and Methodology
 
 **Clinical References:**
 - Batt ME et al: "Night splints for plantar fasciitis." *Foot and Ankle International* 2002

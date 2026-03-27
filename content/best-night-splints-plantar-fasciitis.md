@@ -52,7 +52,6 @@ Night splints interrupt this cycle by maintaining the foot in a neutral or sligh
 
 A landmark study by Powell et al. in the *Journal of Bone and Joint Surgery* (1998) found that 88% of patients who added a night splint to their treatment regimen achieved satisfactory outcomes, compared to 69% using stretching and orthotics alone.
 
-![NANO_BANANA_PROMPT: A detailed medical illustration showing a cross-sectional side view of a human foot and ankle inside a posterior night splint. The plantar fascia is highlighted in red showing the stretch from the calcaneus (heel bone) to the metatarsal heads. Arrows indicate the dorsiflexion angle at 90 degrees. The calf muscle and Achilles tendon are shown in an elongated, stretched position. Clean white medical illustration style with anatomical labels. Background shows a bed pillow to indicate nighttime use context.](/images/articles/plantar-anatomy-illustration.png)
 *How a night splint maintains the plantar fascia in a gentle stretch position during sleep.*
 
 ---
@@ -85,7 +84,6 @@ These use a fabric sleeve or sock with one or more tension straps running from t
 
 **Drawbacks:** Less consistent stretch angle, straps can loosen during sleep, and they provide minimal support for the midfoot.
 
-![NANO_BANANA_PROMPT: An educational infographic comparing three types of plantar fasciitis night splints side by side. Left panel shows a posterior (boot-style) night splint with labels pointing to the rigid posterior shell, padded liner, and adjustable dorsiflexion straps — rated 5 stars for stretch intensity and 2 stars for comfort. Center panel shows a dorsal night splint with the rigid shell on top of the foot and open heel design — rated 4 stars for stretch and 4 stars for comfort. Right panel shows a sock-style Strassburg-type splint with elastic tension strap from toe to shin — rated 3 stars for stretch and 5 stars for comfort. Each panel includes weight, typical price range, and a brief pros/cons list. Clean modern medical illustration style with teal and white color scheme.](/images/articles/plantar-splint-types-infographic.png)
 *Comparison of the three main night splint designs: posterior, dorsal, and sock-style.*
 
 ---
@@ -108,13 +106,13 @@ We prioritised products that delivered measurable pain reduction while maintaini
 
 | Rank | Product | Type | Dorsiflexion | Weight | Price | Rating | Pros | Cons | Buy |
 |------|---------|------|-------------|--------|-------|--------|------|------|-----|
-| 1 | **Mars Wellness Posterior Night Splint** | Posterior Boot | 90° fixed, adjustable | 480g | $24–30 | 4.5/5 | • Strong 90° stretch • Well-padded liner • Affordable | • Heavy (480g) • 3–5 night break-in | [Check Price on Amazon](https://www.amazon.com/dp/B07BDHK8V1) |
-| 2 | **BraceAbility Dorsal Night Splint** | Dorsal | 85–90° adjustable | 280g | $27–35 | 4.4/5 | • Great for side sleepers • Lightweight (280g) • Adjustable dial | • Foot can shift if straps loosen • Less aggressive stretch | [Check Price on Amazon](https://www.amazon.com/dp/B019PORTNA) |
-| 3 | **Strassburg Sock** | Sock-Style | Adjustable via strap | 85g | $30–38 | 4.3/5 | • Ultra-light (85g) • Highest compliance (94%) • Machine washable | • Strap can loosen overnight • Not ideal for severe cases | [Check Price on Amazon](https://www.amazon.com/dp/B000NFXFDI) |
-| 4 | **Nice Stretch 90 Plantar Fasciitis Splint** | Posterior Boot | 90° fixed | 410g | $35–45 | 4.3/5 | • Contoured footplate • Excellent padding • Bilateral stretch | • Higher price ($35–45) • Heavy at 410g | [Check Price on Amazon](https://www.amazon.com/dp/B074W4S2TR) |
-| 5 | **Vive Dorsal Night Splint** | Dorsal | 85–90° adjustable | 310g | $20–28 | 4.2/5 | • Lowest-price dorsal option • Adjustable angle • Lightweight | • Strap quality below BraceAbility • May not last beyond 5 months | [Check Price on Amazon](https://www.amazon.com/dp/B07BGRM3HD) |
-| 6 | **Thermoskin Plantar FXT Night Support** | Sock-Style | Moderate via strap | 90g | $35–42 | 4.1/5 | • Thermal therapy layer • Extremely packable • All sleep positions | • Too warm for hot sleepers • Limited stretch adjustability | [Check Price on Amazon](https://www.amazon.com/dp/B003QX3MMO) |
-| 7 | **Medline Ventilated Posterior Night Splint** | Posterior Boot | 90° fixed | 520g | $22–30 | 4.0/5 | • Best ventilation in class • Breathable mesh liner • Solid 90° hold | • Heaviest at 520g • Velcro shows wear at 90 days | [Check Price on Amazon](https://www.amazon.com/dp/B091TT78YJ) |
+| 1 | **Mars Wellness Posterior Night Splint** | Posterior Boot | 90° fixed, adjustable | 480g | $24–30 | 4.5/5 | • Strong 90° stretch • Well-padded liner • Affordable | • Heavy (480g) • 3–5 night break-in | [Check Price on Amazon](https://www.amazon.com/dp/B07BDHK8V1?tag=theforge05-20) |
+| 2 | **BraceAbility Dorsal Night Splint** | Dorsal | 85–90° adjustable | 280g | $27–35 | 4.4/5 | • Great for side sleepers • Lightweight (280g) • Adjustable dial | • Foot can shift if straps loosen • Less aggressive stretch | [Check Price on Amazon](https://www.amazon.com/dp/B019PORTNA?tag=theforge05-20) |
+| 3 | **Strassburg Sock** | Sock-Style | Adjustable via strap | 85g | $30–38 | 4.3/5 | • Ultra-light (85g) • Highest compliance (94%) • Machine washable | • Strap can loosen overnight • Not ideal for severe cases | [Check Price on Amazon](https://www.amazon.com/dp/B000NFXFDI?tag=theforge05-20) |
+| 4 | **Nice Stretch 90 Plantar Fasciitis Splint** | Posterior Boot | 90° fixed | 410g | $35–45 | 4.3/5 | • Contoured footplate • Excellent padding • Bilateral stretch | • Higher price ($35–45) • Heavy at 410g | [Check Price on Amazon](https://www.amazon.com/dp/B074W4S2TR?tag=theforge05-20) |
+| 5 | **Vive Dorsal Night Splint** | Dorsal | 85–90° adjustable | 310g | $20–28 | 4.2/5 | • Lowest-price dorsal option • Adjustable angle • Lightweight | • Strap quality below BraceAbility • May not last beyond 5 months | [Check Price on Amazon](https://www.amazon.com/dp/B07BGRM3HD?tag=theforge05-20) |
+| 6 | **Thermoskin Plantar FXT Night Support** | Sock-Style | Moderate via strap | 90g | $35–42 | 4.1/5 | • Thermal therapy layer • Extremely packable • All sleep positions | • Too warm for hot sleepers • Limited stretch adjustability | [Check Price on Amazon](https://www.amazon.com/dp/B003QX3MMO?tag=theforge05-20) |
+| 7 | **Medline Ventilated Posterior Night Splint** | Posterior Boot | 90° fixed | 520g | $22–30 | 4.0/5 | • Best ventilation in class • Breathable mesh liner • Solid 90° hold | • Heaviest at 520g • Velcro shows wear at 90 days | [Check Price on Amazon](https://www.amazon.com/dp/B091TT78YJ?tag=theforge05-20) |
 
 ---
 
@@ -140,7 +138,7 @@ In our 12-week patient trial, the Mars Wellness group showed a mean VAS pain red
 
 **Our verdict:** The best night splint for plantar fasciitis for most people. If you can tolerate a boot-style design for the first week, the Mars Wellness delivers the strongest clinical outcomes in our testing.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07BDHK8V1)
+[Check Price on Amazon](https://www.amazon.com/dp/B07BDHK8V1?tag=theforge05-20)
 
 ### 2. BraceAbility Dorsal Night Splint — Best for Side Sleepers
 
@@ -162,7 +160,7 @@ Our side-sleeping patients reported 78% fewer sleep disturbances compared to the
 
 **Our verdict:** The best night splint for plantar fasciitis if sleep quality is your primary concern. The dorsal design trades a small amount of stretch intensity for dramatically better comfort and compliance.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B019PORTNA)
+[Check Price on Amazon](https://www.amazon.com/dp/B019PORTNA?tag=theforge05-20)
 
 ### 3. Strassburg Sock — Best Sock-Style / Most Comfortable
 
@@ -185,9 +183,8 @@ The 2002 landmark study by Batt et al. in the *Journal of Foot and Ankle Surgery
 
 **Our verdict:** The Strassburg Sock proves that the best night splint is the one you'll actually wear. If you've tried rigid splints and given up, or if your plantar fasciitis is mild to moderate, this is your best option.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B000NFXFDI)
+[Check Price on Amazon](https://www.amazon.com/dp/B000NFXFDI?tag=theforge05-20)
 
-![NANO_BANANA_PROMPT: A lifestyle photograph of a person sitting on the edge of a bed at night, wearing a dorsal night splint on their right foot. The bedroom is softly lit by a warm bedside lamp. The person is wearing pajama pants and a comfortable t-shirt. On the nightstand there is a glass of water and an alarm clock showing 10:30 PM. The foot with the night splint is slightly elevated on a small pillow. The scene conveys comfort and a normal bedtime routine. Realistic photography style with warm tones.](/images/articles/plantar-night-splint-wearing.png)
 *Wearing a night splint should become part of your regular bedtime routine for best results.*
 
 ### 4. Nice Stretch 90 Plantar Fasciitis Splint — Best Premium Boot
@@ -209,7 +206,7 @@ The premium foam liner is noticeably thicker than competing boot-style splints, 
 
 **Our verdict:** Worth the premium if you've experienced discomfort with cheaper posterior splints. The superior padding and contoured footplate make this the most comfortable boot-style option.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B074W4S2TR)
+[Check Price on Amazon](https://www.amazon.com/dp/B074W4S2TR?tag=theforge05-20)
 
 ### 5. Vive Dorsal Night Splint — Best Budget Dorsal
 
@@ -230,7 +227,7 @@ In our trial, the Vive performed comparably to the BraceAbility for mild to mode
 
 **Our verdict:** An excellent entry-level dorsal splint if budget is a concern. For long-term use, invest in the BraceAbility.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07BGRM3HD)
+[Check Price on Amazon](https://www.amazon.com/dp/B07BGRM3HD?tag=theforge05-20)
 
 ### 6. Thermoskin Plantar FXT Night Support — Best for Travel
 
@@ -252,7 +249,7 @@ At 90g, it packs flat in a suitcase and is ideal for travellers who don't want t
 
 **Our verdict:** A niche but excellent option for patients who travel frequently or who respond well to heat therapy.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B003QX3MMO)
+[Check Price on Amazon](https://www.amazon.com/dp/B003QX3MMO?tag=theforge05-20)
 
 ### 7. Medline Ventilated Posterior Night Splint — Best Ventilated Boot
 
@@ -273,7 +270,7 @@ Our patients in warm-climate testing (Arizona, July) rated the Medline's breatha
 
 **Our verdict:** The best posterior night splint for hot sleepers or warm climates. Solid clinical performance with meaningfully better breathability.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B091TT78YJ)
+[Check Price on Amazon](https://www.amazon.com/dp/B091TT78YJ?tag=theforge05-20)
 
 ---
 
@@ -299,7 +296,6 @@ This is the most important point in this article. A 2018 study in *Foot & Ankle 
 
 > "I tell my patients: the best night splint is the one you'll actually wear every night. A Strassburg Sock worn consistently beats a rigid boot that sits in the closet." — Dr. James O'Brien
 
-![NANO_BANANA_PROMPT: A realistic photograph of a person's foot being fitted with a posterior night splint by a medical professional in a clinical podiatry office. The podiatrist's gloved hands are adjusting the straps while the patient sits on an examination table. The office background shows anatomical foot charts on the wall, a skeleton foot model on the desk, and medical equipment. The night splint is clearly visible with its L-shaped rigid shell and foam padding. Professional medical photography style with bright clinical lighting.](/images/articles/plantar-splint-fitting.png)
 *Having a podiatrist assess your foot and recommend the right splint type can improve outcomes significantly.*
 
 ---
@@ -329,7 +325,6 @@ By week 4, wearing the splint should feel routine. Most patients report noticeab
 
 Wean gradually. Reduce to 5 nights per week for 2 weeks, then 3 nights per week for 2 weeks, then discontinue. If morning pain returns at any stage, resume nightly use for another 4 weeks.
 
-![NANO_BANANA_PROMPT: An educational infographic titled 'Night Splint Treatment Timeline for Plantar Fasciitis' showing a horizontal 12-week timeline. Week 1 is labeled 'Break-In Period' with an icon of a clock showing 2-3 hours. Weeks 2-4 are labeled 'Building Consistency' with a moon icon representing full-night wear. Weeks 4-8 are labeled 'Peak Therapeutic Phase' with a green improvement trend line showing pain reduction on a VAS scale from 7 down to 3. Weeks 8-12 are labeled 'Consolidation' with the trend line leveling at VAS 1-2. A final section shows 'Gradual Weaning' over 4 additional weeks. Key statistics are displayed: 68% improvement by week 8, 94% sock-style compliance rate, and 88% overall success rate. Clean modern design with teal, white, and coral accents.](/images/articles/plantar-treatment-timeline-infographic.png)
 *Follow this evidence-based timeline for optimal results with your night splint.*
 
 ---

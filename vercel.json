@@ -9,7 +9,7 @@
         }
       ],
       "destination": "https://plantarfasciitisguides.com/:path*",
-      "permanent": true
+      "statusCode": 301
     }
   ]
 }

@@ -127,7 +127,7 @@ One thing to note is that the Superfeet GREEN has a firm break-in period. Many u
 
 **Best for:** People with high arches, those seeking maximum structural support, runners, and anyone who wants a durable insole that will last 12 months or more.
 
-[Check Price on Amazon](#affiliate-link)
+[Check Price on Amazon](https://www.amazon.com/s?k=Superfeet+GREEN+insoles+plantar+fasciitis&tag=theforge05-20)
 
 ### 2. Powerstep Pinnacle -- Best Value
 
@@ -142,7 +142,7 @@ At the $30-$40 price point, the Powerstep Pinnacle delivers excellent value. It 
 
 **Best for:** People with medium arches, those who want support without excessive firmness, office workers, and anyone looking for a solid all-around insole at a reasonable price.
 
-[Check Price on Amazon](#affiliate-link)
+[Check Price on Amazon](https://www.amazon.com/s?k=Powerstep+Pinnacle+insoles&tag=theforge05-20)
 
 ### 3. Dr. Scholl's Pain Relief Orthotics for Plantar Fasciitis -- Best Budget Option
 
@@ -154,7 +154,7 @@ Durability is the main drawback. The foam tends to compress and lose its support
 
 **Best for:** People with mild plantar fasciitis, those on a tight budget, casual shoe wearers, and anyone who wants to try insoles before investing in a premium product.
 
-[Check Price on Amazon](#affiliate-link)
+[Check Price on Amazon](https://www.amazon.com/s?k=Dr+Scholls+plantar+fasciitis+orthotics&tag=theforge05-20)
 
 ![Close-up of an insole's arch support structure and heel cup](/images/insole-arch-support-detail.jpg)
 
@@ -168,7 +168,7 @@ The "Thick" designation means this insole has a higher volume profile, so it wor
 
 **Best for:** Athletes, hikers, people who want a semi-custom fit, those with unique foot shapes, and environmentally conscious buyers.
 
-[Check Price on Amazon](#affiliate-link)
+[Check Price on Amazon](https://www.amazon.com/s?k=SOLE+Active+insoles&tag=theforge05-20)
 
 ### 5. Spenco Total Support Max -- Best for Standing All Day
 
@@ -180,7 +180,7 @@ The metatarsal support is a standout feature that sets this insole apart. If you
 
 **Best for:** Healthcare workers, retail employees, teachers, factory workers, and anyone who stands on hard surfaces for 8 or more hours a day.
 
-[Check Price on Amazon](#affiliate-link)
+[Check Price on Amazon](https://www.amazon.com/s?k=Spenco+Total+Support+Max+insoles&tag=theforge05-20)
 
 ---
 

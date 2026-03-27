@@ -47,7 +47,7 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 - [Common Mistakes That Delay Recovery](#common-mistakes-that-delay-recovery)
 - [Returning to Activity After Plantar Fasciitis](#returning-to-activity-after-plantar-fasciitis)
 - [Frequently Asked Questions](#frequently-asked-questions)
-- [Sources & Methodology](#sources--methodology)
+- [Sources & Methodology](#sources-and-methodology)
 - [Medical Disclaimer](#medical-disclaimer)
 
 ---
@@ -198,9 +198,9 @@ Our team tested over 30 insoles for plantar fasciitis relief. See our top picks 
 
 **Recommended products:**
 
-- [Superfeet GREEN Insoles](https://www.amazon.com/dp/B003COM2TQ?tag=pfguides-20) — Best overall support for most foot types
-- [Powerstep Pinnacle Insoles](https://www.amazon.com/dp/B000E4LHLO?tag=pfguides-20) — Great cushioning with semi-rigid arch support
-- [Vionic Full-Length Orthotics](https://www.amazon.com/dp/B00LNKITK0?tag=pfguides-20) — Podiatrist-designed with a deep heel cup
+- [Superfeet GREEN Insoles](https://www.amazon.com/dp/B003COM2TQ?tag=pfguides-20&tag=theforge05-20) — Best overall support for most foot types
+- [Powerstep Pinnacle Insoles](https://www.amazon.com/dp/B000E4LHLO?tag=pfguides-20&tag=theforge05-20) — Great cushioning with semi-rigid arch support
+- [Vionic Full-Length Orthotics](https://www.amazon.com/dp/B00LNKITK0?tag=pfguides-20&tag=theforge05-20) — Podiatrist-designed with a deep heel cup
 
 ### 3. Use Night Splints
 
@@ -212,8 +212,8 @@ Check out our detailed reviews of the [best night splints for plantar fasciitis]
 
 **Top-rated night splints:**
 
-- [Strassburg Sock](https://www.amazon.com/dp/B000LFJJSI?tag=pfguides-20) — Lightweight sock-style option, easier to sleep in
-- [BraceAbility Dorsal Night Splint](https://www.amazon.com/dp/B07BDFGZ9C?tag=pfguides-20) — Low-profile design that sits on top of the foot
+- [Strassburg Sock](https://www.amazon.com/dp/B000LFJJSI?tag=pfguides-20&tag=theforge05-20) — Lightweight sock-style option, easier to sleep in
+- [BraceAbility Dorsal Night Splint](https://www.amazon.com/dp/B07BDFGZ9C?tag=pfguides-20&tag=theforge05-20) — Low-profile design that sits on top of the foot
 
 ### 4. Wear Supportive Shoes — Always
 
@@ -422,7 +422,7 @@ There's no instant cure, but the fastest evidence-based approach is a multi-pron
 
 ---
 
-## Sources & Methodology
+## Sources and Methodology
 
 This article is based on peer-reviewed medical research, clinical guidelines, and Dr. Sarah Mitchell's clinical experience treating plantar fasciitis patients. Key sources include:
 
