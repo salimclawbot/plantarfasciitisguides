@@ -9,6 +9,10 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 
 # Plantar Fasciitis Treatment Guide 2026: How to Heal Heel Pain Fast
 
+<video autoplay muted loop playsinline poster="/images/articles/plantar-fasciitis-guides-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/plantar-fasciitis-guides-demo.mp4" type="video/mp4">
+</video>
+
 **Plantar fasciitis is the most common cause of heel pain, affecting roughly 2 million Americans each year. It occurs when the thick band of tissue running along the bottom of your foot becomes inflamed and irritated. With the right combination of rest, stretching, supportive devices, and targeted treatments, most people recover fully within 6 to 12 months without surgery.**
 
 ![Diagram showing the plantar fascia ligament along the bottom of the foot](/images/plantar-fascia-anatomy-diagram.jpg)

@@ -20,6 +20,10 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 
 # How Long Does Plantar Fasciitis Take to Heal? (Timeline + Tips)
 
+<video autoplay muted loop playsinline poster="/images/articles/how-long-does-plantar-fasciitis-take-to-heal-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/how-long-does-plantar-fasciitis-take-to-heal-demo.mp4" type="video/mp4">
+</video>
+
 **Most plantar fasciitis cases heal within 6 to 12 months with consistent conservative treatment. Mild cases can improve in as little as 6 to 8 weeks, while severe or chronic cases may take 12 to 18 months. Your recovery speed depends on the severity of your condition, the treatments you use, and how consistently you follow your recovery plan.**
 
 *By Dr. Sarah Mitchell, Podiatrist & Sports Medicine Specialist | Last updated: March 2026*
