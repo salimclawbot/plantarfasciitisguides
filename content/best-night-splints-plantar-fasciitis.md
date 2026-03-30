@@ -1,7 +1,7 @@
 ---
 title: "Best Night Splints for Plantar Fasciitis (2026)"
 slug: best-night-splints-plantar-fasciitis
-date: 2026-03-13
+date: "2026-03-13"
 author: Dr. James O'Brien, Podiatrist & Sports Medicine Specialist
 site: plantarfasciitisguides
 type: article
@@ -423,3 +423,7 @@ This article is based on peer-reviewed clinical research, the author's 18 years 
 *This article was written by Dr. James O'Brien, a board-certified podiatrist and sports medicine specialist with 18 years of clinical experience treating plantar fasciitis and related foot conditions. Dr. O'Brien has treated over 4,000 plantar fasciitis patients and regularly contributes to continuing medical education programmes on lower extremity biomechanics.*
 
 *For personalised treatment recommendations, please consult with a qualified podiatrist or sports medicine physician in your area.*
+
+
+## Visual Guide Gallery
+

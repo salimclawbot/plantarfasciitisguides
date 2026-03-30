@@ -59,7 +59,7 @@ Several risk factors increase your likelihood of developing plantar fasciitis:
 
 Understanding the underlying mechanics is essential because it explains why targeted exercises are so effective. The plantar fascia does not act in isolation — it is part of a kinetic chain that includes the calf muscles, Achilles tendon, and intrinsic foot muscles. Weakness or tightness in any of these structures can overload the fascia, creating a cycle of pain and dysfunction.
 
-If you are also dealing with footwear questions, our guide on the [best shoes for plantar fasciitis](/best-shoes-for-plantar-fasciitis) covers what to look for in supportive shoes that complement your exercise routine.
+If you are also dealing with footwear questions, our guide on the best shoes for plantar fasciitis covers what to look for in supportive shoes that complement your exercise routine.
 
 ![Morning first-step plantar fasciitis pain](/images/plantar-first-step-pain.jpg)
 
@@ -308,7 +308,7 @@ Here is the five-exercise morning sequence I recommend to my patients, to be per
 
 After completing this eight-minute sequence, stand up slowly, distributing weight evenly between both feet. This routine reduces the shock of first-step loading and primes the tissues for the day ahead.
 
-For a complete approach to morning pain management, many patients combine this exercise routine with a [night splint](/plantar-fasciitis-night-splints) that holds the foot in a dorsiflexed position during sleep, preventing the fascia from contracting overnight.
+For a complete approach to morning pain management, many patients combine this exercise routine with a [night splint](/plantar-fasciitis-recovery-timeline) that holds the foot in a dorsiflexed position during sleep, preventing the fascia from contracting overnight.
 
 ![Morning towel stretch routine](/images/morning-towel-stretch.jpg)
 
@@ -323,9 +323,9 @@ There are two main types of night splints:
 - **Boot-style (dorsal or posterior):** A rigid shell that holds the ankle at 90 degrees. More effective but can be uncomfortable for side sleepers.
 - **Sock-style:** A softer, lighter option that provides gentle dorsiflexion. Better tolerated for long-term use but less aggressive in its stretch.
 
-We cover the top-rated options in our detailed [plantar fasciitis night splints guide](/plantar-fasciitis-night-splints). Pairing a night splint with the morning exercise routine described above creates a powerful one-two punch for managing heel pain.
+We cover the top-rated options in our detailed [plantar fasciitis night splints guide](/plantar-fasciitis-recovery-timeline). Pairing a night splint with the morning exercise routine described above creates a powerful one-two punch for managing heel pain.
 
-If you are wondering about the overall timeline for recovery, our article on [how long plantar fasciitis lasts](/how-long-does-plantar-fasciitis-last) breaks down what to expect at each stage of healing.
+If you are wondering about the overall timeline for recovery, our article on [how long plantar fasciitis lasts](/how-long-does-plantar-fasciitis-take-to-heal) breaks down what to expect at each stage of healing.
 
 ## When to See a Doctor
 
@@ -358,7 +358,7 @@ Stretching exercises should be performed at least two to three times per day for
 Some exercises, particularly high-load strengthening movements like heel raises, may temporarily increase pain during the first one to two weeks. This is a normal part of the tissue adaptation process. However, sharp or severe pain during an exercise is a signal to stop and modify the movement. If pain consistently worsens despite proper form, consult a healthcare professional.
 
 **How long does it take for plantar fasciitis exercises to work?**
-Most patients experience noticeable improvement within two to four weeks of consistent daily exercise. Significant relief typically occurs by the six to eight-week mark. Full resolution of symptoms may take three to six months depending on the severity and duration of the condition. Our guide on [how long plantar fasciitis lasts](/how-long-does-plantar-fasciitis-last) provides a detailed recovery timeline.
+Most patients experience noticeable improvement within two to four weeks of consistent daily exercise. Significant relief typically occurs by the six to eight-week mark. Full resolution of symptoms may take three to six months depending on the severity and duration of the condition. Our guide on [how long plantar fasciitis lasts](/how-long-does-plantar-fasciitis-take-to-heal) provides a detailed recovery timeline.
 
 **Should I stretch before or after walking with plantar fasciitis?**
 Both. Stretching before walking prepares the plantar fascia and calf muscles for the loading demands of walking, reducing the risk of micro-tears. Stretching after walking helps prevent the fascia from tightening up and reduces post-activity soreness. The seated plantar fascia stretch and standing calf stretch are particularly effective as pre- and post-walk exercises.
@@ -391,4 +391,10 @@ This article is based on peer-reviewed clinical research, established podiatric 
 
 ---
 
-*Looking for more ways to manage your plantar fasciitis? Explore our guides on [night splints for plantar fasciitis](/plantar-fasciitis-night-splints), [the best shoes for plantar fasciitis](/best-shoes-for-plantar-fasciitis), and [how long plantar fasciitis lasts](/how-long-does-plantar-fasciitis-last).*
+*Looking for more ways to manage your plantar fasciitis? Explore our guides on [night splints for plantar fasciitis](/plantar-fasciitis-recovery-timeline), the best shoes for plantar fasciitis, and [how long plantar fasciitis lasts](/how-long-does-plantar-fasciitis-take-to-heal).*
+
+
+## Visual Guide Gallery
+
+![plantar fasciitis exercises visual 1](/images/articles/best-shoes-plantar-fasciitis-anatomy-infographic.jpg)
+![plantar fasciitis exercises visual 2](/images/articles/best-shoes-plantar-fasciitis-buying-guide-chart.jpg)

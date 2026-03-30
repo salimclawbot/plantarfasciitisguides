@@ -3,7 +3,7 @@ title: "Best Plantar Fasciitis Stretches"
 meta_description: "Discover 10 proven plantar fasciitis stretches for morning relief. Step-by-step routine from a sports physiotherapist to reduce heel pain"
 slug: best-plantar-fasciitis-stretches
 datePublished: 2026-03-17
-dateModified: 2026-03-17
+dateModified: "2026-03-17"
 author: "Dr. Sarah Olsen, DPT, Sports Physiotherapist"
 faq_schema: |
   {
@@ -518,3 +518,7 @@ The patients who recover fastest are the ones who make this routine as automatic
 And remember: stretching is the foundation, but a complete recovery plan includes [proper footwear and insoles](/best-insoles-plantar-fasciitis), [targeted strengthening exercises](/plantar-fasciitis-exercises), and possibly a [night splint](/best-night-splints-plantar-fasciitis) for stubborn cases. Give your body the support it needs during the day and the gentle stretch it needs every morning, and those stabbing first steps will become a thing of the past.
 
 *Dr. Sarah Olsen is a Doctor of Physical Therapy and board-certified sports physiotherapist with over 15 years of clinical experience treating foot and ankle conditions. She has published peer-reviewed research on conservative management of plantar fasciitis and lectures nationally on evidence-based rehabilitation strategies.*
+
+
+## Visual Guide Gallery
+

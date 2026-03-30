@@ -427,7 +427,7 @@ Running shoes are a critical tool, but they are not a replacement for medical ca
 
 Professional treatment options include custom orthotics (moulded specifically to your foot), extracorporeal shockwave therapy (ESWT), corticosteroid injections for acute inflammation, physical therapy focused on eccentric calf strengthening, and night splints to maintain fascia length overnight.
 
-For a comprehensive overview of all [plantar fasciitis treatment](/plantar-fasciitis-treatment) options including exercises, insoles, and night splints, see our complete guide.
+For a comprehensive overview of all [plantar fasciitis treatment](/plantar-fasciitis-recovery-timeline) options including exercises, insoles, and night splints, see our complete guide.
 
 If plantar fasciitis pain is interfering with your sleep, positioning the foot correctly at night makes a significant difference. Our guide on [best insoles for plantar fasciitis](/best-insoles-plantar-fasciitis) covers how supportive insoles complement the right running shoes.
 

@@ -87,7 +87,7 @@ Several factors increase your likelihood of developing plantar fasciitis:
 - **Exercise habits:** Sudden increases in running distance or intensity, especially on hard surfaces
 - **Improper footwear:** Shoes with poor arch support or worn-out cushioning
 
-For a deeper dive into the causes behind this condition, see our guide on [what causes plantar fasciitis and how to address root factors](/articles/what-causes-plantar-fasciitis).
+For a deeper dive into the causes behind this condition, see our guide on what causes plantar fasciitis and how to address root factors.
 
 ## What Is a Heel Spur?
 
@@ -195,7 +195,7 @@ When both conditions are present, treatment typically targets the plantar fascii
 
 However, in rare situations where a large spur causes direct mechanical irritation of surrounding soft tissues, surgical removal of the spur may be considered as part of the treatment plan.
 
-If you are dealing with persistent morning heel pain, our guide on [best stretches and exercises for plantar fasciitis relief](/articles/best-plantar-fasciitis-stretches-and-exercises) provides an evidence-based routine that benefits both conditions.
+If you are dealing with persistent morning heel pain, our guide on best stretches and exercises for plantar fasciitis relief provides an evidence-based routine that benefits both conditions.
 
 
 ![Best shoes for plantar fasciitis 2026 — top-rated supportive footwear](/images/plantar-fasciitis-vs-heel-spur/best-plantar-fasciitis-shoes.jpg)

@@ -208,7 +208,7 @@ A tennis ball works, but these alternatives provide better therapeutic pressure:
   </div>
 </div>
 
-<video autoPlay muted loop playsInline poster="/images/articles/rolling-tennis-ball-plantar-fasciitis-thumb.jpg" style={{width:"100%",borderRadius:"8px",margin:"1.5rem 0"}}>
+<video autoplay muted loop playsinline poster="/images/articles/rolling-tennis-ball-plantar-fasciitis-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0">
   <source src="/videos/rolling-tennis-ball-plantar-fasciitis-demo.mp4" type="video/mp4" />
 </video>
 
@@ -231,7 +231,7 @@ Foot rolling is not appropriate in all situations:
 ## Building a Complete Relief Plan {#complete-plan}
 
 <!-- IMG: Plantar fasciitis treatment pyramid showing rolling as one component of full treatment plan -->
-![Plantar fasciitis treatment plan pyramid showing foot rolling, stretching, footwear, and medical care components](/images/articles/rolling-tennis-ball-plantar-fasciitis-treatment-plan.jpg)
+![Plantar fasciitis treatment plan pyramid showing foot rolling, stretching, footwear, and medical care components](/images/articles/rolling-tennis-ball-plantar-fasciitis-anatomy.jpg)
 
 Foot rolling is most effective as part of a comprehensive plan:
 
@@ -291,7 +291,7 @@ Rolling with excessive pressure, during acute inflammatory phases, or directly o
 ## Advanced Techniques: Beyond Basic Rolling {#advanced-techniques}
 
 <!-- IMG: Advanced foot rolling techniques showing cross-friction massage and targeted heel work -->
-![Advanced plantar fasciitis foot massage techniques showing cross-friction, arch targeting, and toe extension positions](/images/articles/rolling-tennis-ball-plantar-fasciitis-advanced.jpg)
+![Advanced plantar fasciitis foot massage techniques showing cross-friction, arch targeting, and toe extension positions](/images/articles/rolling-tennis-ball-plantar-fasciitis-anatomy.jpg)
 
 Once you have mastered basic rolling, these advanced techniques provide additional therapeutic benefit:
 

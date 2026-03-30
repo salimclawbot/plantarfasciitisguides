@@ -375,8 +375,8 @@ All products featured in this guide were evaluated based on published clinical e
 
 ## Visual Guide Gallery
 
-![plantar fasciitis treatment guide visual 1](/images/articles/night-splints-plantar-fasciitis-treatment-infographic.jpg)
-![plantar fasciitis treatment guide visual 2](/images/articles/plantar-fasciitis-treatment-pyramid.jpg)
-![plantar fasciitis treatment guide visual 3](/images/articles/night-splints-plantar-fasciitis-treatment-infographic.jpg)
-![plantar fasciitis treatment guide visual 4](/images/articles/plantar-fasciitis-treatment-pyramid.jpg)
-![plantar fasciitis treatment guide visual 5](/images/articles/night-splints-plantar-fasciitis-treatment-infographic.jpg)
+![plantar fasciitis guides visual 1](/images/articles/best-shoes-plantar-fasciitis-anatomy-infographic.jpg)
+![plantar fasciitis guides visual 2](/images/articles/best-shoes-plantar-fasciitis-buying-guide-chart.jpg)
+![plantar fasciitis guides visual 3](/images/articles/best-shoes-plantar-fasciitis-comparison-infographic.jpg)
+![plantar fasciitis guides visual 4](/images/articles/best-shoes-plantar-fasciitis-hero.jpg)
+![plantar fasciitis guides visual 5](/images/articles/best-shoes-plantar-fasciitis-product-1.jpg)
