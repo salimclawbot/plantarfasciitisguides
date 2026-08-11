@@ -38,10 +38,10 @@ function TableOfContents({ items }: { items: TocItem[] }) {
 
 function InternalLinks() {
   const related = [
-    { label: "Best Shoes for Plantar Fasciitis", slug: "best-shoes-for-plantar-fasciitis" },
-    { label: "Plantar Fasciitis Stretches for Better Mornings", slug: "plantar-fasciitis-stretches-guide" },
-    { label: "Insoles and Arch Support", slug: "best-arch-support-orthotics" },
-    { label: "Plantar Fasciitis Recovery Checklist", slug: "plantar-fasciitis-recovery-checklist" },
+    { label: "Best Shoes for Plantar Fasciitis", slug: "best-shoes-plantar-fasciitis" },
+    { label: "Plantar Fasciitis Stretches for Better Mornings", slug: "best-plantar-fasciitis-stretches" },
+    { label: "Insoles and Arch Support", slug: "best-insoles-plantar-fasciitis" },
+    { label: "Plantar Fasciitis Recovery Timeline", slug: "plantar-fasciitis-recovery-timeline" },
   ];
 
   return (
