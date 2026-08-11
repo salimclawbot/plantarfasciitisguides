@@ -19,8 +19,6 @@ twitter_card: "summary_large_image"
 
 By Plantar Fasciitis Guides Editorial Team
 
-# Plantar Fasciitis Exercises: 10-Minute Morning Routine for Heel Pain Relief
-
 **Starting your day with these targeted exercises is the single most effective thing you can do for plantar fasciitis pain. The morning is when heel pain is most severe — a gentle 10-minute routine pre-loads the plantar fascia, reduces inflammation, and sets you up for a less painful day. Do these exercises before your foot hits the floor.**
 
 ---

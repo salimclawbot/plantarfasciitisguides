@@ -16,8 +16,6 @@ og_image: "/images/articles/plantar-fasciitis-recovery-timeline.jpg"
 twitter_card: "summary_large_image"
 ---
 
-# Plantar Fasciitis and Weight: The Link Explained (2026)
-
 **Every pound of body weight translates to approximately 1.5 times that force transmitted through the foot with each step. That simple mechanical reality is why body weight is consistently identified as the single most influential modifiable risk factor in plantar fasciitis development, symptom severity, and treatment response. The connection is not theoretical — it is biomechanical, measurable, and clinically documented across dozens of peer-reviewed studies.**
 
 If you are living with heel pain and carrying extra weight, understanding this relationship is not just helpful — it may be the most important thing you address in your recovery plan. This guide explains exactly how body weight affects your plantar fascia, what the research says, and what you can do today to reduce pain and support lasting recovery.

@@ -16,8 +16,6 @@ tags:
   - how long does plantar fasciitis last
 ---
 
-# How Long Does Plantar Fasciitis Take to Heal? (Timeline + Tips)
-
 <video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/how-long-does-plantar-fasciitis-take-to-heal-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/how-long-does-plantar-fasciitis-take-to-heal-demo.mp4" type="video/mp4">
 </video>

@@ -7,10 +7,6 @@ author: "Plantar Fasciitis Guides Editorial Team"
 image: '/images/plantar-fasciitis-vs-heel-spur-hero.jpg'
 ---
 
-# Plantar Fasciitis vs Heel Spur: What Is the Difference?
-
-
-
 ![Plantar Fasciitis Vs Heel Spur — top picks for 2026](/images/plantar-fasciitis-vs-heel-spur/heel-spur-xray.jpg)
 
 **Plantar fasciitis is inflammation of the thick band of tissue (the plantar fascia) running along the bottom of your foot, causing stabbing heel pain — especially with your first morning steps. A heel spur is a bony calcium deposit that forms on the underside of the calcaneus (heel bone), often as a result of prolonged plantar fasciitis. While they frequently occur together, they are distinct conditions with different causes, diagnostic findings, and treatment approaches.**

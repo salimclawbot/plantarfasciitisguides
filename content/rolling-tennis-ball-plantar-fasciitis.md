@@ -10,8 +10,6 @@ category: "Plantar Fasciitis"
 
 *This post contains affiliate links. We may earn a commission at no extra cost to you.*
 
-# Rolling a Tennis Ball for Plantar Fasciitis: Does It Help?
-
 **By Sarah Mitchell, Certified Ergonomics Consultant** | Last updated March 2026
 
 **Rolling a tennis ball under the foot provides mild plantar fascia massage that can reduce morning stiffness and improve circulation to the fascia. The technique works — but a tennis ball is softer than ideal for deep myofascial release. This guide covers the correct technique, the evidence behind foot rolling, when a tennis ball is adequate, and when to upgrade to a firmer tool for better results.**

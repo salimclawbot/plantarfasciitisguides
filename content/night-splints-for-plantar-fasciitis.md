@@ -7,8 +7,6 @@ datePublished: "2026-03-21"
 dateModified: "2026-03-21"
 ---
 
-# Night Splints for Plantar Fasciitis: Do They Work?
-
 By Plantar Fasciitis Guides Editorial Team
 
 *This article is for informational purposes only. Consult a healthcare provider for diagnosis and treatment.*

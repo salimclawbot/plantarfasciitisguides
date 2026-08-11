@@ -6,8 +6,6 @@ datePublished: '2026-03-24'
 dateModified: '2026-03-24'
 ---
 
-# Can Plantar Fasciitis Be Permanent? (What the Research Says)
-
 **Plantar fasciitis is rarely permanent. Research consistently shows that 80–90% of patients recover fully within 12 months of conservative treatment. The remaining 10–20% develop chronic plantar fasciitis — defined as symptoms lasting beyond 6–12 months — but even these stubborn cases respond to advanced treatments. True lifelong plantar fasciitis is extremely uncommon.**
 
 By Plantar Fasciitis Guides Editorial Team

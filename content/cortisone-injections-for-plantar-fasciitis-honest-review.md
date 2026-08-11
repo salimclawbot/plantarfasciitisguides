@@ -69,8 +69,6 @@ faq:
     answer: "Most guidelines recommend exhausting conservative treatments for 6-12 months before considering cortisone injections. First-line treatments include rest, ice, stretching exercises, supportive footwear, custom orthotics, physical therapy, and night splints. If these fail, injections become a reasonable next step before considering more invasive options like shockwave therapy or surgery."
 ---
 
-# Cortisone Injections for Plantar Fasciitis: Honest Review
-
 **Featured Snippet:** Cortisone injections for plantar fasciitis provide short-to-medium term pain relief for approximately 70-80% of patients, but carry significant risks including plantar fascia rupture, fat pad atrophy, and nerve damage. They are most effective when used conservatively (2-3 per year maximum) as part of a broader treatment plan that addresses underlying causes through stretching, physical therapy, and supportive footwear.
 
 !Plantar Fasciitis Anatomy

@@ -2,8 +2,6 @@
 
 *This post contains affiliate links. We may earn a commission at no extra cost to you.*
 
-# Best Running Shoes for Plantar Fasciitis (2026)
-
 **By Sarah Mitchell, Certified Ergonomics Consultant** | Last updated March 2026
 
 **The best running shoes for plantar fasciitis combine structured arch support, deep heel cushioning, and a moderate heel drop (8–12mm) to reduce strain on the plantar fascia during every stride. Our top pick for 2026 is the ASICS Gel-Kayano 31 for stability runners and the HOKA Bondi 8 for neutral runners who need maximum cushioning.**

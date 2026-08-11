@@ -6,6 +6,7 @@ import { notFound } from "next/navigation";
 import { getArticle, getAllSlugs } from "@/lib/articles";
 import { isIndexableContentSlug } from "@/lib/content-index-policy";
 import {
+  normalizeMetaDescription,
   buildKeywords,
   normalizeArticleHtml,
   normalizeMetaTitle,
@@ -90,13 +91,13 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   return {
     title,
-    description: article.description,
+    description: normalizeMetaDescription(article.description, article.title),
     keywords: buildKeywords(article.title, article.category),
     robots: isIndexableContentSlug(article.slug) ? { index: true, follow: true } : { index: false, follow: true },
     alternates: { canonical: `https://plantarfasciitisguides.com/${article.slug}` },
     openGraph: {
       title,
-      description: article.description,
+      description: normalizeMetaDescription(article.description, article.title),
       url: `https://plantarfasciitisguides.com/${article.slug}`,
       images: [{ url: `https://plantarfasciitisguides.com/editorial-hero.png`, width: 1200, height: 630, alt: title }],
       type: "article",
@@ -105,7 +106,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     twitter: {
       card: "summary_large_image",
       title,
-      description: article.description,
+      description: normalizeMetaDescription(article.description, article.title),
       images: ["https://plantarfasciitisguides.com/editorial-hero.png"],
     },
   };
@@ -125,7 +126,7 @@ export default async function ArticlePage({ params }: PageProps) {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: article.title,
-    description: article.description,
+    description: normalizeMetaDescription(article.description, article.title),
   };
 
   return (

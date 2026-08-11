@@ -18,7 +18,7 @@ primary_topic: plantar fasciitis
 amazon_tag: "tag=plantarfasciitisg-20"
 ---
 
-# Best Sandals for Plantar Fasciitis (2026)
+![Supportive sandal styles showing cushioned footbeds, adjustable straps, heel cups, and arch support](/images/articles/plantar-supportive-sandals-hero.png)
 
 **Wearing the wrong sandals can turn a walk into hours of heel pain. If you have plantar fasciitis, the sandals you choose are part of your treatment — not a cosmetic decision. The right pair cushions your heel, supports your arch, and reduces the strain keeping your fascia inflamed. These are the best sandals for plantar fasciitis in 2026.**
 
