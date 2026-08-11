@@ -404,7 +404,7 @@ export default function RecoveryTrackerPage() {
               <a href="/best-shoes-for-plantar-fasciitis" className="block text-blue-600 hover:text-blue-800 hover:underline font-medium">
                 Best Shoes for Plantar Fasciitis in 2026 &rarr;
               </a>
-              <a href="/plantar-fasciitis-stretches" className="block text-blue-600 hover:text-blue-800 hover:underline font-medium">
+              <a href="/best-plantar-fasciitis-stretches" className="block text-blue-600 hover:text-blue-800 hover:underline font-medium">
                 The 5 Best Plantar Fasciitis Stretches for Fast Relief &rarr;
               </a>
               <a href="/best-plantar-fasciitis-stretches" className="block text-blue-600 hover:text-blue-800 hover:underline font-medium">

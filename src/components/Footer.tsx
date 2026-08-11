@@ -17,8 +17,12 @@ export default function Footer() {
           </ul>
         </div>
         <div>
-          <p className="font-semibold text-slate-900">Contact</p>
-          <p className="mt-2">hello@plantarfasciitisguides.com</p>
+          <p className="font-semibold text-slate-900">Info</p>
+          <ul className="mt-2 space-y-1">
+            <li><Link href="/about" className="hover:text-blue-700">About</Link></li>
+            <li><Link href="/contact" className="hover:text-blue-700">Contact</Link></li>
+            <li><Link href="/editorial-guidelines" className="hover:text-blue-700">Editorial Guidelines</Link></li>
+          </ul>
         </div>
       </div>
       <div className="border-t border-blue-100 py-4 text-center text-xs text-slate-500">© {new Date().getFullYear()} Plantar Fasciitis Guides</div>

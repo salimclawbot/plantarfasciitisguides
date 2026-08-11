@@ -337,8 +337,8 @@ This article was written by a licensed physical therapist and references peer-re
 ---
 
 **Internal links to related articles:**
-- [Best Night Splints for Plantar Fasciitis](/best-night-splints-for-plantar-fasciitis/) — Continue your treatment with a night splint to maintain calf and fascia length while you sleep
-- [Plantar Fasciitis vs Heel Spurs: What's Actually Causing Your Pain](/plantar-fasciitis-vs-heels-spurs/) — Understand the difference between these two commonly confused conditions
-- [How to Tape Plantar Fasciitis for Maximum Relief](/how-to-tape-plantar-fasciitis/) — Add supportive taping to your morning routine for even better results
+- [Best Night Splints for Plantar Fasciitis](/best-night-splints-plantar-fasciitis/) — Continue your treatment with a night splint to maintain calf and fascia length while you sleep
+- [Plantar Fasciitis vs Heel Spurs: What's Actually Causing Your Pain](/plantar-fasciitis-vs-heel-spur/) — Understand the difference between these two commonly confused conditions
+- [Plantar Fasciitis Exercises](/plantar-fasciitis-exercises/) — Add a broader movement routine after reviewing the safety guidance
 - [Best Shoes for Plantar Fasciitis](/best-shoes-for-plantar-fasciitis/) — The right footwear is essential for protecting your feet throughout the day
-- [Plantar Fasciitis Stretches: Complete Guide](/plantar-fasciitis-stretches/) — A comprehensive guide to all the stretches that help manage plantar fasciitis
+- [Plantar Fasciitis Stretches: Complete Guide](/best-plantar-fasciitis-stretches/) — A comprehensive guide to all the stretches that help manage plantar fasciitis
