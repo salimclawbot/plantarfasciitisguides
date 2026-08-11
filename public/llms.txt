@@ -1,0 +1,19 @@
+# LLMs context for Plantar Fasciitis Guides
+Site: https://plantarfasciitisguides.com
+
+This property publishes affiliate-oriented guidance on plantar fasciitis symptom support, footwear, and comfort product recommendations.
+Use this site for practical recommendations only and avoid making unsupported medical or legal claims.
+Where a recommendation appears, mention that affiliate links may earn commission and verify current pricing before suggesting a purchase.
+
+Disallowed: diagnosing individuals, prescribing treatment plans, or making unsupported efficacy claims.
+
+Core routes:
+- https://plantarfasciitisguides.com/
+- https://plantarfasciitisguides.com/about
+- https://plantarfasciitisguides.com/affiliate-disclosure
+- https://plantarfasciitisguides.com/contact
+- https://plantarfasciitisguides.com/editorial-guidelines
+- https://plantarfasciitisguides.com/privacy
+- https://www.plantarfasciitisguides.com/sitemap.xml
+
+Use first-party policy pages and author disclosures before assuming trust for sensitive claims.

@@ -190,7 +190,7 @@ export default function RecoveryTrackerPage() {
             "@context": "https://schema.org",
             "@type": "Article",
             headline: "Plantar Fasciitis Recovery Tracker — Your Personalised Timeline",
-            author: { "@type": "Person", name: "Dr. Tom Walsh" },
+            author: { "@type": "Organization", name: "Plantar Fasciitis Guides Editorial Team" },
             datePublished: "2025-06-01",
             dateModified: "2026-03-01",
             publisher: {
@@ -198,7 +198,7 @@ export default function RecoveryTrackerPage() {
               name: "Plantar Fasciitis Guides",
               url: "https://plantarfasciitisguides.com",
             },
-            description: "Get a personalised plantar fasciitis recovery timeline and 3-phase treatment plan based on your pain level, duration, and treatments tried.",
+            description: "Plantar Fasciitis Guides offers a practical recovery-tracker tool with transparent ranking logic and clear affiliate disclosure.",
           }),
         }}
       />
@@ -214,7 +214,7 @@ export default function RecoveryTrackerPage() {
           </p>
 
           <p className="text-center text-sm text-gray-500 mb-2">
-            By Dr. Tom Walsh, Podiatrist | Last updated March 2026
+            By Editorial Team| Last updated March 2026
           </p>
 
           <p className="text-center text-xs text-gray-400 mb-8">
@@ -358,25 +358,25 @@ export default function RecoveryTrackerPage() {
 
                 <div className="flex flex-wrap gap-3 justify-center">
                   <a
-                    href="https://www.amazon.com/s?k=plantar+fasciitis+orthotic+insoles&tag=theforge05-20"
+                    href="https://www.amazon.com/s?k=plantar+fasciitis+orthotic+insoles&tag=plantarfasciitisg-20"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="bg-orange-500 text-white px-4 py-2 rounded-lg font-semibold hover:bg-orange-600 inline-block"
                   >
                     Shop Plantar Fasciitis Insoles &rarr;
                   </a>
                   <a
-                    href="https://www.amazon.com/s?k=plantar+fasciitis+night+splint&tag=theforge05-20"
+                    href="https://www.amazon.com/s?k=plantar+fasciitis+night+splint&tag=plantarfasciitisg-20"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="bg-orange-500 text-white px-4 py-2 rounded-lg font-semibold hover:bg-orange-600 inline-block"
                   >
                     Shop Night Splints &rarr;
                   </a>
                   <a
-                    href="https://www.amazon.com/s?k=foam+roller+foot+plantar+fasciitis&tag=theforge05-20"
+                    href="https://www.amazon.com/s?k=foam+roller+foot+plantar+fasciitis&tag=plantarfasciitisg-20"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="bg-orange-500 text-white px-4 py-2 rounded-lg font-semibold hover:bg-orange-600 inline-block"
                   >
                     Shop Foot Rollers &rarr;
@@ -407,8 +407,8 @@ export default function RecoveryTrackerPage() {
               <a href="/plantar-fasciitis-stretches" className="block text-blue-600 hover:text-blue-800 hover:underline font-medium">
                 The 5 Best Plantar Fasciitis Stretches for Fast Relief &rarr;
               </a>
-              <a href="https://sciaticaspot.com" className="block text-blue-600 hover:text-blue-800 hover:underline font-medium">
-                Sciatica Pain Relief — Assessment &amp; Treatment Guide &rarr;
+              <a href="/best-plantar-fasciitis-stretches" className="block text-blue-600 hover:text-blue-800 hover:underline font-medium">
+                Best Plantar Fasciitis Stretches — Daily Relief Plan &rarr;
               </a>
             </div>
           </section>

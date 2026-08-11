@@ -2,27 +2,31 @@ import Script from 'next/script';
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
+import AffiliateClickTracker from "@/components/AffiliateClickTracker";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: { default: "Plantar Fasciitis Guides — Best Shoes, Insoles & Treatments (2026)", template: "%s | Plantar Fasciitis Guides" },
-  description: "Expert plantar fasciitis guides, best shoe reviews and treatment advice from podiatrists for 2026.",
+  title: { default: "Plantar Fasciitis Guides", template: "%s | Plantar Fasciitis Guides" },
+  description:
+    "Expert plantar fasciitis guides, shoe and insole recommendations, and treatment-focused comparison reviews from podiatrists and movement experts.",
   metadataBase: new URL("https://plantarfasciitisguides.com"),
   alternates: { canonical: "https://plantarfasciitisguides.com" },
   openGraph: {
     siteName: "Plantar Fasciitis Guides",
     type: "website",
-    title: "Plantar Fasciitis Guides — Best Shoes, Insoles & Treatments (2026)",
-    description: "Expert plantar fasciitis guides, best shoe reviews and treatment advice from podiatrists for 2026.",
+    title: "Plantar Fasciitis Guides — Shoes, Insoles & Treatment (2026)",
+    description:
+      "Expert plantar fasciitis guides, shoe and insole recommendations, and treatment-focused comparison reviews from podiatrists and movement experts.",
     url: "https://plantarfasciitisguides.com",
-    images: [{ url: "https://plantarfasciitisguides.com/og-image.jpg", width: 1200, height: 630, alt: "Plantar Fasciitis Guides — Best Shoes, Insoles & Treatments (2026)" }],
+    images: [{ url: "https://plantarfasciitisguides.com/editorial-hero.png", width: 1200, height: 630, alt: "Plantar Fasciitis Guides — Best Shoes, Insoles & Treatments (2026)" }],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Plantar Fasciitis Guides — Best Shoes, Insoles & Treatments (2026)",
-    description: "Expert plantar fasciitis guides, best shoe reviews and treatment advice from podiatrists for 2026.",
-    images: ["https://plantarfasciitisguides.com/og-image.jpg"],
+    title: "Plantar Fasciitis Guides — Shoes, Insoles & Treatment (2026)",
+    description:
+      "Expert plantar fasciitis guides, shoe and insole recommendations, and treatment-focused comparison reviews from podiatrists and movement experts.",
+    images: ["https://plantarfasciitisguides.com/editorial-hero.png"],
   },
 };
 
@@ -91,8 +95,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               return (
                 value.includes('amazon.com') ||
                 value.includes('amzn.to') ||
-                value.includes('tag=theforge05-20') ||
-                value.includes('tag=doublefury-22')
+                value.includes('tag=plantarfasciitisg-20') ||
+                value.includes('tag=plantarfasciitisg-20')
               );
             };
 
@@ -177,6 +181,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           })();
         `}</Script>
 
+        <AffiliateClickTracker />
       </body>
     </html>
   );

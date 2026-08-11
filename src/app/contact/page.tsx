@@ -1,4 +1,30 @@
-export const metadata = { title: "Contact", alternates: { canonical: "https://plantarfasciitisguides.com/contact" } };
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Contact",
+  description: "Plantar Fasciitis Guides is here to help with buying guidance, content requests, and practical affiliate support updates.",
+  alternates: { canonical: "https://plantarfasciitisguides.com/contact" },
+  openGraph: {
+    title: "Contact",
+    description: "Plantar Fasciitis Guides is here to help with buying guidance, content requests, and practical affiliate support updates.",
+    url: "https://plantarfasciitisguides.com/contact",
+    siteName: "Plantar Fasciitis Guides",
+    type: "website",
+    images: [
+      {
+        url: "https://plantarfasciitisguides.com/editorial-hero.png",
+        width: 1200,
+        height: 630,
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Contact",
+    description: "Plantar Fasciitis Guides is here to help with buying guidance, content requests, and practical affiliate support updates.",
+    images: ["https://plantarfasciitisguides.com/editorial-hero.png"],
+  },
+};
 
 export default function ContactPage() {
   return (

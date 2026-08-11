@@ -2,12 +2,10 @@
 title: "Plantar Fasciitis Taping Guide: Step-by-Step Instructions for Relief (2026)"
 slug: "plantar-fasciitis-taping-guide"
 meta_description: "Step-by-step plantar fasciitis taping guide by a podiatrist. Learn KT tape, athletic tape & low-Dye techniques with 5 top products for heel pain relief."
-author: "Dr. Lisa P., Podiatrist"
+author: "Plantar Fasciitis Guides Editorial Team"
 date: "2026-03-28"
 dateModified: "2026-03-29"
 category: "Plantar Fasciitis"
-faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Does taping actually help plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"Yes. Clinical studies show that plantar fasciitis taping significantly reduces pain and improves function. A 2014 randomised controlled trial found that low-Dye taping reduced plantar fascia strain by up to 34% during walking. Taping works by mechanically supporting the arch, reducing tensile load on the fascia, and limiting excessive pronation."}},{"@type":"Question","name":"How long should I wear plantar fasciitis tape?","acceptedAnswer":{"@type":"Answer","text":"Athletic rigid tape (low-Dye) should be removed after 3–5 days or when it begins to peel or cause skin irritation. Kinesiology tape is designed for 3–5 days of continuous wear. Never leave any tape on for more than 7 days."}},{"@type":"Question","name":"What is the best type of tape for plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"The two main options are rigid athletic tape (for the low-Dye technique) and kinesiology tape (KT Tape, RockTape). Rigid tape provides maximum support for acute flares. Kinesiology tape offers lighter support with more flexibility for daily use."}},{"@type":"Question","name":"Can I apply plantar fasciitis tape myself?","acceptedAnswer":{"@type":"Answer","text":"Yes. Both kinesiology tape and the basic low-Dye wrap can be self-applied after practice. Start with kinesiology tape if you are taping yourself for the first time."}},{"@type":"Question","name":"Should I tape before or after exercise?","acceptedAnswer":{"@type":"Answer","text":"Apply plantar fasciitis tape 30–60 minutes before exercise to allow the adhesive to fully bond to the skin. Do not apply tape immediately after showering — wait until the skin is completely dry."}},{"@type":"Question","name":"Which taping method is best — low-Dye or KT Tape?","acceptedAnswer":{"@type":"Answer","text":"Low-Dye taping provides superior mechanical support for acute plantar fasciitis. KT Tape is more comfortable for all-day wear and ongoing daily management. Most podiatrists recommend low-Dye for acute pain and KT Tape for daily use."}},{"@type":"Question","name":"Can taping plantar fasciitis replace orthotics?","acceptedAnswer":{"@type":"Answer","text":"Taping can temporarily replicate some support provided by orthotics, but it is not a permanent replacement. The ideal approach combines taping for acute pain management with orthotics for long-term prevention."}}]}'
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Plantar Fasciitis Taping Guide: Step-by-Step Instructions for Relief (2026)","description":"A podiatrist-written step-by-step guide to plantar fasciitis taping techniques including low-Dye, kinesiology tape, and heel lock methods with product reviews.","author":{"@type":"Person","name":"Dr. Lisa P.","jobTitle":"Podiatrist"},"publisher":{"@type":"Organization","name":"Plantar Fasciitis Guides","url":"https://plantarfasciitisguides.com","logo":{"@type":"ImageObject","url":"https://plantarfasciitisguides.com/images/logo.png"}},"datePublished":"2026-03-28","dateModified":"2026-03-29","mainEntityOfPage":{"@type":"WebPage","@id":"https://plantarfasciitisguides.com/plantar-fasciitis-taping-guide"},"image":["https://plantarfasciitisguides.com/images/articles/plantar-fasciitis-taping-guide-hero.jpg","https://plantarfasciitisguides.com/images/articles/plantar-fasciitis-taping-step-by-step-infographic.jpg"]}'
 og_image: "https://plantarfasciitisguides.com/images/articles/plantar-fasciitis-taping-guide-hero.jpg"
 og_title: "Plantar Fasciitis Taping Guide (Step-by-Step) — Podiatrist Method"
 og_description: "Podiatrist-written step-by-step taping guide for plantar fasciitis. Learn low-Dye, KT Tape & heel lock techniques with our top 5 product picks."
@@ -19,11 +17,11 @@ twitter_image: "https://plantarfasciitisguides.com/images/articles/plantar-fasci
 
 # Plantar Fasciitis Taping Guide: Step-by-Step Instructions for Relief (2026)
 
-**By Dr. Lisa P., Podiatrist** | Last updated March 2026
+By Plantar Fasciitis Guides Editorial Team
 
 **Taping is one of the fastest ways to reduce plantar fasciitis pain — clinical evidence shows it can cut arch strain by up to 34% in a single application. This guide covers the two most effective taping techniques (low-Dye and kinesiology), five top-rated tape products, and a complete step-by-step method you can apply yourself at home.**
 
-<a href="https://www.amazon.com/s?k=KT+Tape+Pro+kinesiology&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener" style="display:inline-block;margin:1rem 0;text-align:center;background:#0d9488;color:#fff;padding:0.75rem 1.5rem;border-radius:8px;text-decoration:none;font-weight:600;font-size:1rem;">Shop Top Taping Products on Amazon →</a>
+<a href="https://www.amazon.com/s?k=KT+Tape+Pro+kinesiology&tag=plantarfasciitisg-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored" style="display:inline-block;margin:1rem 0;text-align:center;background:#0d9488;color:#fff;padding:0.75rem 1.5rem;border-radius:8px;text-decoration:none;font-weight:600;font-size:1rem;">Shop Top Taping Products on Amazon →</a>
 
 ![Podiatrist demonstrating plantar fasciitis taping technique on foot with kinesiology tape](/images/articles/plantar-fasciitis-taping-guide-hero.jpg)
 <figcaption>Proper taping technique can reduce plantar fascia strain by up to 34% — significantly cutting heel pain during daily activity and sport.</figcaption>
@@ -132,7 +130,7 @@ Stand and take a few steps. The tape should feel supportive under the arch but n
 
 Kinesiology tape (commonly called KT Tape) is the most practical option for most people with plantar fasciitis. It is lightweight, flexible, water-resistant, and can be self-applied in minutes. The technique below uses three strips — suitable for beginners.
 
-<video autoplay muted loop playsinline poster="/images/articles/plantar-fasciitis-taping-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;"><source src="/videos/plantar-fasciitis-taping-guide-demo.mp4" type="video/mp4"></video>
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/plantar-fasciitis-taping-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;"><source src="/videos/plantar-fasciitis-taping-guide-demo.mp4" type="video/mp4"></video>
 
 **What you need:**
 - Kinesiology tape (KT Tape Pro, RockTape, Hampton Adams, or Sparthos — see product section below)
@@ -212,7 +210,7 @@ Not all tape is created equal. These are the five products I recommend most in c
       <p><strong>Pre-cut strips:</strong> Yes (20 strips per box)</p>
       <p><strong>Water resistant:</strong> Yes</p>
       <p><strong>Best for:</strong> All-day wear, athletes, beginners</p>
-      <a href="https://www.amazon.com/s?k=KT+Tape+Pro+kinesiology&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=KT+Tape+Pro+kinesiology&tag=plantarfasciitisg-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check Price on Amazon →</a>
     </div>
   </div>
 
@@ -226,7 +224,7 @@ Not all tape is created equal. These are the five products I recommend most in c
       <p><strong>Width:</strong> 1.5 inches (38mm)</p>
       <p><strong>Water resistant:</strong> Moderate</p>
       <p><strong>Best for:</strong> Low-Dye technique, maximum support</p>
-      <a href="https://www.amazon.com/s?k=Mueller+Athletic+Tape+white&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=Mueller+Athletic+Tape+white&tag=plantarfasciitisg-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check Price on Amazon →</a>
     </div>
   </div>
 
@@ -240,7 +238,7 @@ Not all tape is created equal. These are the five products I recommend most in c
       <p><strong>Pre-cut strips:</strong> No (roll, cut to length)</p>
       <p><strong>Water resistant:</strong> Yes (sweat-resistant formula)</p>
       <p><strong>Best for:</strong> Runners, high-sweat environments, long events</p>
-      <a href="https://www.amazon.com/s?k=RockTape+kinesiology+tape&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=RockTape+kinesiology+tape&tag=plantarfasciitisg-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check Price on Amazon →</a>
     </div>
   </div>
 
@@ -254,7 +252,7 @@ Not all tape is created equal. These are the five products I recommend most in c
       <p><strong>Pre-cut strips:</strong> No (bulk roll)</p>
       <p><strong>Water resistant:</strong> Yes</p>
       <p><strong>Best for:</strong> Daily retaping, budget-conscious users</p>
-      <a href="https://www.amazon.com/s?k=Hampton+Adams+kinesiology+tape&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=Hampton+Adams+kinesiology+tape&tag=plantarfasciitisg-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check Price on Amazon →</a>
     </div>
   </div>
 
@@ -268,7 +266,7 @@ Not all tape is created equal. These are the five products I recommend most in c
       <p><strong>Pre-cut strips:</strong> No (roll)</p>
       <p><strong>Water resistant:</strong> Yes</p>
       <p><strong>Best for:</strong> Sensitive skin, everyday wear, warmer climates</p>
-      <a href="https://www.amazon.com/s?k=Sparthos+kinesiology+tape&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=Sparthos+kinesiology+tape&tag=plantarfasciitisg-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check Price on Amazon →</a>
     </div>
   </div>
 </div>
@@ -477,6 +475,6 @@ Taping can temporarily replicate some of the mechanical support provided by orth
 
 ---
 
-**About the Author**
 
-Dr. Lisa P. is a Doctor of Podiatric Medicine (DPM) specializing in lower extremity biomechanics and conservative management of chronic foot conditions. With over 10 years of clinical experience treating plantar fasciitis, Dr. Lisa P. has helped thousands of patients recover using evidence-based taping techniques, orthotic therapy, and targeted rehabilitation programs. She is a member of the American Podiatric Medical Association (APMA) and consults regularly for Plantar Fasciitis Guides to ensure clinical accuracy in all content.
+
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.

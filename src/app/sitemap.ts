@@ -1,8 +1,9 @@
 import { MetadataRoute } from "next";
 import { getAllSlugs } from "@/lib/articles";
+import { isIndexableContentSlug } from "@/lib/content-index-policy";
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://plantarfasciitisguides.com";
-  const slugs = getAllSlugs();
+  const slugs = getAllSlugs().filter(isIndexableContentSlug);
   return [
     ...["", "about", "contact", "privacy", "affiliate-disclosure"].map((p) => ({
       url: `${baseUrl}/${p}`, lastModified: "2026-03-23", changeFrequency: "monthly" as const, priority: p === "" ? 1.0 : 0.5,

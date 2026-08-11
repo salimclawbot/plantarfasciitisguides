@@ -207,5 +207,4 @@ Use caution. Air fryer toaster ovens vent hot air, usually from the top or rear,
 
 ---
 
-*Sarah Kim is a kitchen appliance reviewer and recipe developer at Air Fryer Oven Guide. She has tested over 60 air fryers and toaster ovens since 2021. This article was last updated on March 10, 2026.*
-```
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.

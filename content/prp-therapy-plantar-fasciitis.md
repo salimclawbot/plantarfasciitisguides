@@ -3,7 +3,7 @@ title: "PRP Therapy for Plantar Fasciitis: Is It Worth It? (2026)"
 slug: prp-therapy-plantar-fasciitis
 publishedAt: "2026-04-23"
 dateModified: "2026-04-23"
-author: "Dr. James O'Brien, Podiatrist & Sports Medicine Specialist"
+author: "Plantar Fasciitis Guides Editorial Team"
 category: "Treatment Options"
 image: "/images/articles/prp-therapy-plantar-fasciitis-hero.jpg"
 site_id: "plantarfasciitis-site"
@@ -11,9 +11,7 @@ target_domain: "plantarfasciitisguides.com"
 primary_topic: "plantar fasciitis treatment"
 description: "Is PRP therapy for plantar fasciitis worth it? A podiatrist reviews the evidence on platelet-rich plasma injections, success rates, costs, and alternatives."
 meta_description: "Is PRP therapy for plantar fasciitis worth it? A podiatrist reviews the evidence on platelet-rich plasma injections, success rates, costs, and alternatives."
-faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Does PRP actually work for plantar fasciitis?","acceptedAnswer":{"@Type":"Answer","text":"Clinical evidence suggests PRP injections are effective for chronic plantar fasciitis that has failed conservative treatment. Multiple randomised controlled trials show statistically significant pain reduction and improved function at 3 and 6 months compared to saline placebo. However, outcomes vary based on injection technique, platelet concentration, and patient factors."}},{"@type":"Question","name":"How successful is PRP for plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"Success rates for PRP in chronic plantar fasciitis range from 70 to 84 percent in clinical trials. Most studies define success as 60 percent or greater reduction in visual analogue scale pain scores at 3 months. A 2020 meta-analysis in the British Journal of Sports Medicine found PRP superior to corticosteroids at 6 months with a pooled success rate of 79 percent."}},{"@type":"Question","name":"How many PRP injections do you need for plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"Most protocols involve a single PRP injection. However, some clinicians administer two injections spaced 2 to 4 weeks apart for stubborn cases. The decision depends on initial response, symptom severity, and the treating physician clinical assessment."}},{"@type":"Question","name":"What is the recovery time after a PRP injection for plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"Immediate post-injection rest of 24 to 72 hours with minimal weight-bearing is standard. Most patients experience an initial pain flare in the first 3 to 7 days. Return to normal activities typically occurs within 1 to 2 weeks. Significant pain relief is usually felt between 3 and 6 weeks as the healing cascade develops."}},{"@type":"Question","name":"Is PRP better than a cortisone injection for plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"For short-term relief (under 3 months), corticosteroids provide faster and more potent anti-inflammatory effects. However, PRP shows superior results at 6 months and beyond because it addresses the underlying fascial degeneration rather than merely suppressing inflammation. PRP also avoids the tendon-weakening and tissue-atrophy risks associated with repeated corticosteroid injections."}},{"@type":"Question","name":"How much does PRP injection cost without insurance?","acceptedAnswer":{"@type":"Answer","text":"PRP injection for plantar fasciitis costs between 500 and 2,000 AUD (300 to 1,200 USD) per injection in most countries when paying out of pocket. Multiple injections, ultrasound guidance, and specialist consultation fees add to the total. Insurance coverage varies significantly by country, insurer, and policy type."}},{"@type":"Question","name":"What can you not do after PRP injection?","acceptedAnswer":{"@type":"Answer","text":"After a PRP injection, you should avoid high-impact activities, heavy weight-bearing, NSAIDs (anti-inflammatory medications), and submersion in water (baths, pools) for at least 48 to 72 hours. You should also avoid corticosteroids and strenuous exercise for 2 weeks. These restrictions allow the platelets to release growth factors without interference."}}]}'
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"PRP Therapy for Plantar Fasciitis: Is It Worth It? (2026)","description":"A podiatrist reviews the evidence on platelet-rich plasma (PRP) injections for plantar fasciitis, including success rates, costs, recovery, and how it compares to alternative treatments.","author":{"@type":"Person","name":"Dr. James O''Brien","jobTitle":"Podiatrist & Sports Medicine Specialist"},"publisher":{"@type":"Organization","name":"Plantar Fasciitis Guides","url":"https://plantarfasciitisguides.com","logo":{"@type":"ImageObject","url":"https://plantarfasciitisguides.com/images/logo.png"}},"datePublished":"2026-04-23","dateModified":"2026-04-23","mainEntityOfPage":{"@type":"WebPage","@id":"https://plantarfasciitisguides.com/prp-therapy-plantar-fasciitis"},"image":{"@type":"ImageObject","url":"https://plantarfasciitisguides.com/images/articles/prp-therapy-plantar-fasciitis-hero.jpg"},"sameAs":["https://plantarfasciitisguides.com"]}'
-amazon_tag: "theforge05-20"
+amazon_tag: "plantarfasciitisg-20"
 internal_links:
   - "/best-night-splints-plantar-fasciitis"
   - "/plantar-fasciitis-exercises"
@@ -27,9 +25,9 @@ cross_network_links:
 
 **Platelet-rich plasma (PRP) therapy for plantar fasciitis injects your own platelets into damaged fascia to stimulate healing where conservative treatment has failed. Clinical trials report success rates of 70 to 84 percent — but it is not a magic cure, and the cost and variable outcomes mean it is worth understanding exactly what you are signing up for before committing.**
 
-*By Dr. James O'Brien, Podiatrist & Sports Medicine Specialist* · Last updated April 2026
+By Plantar Fasciitis Guides Editorial Team
 
-**Medical Disclaimer:** This article is for informational purposes only and does not constitute medical advice. The content is written by a qualified podiatrist but should not replace a consultation with your physician, orthopaedic surgeon, or sports medicine specialist. If you are experiencing severe, worsening, or persistent heel pain, please seek professional medical assessment. Individual conditions vary.
+**Medical Disclaimer:** This article is for informational purposes only and does not constitute medical advice. The content is published by the site editorial team but should not replace a consultation with your physician, orthopaedic surgeon, or sports medicine specialist. If you are experiencing severe, worsening, or persistent heel pain, please seek professional medical assessment. Individual conditions vary.
 
 **Affiliate Disclosure:** PlantarFasciitisGuides.com is reader-supported. When you purchase through links on this page, we may earn a small affiliate commission at no extra cost to you. This does not influence our recommendations. [Read our full disclosure](/affiliate-disclosure).
 
@@ -69,7 +67,7 @@ The PRP procedure for plantar fasciitis follows a straightforward three-step pro
 
 The fundamental premise is simple: by delivering a high dose of your own growth factors directly to the damaged tissue, you amplify the body's natural healing signals in an area that has become stuck in a cycle of micro-injury and insufficient repair.
 
-> "PRP represents a paradigm shift from simply suppressing inflammation to actively stimulating tissue regeneration. In my clinical experience, it fills a critical gap between conservative care and surgical intervention for patients whose plantar fasciitis has become chronic." — Dr. James O'Brien, Podiatrist & Sports Medicine Specialist
+PRP is intended to stimulate a healing response, but evidence, suitability, cost, and risks vary. Discuss it with a properly qualified clinician who can assess your diagnosis and treatment history; this site does not provide a practitioner endorsement.
 
 This concept of harnessing the body's own healing mechanisms has been used in other fields — orthopaedics, dentistry, and wound care — for decades. Its application to plantar fasciitis is more recent, with the first randomised controlled trials published around 2012 and a growing body of evidence accumulating since.
 
@@ -122,7 +120,7 @@ Meta-analyses combine data from multiple trials to produce more precise estimate
 
 **Chen et al. (2020)** — A systematic review and meta-analysis in the *British Journal of Sports Medicine* analysed 11 RCTs with 692 patients. PRP demonstrated significant superiority over saline placebo for pain reduction at 3 months (mean difference in VAS: 1.9 points on a 10-point scale) and at 6 months (mean difference: 2.3 points). The authors noted significant heterogeneity between studies due to varying PRP preparation methods.
 
-**Zhang et al. (2022)** — A meta-analysis in *BMC Musculoskeletal Disorders* reviewed 9 studies and found a pooled success rate (defined as 60 percent or greater pain reduction) of 79 percent for PRP at 6 months. The analysis confirmed PRP's superiority over corticosteroids at 6 months but noted equivalent outcomes at the 3-month mark.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ### Limitations and Caveats
 
@@ -135,7 +133,7 @@ The evidence is encouraging but not flawless. Several important limitations dese
 
 Despite these caveats, the evidence base is stronger for PRP than for many other injectable therapies used in musculoskeletal medicine, and it has become a standard recommendation in many clinical guidelines for chronic plantar fasciitis that has failed conservative care.
 
-> "Based on the available evidence, I consider PRP a clinically justified option for patients with chronic plantar fasciitis — typically defined as symptoms persisting beyond 6 months — who have exhausted first-line conservative treatments including stretching, orthotics, and night splints." — Dr. James O'Brien
+Published reviews discuss PRP as a possible option for some persistent cases after conservative care, but conclusions and eligibility criteria vary. A qualified clinician should assess diagnosis, prior treatment, risks, and alternatives for the individual patient.
 
 ---
 
@@ -378,11 +376,11 @@ If you are considering PRP therapy or are in the recovery phase afterward, the f
 
 | Product | Why It's Relevant for PRP Recovery | Where to Buy |
 |---|---|---|
-| **Ultrasound Therapy Device for Home Use** | Supports tissue healing during PRP recovery phase | [View on Amazon](https://www.amazon.com/s?k=ultrasound+therapy+plantar+fasciitis&tag=theforge05-20) |
-| **Night Splint for Plantar Fasciitis** | Maintains calf and fascia stretch during recovery | [View on Amazon](https://www.amazon.com/s?k=night+splint+plantar+fasciitis&tag=theforge05-20) |
-| **Compression Socks for Foot Swelling** | Reduces post-injection swelling and supports circulation | [View on Amazon](https://www.amazon.com/s?k=compression+socks+foot+swelling&tag=theforge05-20) |
-| **Anti-Inflammatory Cream (Topical)** | Manages localised inflammation without oral NSAIDs | [View on Amazon](https://www.amazon.com/s?k=topical+anti+inflammatory+cream+foot&tag=theforge05-20) |
-| **Frozen Water Bottle Massage Roller** | Ice massage for post-PRP pain flares | [View on Amazon](https://www.amazon.com/s?k=frozen+water+bottle+roller+foot&tag=theforge05-20) |
+| **Ultrasound Therapy Device for Home Use** | Supports tissue healing during PRP recovery phase | [View on Amazon](https://www.amazon.com/s?k=ultrasound+therapy+plantar+fasciitis&tag=plantarfasciitisg-20) |
+| **Night Splint for Plantar Fasciitis** | Maintains calf and fascia stretch during recovery | [View on Amazon](https://www.amazon.com/s?k=night+splint+plantar+fasciitis&tag=plantarfasciitisg-20) |
+| **Compression Socks for Foot Swelling** | Reduces post-injection swelling and supports circulation | [View on Amazon](https://www.amazon.com/s?k=compression+socks+foot+swelling&tag=plantarfasciitisg-20) |
+| **Anti-Inflammatory Cream (Topical)** | Manages localised inflammation without oral NSAIDs | [View on Amazon](https://www.amazon.com/s?k=topical+anti+inflammatory+cream+foot&tag=plantarfasciitisg-20) |
+| **Frozen Water Bottle Massage Roller** | Ice massage for post-PRP pain flares | [View on Amazon](https://www.amazon.com/s?k=frozen+water+bottle+roller+foot&tag=plantarfasciitisg-20) |
 
 *Purchases through our links help support this site at no extra cost to you.*
 
@@ -431,7 +429,7 @@ The ideal candidate is someone with symptoms persisting beyond 6 months despite 
 
 If you have already worked through a comprehensive conservative programme — targeted stretching, orthotics or insoles, night splints, and supportive footwear — and are still struggling with daily heel pain, a consultation with a podiatrist or sports medicine physician experienced in regenerative injection therapies is a reasonable next step. An ultrasound scan at that appointment will confirm the diagnosis, rule out tears or other pathology, and give you and your clinician the information needed to decide whether PRP is the right treatment for your specific situation.
 
-For related reading, our [guide to the best night splints for plantar fasciitis](/best-night-splints-plantar-fasciitis) covers one of the most evidence-based conservative tools for this condition, and our [exercises guide](/plantar-fasciitis-exercises) provides the stretching and strengthening programme that should underpin any treatment plan. If nerve-related leg pain accompanies your heel pain, [sciaticaspot.com](https://sciaticaspot.com/understanding-sciatica-leg-pain-causes-and-treatment/) provides comprehensive information on sciatica that sometimes co-occurs with plantar fasciitis due to altered gait patterns.
+For related reading, our [guide to the best night splints for plantar fasciitis](/best-night-splints-plantar-fasciitis) covers one of the most evidence-based conservative tools for this condition, and our [exercises guide](/plantar-fasciitis-exercises) provides the stretching and strengthening programme that should underpin any treatment plan. If nerve-related leg pain accompanies your heel pain, sciaticaspot.com provides comprehensive information on sciatica that sometimes co-occurs with plantar fasciitis due to altered gait patterns.
 
 ---
 
@@ -463,12 +461,12 @@ This article is based on peer-reviewed clinical research, the author's clinical 
 
 - **Article type:** Clinical review and evidence synthesis (not a primary research study)
 - **Evidence levels:** Systematic reviews, meta-analyses, and RCTs prioritised. Case reports and low-quality observational studies excluded.
-- **Conflict of interest:** Dr. James O'Brien has no financial relationship with any PRP kit manufacturer or clinic offering PRP therapy. All opinions are based on clinical experience and published evidence.
+- **Editorial independence:** This article does not represent a named practitioner's endorsement and has no financial relationship with a PRP kit manufacturer or clinic.
 - **Patient testing:** This article synthesises published clinical trial data and does not include original patient testing data.
 - **Last review date:** April 2026. Clinical evidence and treatment protocols are subject to ongoing revision as new research emerges. Individual medical advice requires a consultation with a qualified practitioner.
 
 ---
 
-*This article was written by Dr. James O'Brien, a board-certified podiatrist and sports medicine specialist with 18 years of clinical experience treating plantar fasciitis and related foot and ankle conditions. Dr. O'Brien has managed over 4,000 plantar fasciitis patients across hospital, private practice, and sports medicine settings, and has published clinical guidelines on conservative and injectable management of plantar heel pain.*
+By Plantar Fasciitis Guides Editorial Team
 
 *For personalised treatment recommendations, please consult with a qualified podiatrist, orthopaedic surgeon, or sports medicine physician in your area.*

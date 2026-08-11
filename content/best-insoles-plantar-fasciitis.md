@@ -1,12 +1,4 @@
----
-title: "Best Insoles for Plantar Fasciitis (2026)"
-meta_description: "Compare the best insoles for plantar fasciitis in 2026. Expert-reviewed orthotics including Superfeet GREEN, Powerstep Pinnacle, and more. Find the right arch support for lasting relief."
-author: "Editorial Team"
-datePublished: '2026-03-11'
-dateModified: '2026-03-23'
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Best Insoles for Plantar Fasciitis (2026): Orthotics That Actually Work","description":"Compare the best insoles for plantar fasciitis in 2026. Expert-reviewed orthotics including Superfeet GREEN, Powerstep Pinnacle, and more. Find the right arch support for lasting relief.","author":{"@type":"Person","name":"Editorial Team"},"publisher":{"@type":"Organization","name":"Plantar Fasciitis Guides","url":"https://plantarfasciitisguides.com"},"datePublished":"2026-03-11","dateModified":"2026-03-11","mainEntityOfPage":{"@type":"WebPage","@id":"https://plantarfasciitisguides.com/best-insoles-plantar-fasciitis"},"image":"https://plantarfasciitisguides.com/og-image.jpg"}'
-faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the best insole for plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"The Superfeet GREEN is the best insole for most people with plantar fasciitis. Its rigid stabilizer cap, high-profile arch support, and deep heel cup provide the biomechanical correction needed to reduce strain on the plantar fascia. For those who find rigid support too aggressive, the Powerstep Pinnacle offers a semi-rigid alternative with good cushioning."}},{"@type":"Question","name":"Do insoles actually help plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"Yes — multiple clinical studies show that prefabricated orthotic insoles significantly reduce plantar fasciitis pain. A systematic review in the British Journal of Sports Medicine found that foot orthoses significantly reduce pain in plantar heel pain. They work by supporting the arch, cushioning the heel, and redistributing plantar pressure away from the inflamed tissue."}},{"@type":"Question","name":"How long do plantar fasciitis insoles last?","acceptedAnswer":{"@type":"Answer","text":"Most over-the-counter insoles last 6-12 months with daily use. EVA foam insoles (Powerstep) last 6-9 months. Rigid shell insoles (Superfeet GREEN) last 9-12 months. Replace when the arch support feels flat or heel pain returns after a period of improvement."}},{"@type":"Question","name":"Should insoles be rigid or cushioned for plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"Rigid or semi-rigid insoles (Superfeet GREEN, Powerstep Pinnacle) are generally more effective for plantar fasciitis because they provide structural arch support and motion control. Purely cushioned insoles feel comfortable but may not correct the overpronation that causes plantar fascia strain."}},{"@type":"Question","name":"Can I use plantar fasciitis insoles in dress shoes?","acceptedAnswer":{"@type":"Answer","text":"Yes, but you need the right type. Full-length rigid insoles do not fit in dress shoes. Choose three-quarter length insoles or slim-profile orthotics designed for low-volume footwear. Remove the original insole from the shoe before inserting any orthotic."}},{"@type":"Question","name":"What arch type do I have?","acceptedAnswer":{"@type":"Answer","text":"Do the wet foot test: wet your foot and step on paper. A full footprint indicates flat arches. A narrow band connecting heel to ball indicates high arches. A moderate curve indicates normal arches. Your arch type determines which insole profile works best for your plantar fasciitis."}}]}'
----
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 # Best Insoles for Plantar Fasciitis (2026): Orthotics That Actually Work
 
@@ -14,7 +6,7 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 
 ![A selection of orthotic insoles for plantar fasciitis arranged on a white surface](/images/best-insoles-plantar-fasciitis-lineup.jpg)
 
-<video autoplay muted loop playsinline style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/best-insoles-plantar-fasciitis-demo.mp4" type="video/mp4">
 </video>
 
@@ -77,7 +69,7 @@ The combination of these features -- arch support, heel cupping, pressure redist
     <h3 style="margin:0 0 0.5rem;">Superfeet GREEN</h3>
     <p style="color:#64748b;font-size:0.9rem;margin:0 0 0.5rem;">Best Overall — Rigid Support</p>
     <p style="font-weight:700;color:#1d4ed8;margin:0 0 1rem;">~$45–55</p>
-    <a href="https://www.amazon.com/s?k=Superfeet+GREEN+insoles+plantar+fasciitis&tag=theforge05-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
+    <a href="https://www.amazon.com/s?k=Superfeet+GREEN+insoles+plantar+fasciitis&tag=plantarfasciitisg-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
   </div>
 
   <div style="border:1px solid #e2e8f0;border-radius:12px;padding:1.5rem;background:#fff;">
@@ -85,7 +77,7 @@ The combination of these features -- arch support, heel cupping, pressure redist
     <h3 style="margin:0 0 0.5rem;">Powerstep Pinnacle</h3>
     <p style="color:#64748b;font-size:0.9rem;margin:0 0 0.5rem;">Best Value — Semi-Rigid</p>
     <p style="font-weight:700;color:#1d4ed8;margin:0 0 1rem;">~$30–40</p>
-    <a href="https://www.amazon.com/s?k=Powerstep+Pinnacle+insoles+plantar+fasciitis&tag=theforge05-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
+    <a href="https://www.amazon.com/s?k=Powerstep+Pinnacle+insoles+plantar+fasciitis&tag=plantarfasciitisg-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
   </div>
 
   <div style="border:1px solid #e2e8f0;border-radius:12px;padding:1.5rem;background:#fff;">
@@ -93,7 +85,7 @@ The combination of these features -- arch support, heel cupping, pressure redist
     <h3 style="margin:0 0 0.5rem;">Dr. Scholl's Pain Relief</h3>
     <p style="color:#64748b;font-size:0.9rem;margin:0 0 0.5rem;">Best Budget — Gel Cushion</p>
     <p style="font-weight:700;color:#1d4ed8;margin:0 0 1rem;">~$15–22</p>
-    <a href="https://www.amazon.com/s?k=Dr+Scholls+plantar+fasciitis+orthotics&tag=theforge05-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
+    <a href="https://www.amazon.com/s?k=Dr+Scholls+plantar+fasciitis+orthotics&tag=plantarfasciitisg-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
   </div>
 
 </div>
@@ -127,7 +119,7 @@ One thing to note is that the Superfeet GREEN has a firm break-in period. Many u
 
 **Best for:** People with high arches, those seeking maximum structural support, runners, and anyone who wants a durable insole that will last 12 months or more.
 
-[Check Price on Amazon](https://www.amazon.com/s?k=Superfeet+GREEN+insoles+plantar+fasciitis&tag=theforge05-20)
+[Check Price on Amazon](https://www.amazon.com/s?k=Superfeet+GREEN+insoles+plantar+fasciitis&tag=plantarfasciitisg-20)
 
 ### 2. Powerstep Pinnacle -- Best Value
 
@@ -142,7 +134,7 @@ At the $30-$40 price point, the Powerstep Pinnacle delivers excellent value. It 
 
 **Best for:** People with medium arches, those who want support without excessive firmness, office workers, and anyone looking for a solid all-around insole at a reasonable price.
 
-[Check Price on Amazon](https://www.amazon.com/s?k=Powerstep+Pinnacle+insoles&tag=theforge05-20)
+[Check Price on Amazon](https://www.amazon.com/s?k=Powerstep+Pinnacle+insoles&tag=plantarfasciitisg-20)
 
 ### 3. Dr. Scholl's Pain Relief Orthotics for Plantar Fasciitis -- Best Budget Option
 
@@ -154,7 +146,7 @@ Durability is the main drawback. The foam tends to compress and lose its support
 
 **Best for:** People with mild plantar fasciitis, those on a tight budget, casual shoe wearers, and anyone who wants to try insoles before investing in a premium product.
 
-[Check Price on Amazon](https://www.amazon.com/s?k=Dr+Scholls+plantar+fasciitis+orthotics&tag=theforge05-20)
+[Check Price on Amazon](https://www.amazon.com/s?k=Dr+Scholls+plantar+fasciitis+orthotics&tag=plantarfasciitisg-20)
 
 ![Close-up of an insole's arch support structure and heel cup](/images/insole-arch-support-detail.jpg)
 
@@ -168,7 +160,7 @@ The "Thick" designation means this insole has a higher volume profile, so it wor
 
 **Best for:** Athletes, hikers, people who want a semi-custom fit, those with unique foot shapes, and environmentally conscious buyers.
 
-[Check Price on Amazon](https://www.amazon.com/s?k=SOLE+Active+insoles&tag=theforge05-20)
+[Check Price on Amazon](https://www.amazon.com/s?k=SOLE+Active+insoles&tag=plantarfasciitisg-20)
 
 ### 5. Spenco Total Support Max -- Best for Standing All Day
 
@@ -180,7 +172,7 @@ The metatarsal support is a standout feature that sets this insole apart. If you
 
 **Best for:** Healthcare workers, retail employees, teachers, factory workers, and anyone who stands on hard surfaces for 8 or more hours a day.
 
-[Check Price on Amazon](https://www.amazon.com/s?k=Spenco+Total+Support+Max+insoles&tag=theforge05-20)
+[Check Price on Amazon](https://www.amazon.com/s?k=Spenco+Total+Support+Max+insoles&tag=plantarfasciitisg-20)
 
 ---
 

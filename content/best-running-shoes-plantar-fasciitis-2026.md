@@ -1,15 +1,4 @@
----
-title: "Best Running Shoes for Plantar Fasciitis (2026)"
-slug: "best-running-shoes-plantar-fasciitis-2026"
-meta_description: "Expert-reviewed best running shoes for plantar fasciitis in 2026. ASICS, Brooks, HOKA & more with arch support, deep cushioning & stability features runners need."
-author: "Sarah Mitchell, Certified Ergonomics Consultant"
-date: "2026-03-27"
-dateModified: "2026-03-27"
-category: "Plantar Fasciitis"
-faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can I run with plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"Yes, many runners continue running with plantar fasciitis by making key adjustments. Reduce mileage by 30-50%, avoid hills and speed work temporarily, and switch to a supportive shoe with structured cushioning and a heel drop of 8-12mm. Run on softer surfaces when possible. If pain increases during a run or persists for more than 48 hours afterward, take additional rest days. Always warm up with calf stretches and plantar fascia rolls before running."}},{"@type":"Question","name":"What heel drop is best for plantar fasciitis runners?","acceptedAnswer":{"@type":"Answer","text":"Most podiatrists recommend an 8-12mm heel drop for runners with plantar fasciitis. This moderate drop shifts load away from the plantar fascia by keeping the heel slightly elevated, reducing the stretch on the fascia during the gait cycle. Avoid minimalist or zero-drop shoes during active plantar fasciitis flares, as they place maximum tension on the plantar fascia with each stride."}},{"@type":"Question","name":"Should I choose stability or neutral running shoes for plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"If you overpronate (your foot rolls inward excessively), a stability shoe with a medial post or guide rails will reduce strain on the plantar fascia. If you have a neutral gait, a well-cushioned neutral shoe with strong arch support is sufficient. A gait analysis at a running specialty store can determine your pronation type. When in doubt, moderate stability shoes like the Brooks Adrenaline GTS or ASICS Gel-Kayano work well for most plantar fasciitis runners."}},{"@type":"Question","name":"How often should I replace running shoes if I have plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"Replace running shoes every 300-400 miles, or approximately every 3-4 months for regular runners. With plantar fasciitis, the cushioning and support degrade faster because you rely on them more heavily. Signs your shoes need replacing: decreased bounce in the midsole, visible compression lines, increased morning heel pain after runs, or the shoe feeling flat underfoot. Rotating two pairs extends the life of each pair."}},{"@type":"Question","name":"Are HOKA shoes good for plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"HOKA shoes are frequently recommended for plantar fasciitis due to their maximalist cushioning, meta-rocker geometry, and wide toe boxes. The Bondi line offers the most cushioning for road runners, while the Arahi provides stability for overpronators. The thick midsole absorbs impact that would otherwise stress the plantar fascia. However, the rocker geometry takes adjustment — start with shorter runs to let your feet adapt."}},{"@type":"Question","name":"Can custom orthotics work inside running shoes for plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"Yes, custom orthotics pair well with running shoes that have removable insoles and a deep heel cup. Remove the factory insole and replace it with your orthotic for a better fit. Shoes like the New Balance 1080 and Brooks Ghost have easily removable insoles designed for orthotic use. Ensure the orthotic does not make the shoe too tight — you may need to go up half a size to accommodate the added volume."}}]}'
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Best Running Shoes for Plantar Fasciitis (2026)","description":"Expert-reviewed guide to the best running shoes for plantar fasciitis in 2026. Covers arch support, cushioning, stability, and top picks from ASICS, Brooks, HOKA and more.","author":{"@type":"Person","name":"Sarah Mitchell","jobTitle":"Certified Ergonomics Consultant"},"publisher":{"@type":"Organization","name":"Plantar Fasciitis Guides","url":"https://plantarfasciitisguides.com","logo":{"@type":"ImageObject","url":"https://plantarfasciitisguides.com/images/logo.png"}},"datePublished":"2026-03-27","dateModified":"2026-03-27","mainEntityOfPage":{"@type":"WebPage","@id":"https://plantarfasciitisguides.com/best-running-shoes-plantar-fasciitis-2026"},"image":["https://plantarfasciitisguides.com/images/plantar-shoes-hero.jpg","https://plantarfasciitisguides.com/images/running-shoes-plantar-fasciitis-comparison-infographic-2026.jpg"]}'
-og_image: "https://plantarfasciitisguides.com/images/plantar-shoes-hero.jpg"
----
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 *This post contains affiliate links. We may earn a commission at no extra cost to you.*
 
@@ -19,7 +8,7 @@ og_image: "https://plantarfasciitisguides.com/images/plantar-shoes-hero.jpg"
 
 **The best running shoes for plantar fasciitis combine structured arch support, deep heel cushioning, and a moderate heel drop (8–12mm) to reduce strain on the plantar fascia during every stride. Our top pick for 2026 is the ASICS Gel-Kayano 31 for stability runners and the HOKA Bondi 8 for neutral runners who need maximum cushioning.**
 
-<a href="https://www.amazon.com/s?k=ASICS+Gel+Kayano+31&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener" style="display:inline-block;margin:1rem 0;text-align:center;background:#0d9488;color:#fff;padding:0.75rem 1.5rem;border-radius:8px;text-decoration:none;font-weight:600;font-size:1rem;">Check Top Pick on Amazon →</a>
+<a href="https://www.amazon.com/s?k=ASICS+Gel+Kayano+31&tag=plantarfasciitisg-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored" style="display:inline-block;margin:1rem 0;text-align:center;background:#0d9488;color:#fff;padding:0.75rem 1.5rem;border-radius:8px;text-decoration:none;font-weight:600;font-size:1rem;">Check Top Pick on Amazon →</a>
 
 ![Best running shoes for plantar fasciitis 2026 hero image showing supportive running shoes](/images/plantar-shoes-hero.jpg)
 <figcaption>The best running shoes for plantar fasciitis prioritise arch support, heel cushioning, and gait stability.</figcaption>
@@ -95,7 +84,7 @@ Squeeze the back of the shoe. The heel counter (the rigid structure around the r
 
 ## Our Top 8 Running Shoes for Plantar Fasciitis (2026)
 
-We evaluated over 30 running shoes from major brands and narrowed the field to eight models based on arch support structure, heel cushioning depth, stability features, heel drop, and real-world durability. Every shoe here has been cross-referenced with podiatric recommendations and runner feedback.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 <style>
 .product-cards { display: grid; grid-template-columns: 1fr; gap: 1.5rem; margin: 2rem 0; }
@@ -117,7 +106,7 @@ We evaluated over 30 running shoes from major brands and narrowed the field to e
       <p><strong>Heel drop:</strong> 10mm</p>
       <p><strong>Cushioning:</strong> FF BLAST PLUS ECO + PureGEL</p>
       <p><strong>Price:</strong> $160</p>
-      <a href="https://www.amazon.com/s?k=ASICS+Gel+Kayano+31&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=ASICS+Gel+Kayano+31&tag=plantarfasciitisg-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check Price on Amazon →</a>
     </div>
   </div>
 
@@ -129,7 +118,7 @@ We evaluated over 30 running shoes from major brands and narrowed the field to e
       <p><strong>Heel drop:</strong> 4mm</p>
       <p><strong>Cushioning:</strong> Compression-moulded EVA</p>
       <p><strong>Price:</strong> $165</p>
-      <a href="https://www.amazon.com/s?k=HOKA+Bondi+8&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=HOKA+Bondi+8&tag=plantarfasciitisg-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check Price on Amazon →</a>
     </div>
   </div>
 
@@ -141,7 +130,7 @@ We evaluated over 30 running shoes from major brands and narrowed the field to e
       <p><strong>Heel drop:</strong> 12mm</p>
       <p><strong>Cushioning:</strong> DNA LOFT v2 + GuideRails</p>
       <p><strong>Price:</strong> $140</p>
-      <a href="https://www.amazon.com/s?k=Brooks+Adrenaline+GTS+24&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=Brooks+Adrenaline+GTS+24&tag=plantarfasciitisg-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check Price on Amazon →</a>
     </div>
   </div>
 
@@ -153,7 +142,7 @@ We evaluated over 30 running shoes from major brands and narrowed the field to e
       <p><strong>Heel drop:</strong> 6mm</p>
       <p><strong>Cushioning:</strong> Fresh Foam X midsole</p>
       <p><strong>Price:</strong> $165</p>
-      <a href="https://www.amazon.com/s?k=New+Balance+Fresh+Foam+1080v13&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=New+Balance+Fresh+Foam+1080v13&tag=plantarfasciitisg-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check Price on Amazon →</a>
     </div>
   </div>
 
@@ -165,7 +154,7 @@ We evaluated over 30 running shoes from major brands and narrowed the field to e
       <p><strong>Heel drop:</strong> 12mm</p>
       <p><strong>Cushioning:</strong> DNA LOFT v2</p>
       <p><strong>Price:</strong> $140</p>
-      <a href="https://www.amazon.com/s?k=Brooks+Ghost+16&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=Brooks+Ghost+16&tag=plantarfasciitisg-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check Price on Amazon →</a>
     </div>
   </div>
 
@@ -177,7 +166,7 @@ We evaluated over 30 running shoes from major brands and narrowed the field to e
       <p><strong>Heel drop:</strong> 8mm</p>
       <p><strong>Cushioning:</strong> PWRRUN+ midsole</p>
       <p><strong>Price:</strong> $140</p>
-      <a href="https://www.amazon.com/s?k=Saucony+Guide+17&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=Saucony+Guide+17&tag=plantarfasciitisg-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check Price on Amazon →</a>
     </div>
   </div>
 
@@ -189,7 +178,7 @@ We evaluated over 30 running shoes from major brands and narrowed the field to e
       <p><strong>Heel drop:</strong> 8mm</p>
       <p><strong>Cushioning:</strong> FF BLAST PLUS ECO + PureGEL</p>
       <p><strong>Price:</strong> $160</p>
-      <a href="https://www.amazon.com/s?k=ASICS+Gel+Nimbus+26&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=ASICS+Gel+Nimbus+26&tag=plantarfasciitisg-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check Price on Amazon →</a>
     </div>
   </div>
 
@@ -201,7 +190,7 @@ We evaluated over 30 running shoes from major brands and narrowed the field to e
       <p><strong>Heel drop:</strong> 5mm</p>
       <p><strong>Cushioning:</strong> Compression-moulded EVA + J-Frame</p>
       <p><strong>Price:</strong> $140</p>
-      <a href="https://www.amazon.com/s?k=HOKA+Arahi+7&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=HOKA+Arahi+7&tag=plantarfasciitisg-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check Price on Amazon →</a>
     </div>
   </div>
 </div>
@@ -367,7 +356,7 @@ This is non-negotiable during active flares. If you normally run 30 miles per we
 
 Before lacing up, roll a massage ball or frozen water bottle under the affected foot for 2–3 minutes. Follow with 30-second holds of standing calf stretches (straight leg and bent leg). The plantar fascia, calf muscles, and Achilles tendon form a continuous kinetic chain — tightness in any link increases strain on the others.
 
-If you are looking for a [low-impact walking for foot pain](https://walkingpadpicks.com) alternative on high-pain days, a walking pad at a gentle pace provides movement without the impact forces of running.
+If you are looking for a low-impact walking for foot pain alternative on high-pain days, a walking pad at a gentle pace provides movement without the impact forces of running.
 
 ### Choose Softer Surfaces
 
@@ -451,7 +440,7 @@ If plantar fasciitis pain is interfering with your sleep, positioning the foot c
 
 ---
 
-<video autoplay muted loop playsinline poster="/images/plantar-shoes-hero.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/plantar-shoes-hero.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/best-running-shoes-plantar-fasciitis-2026-demo.mp4" type="video/mp4">
 </video>
 
@@ -505,6 +494,6 @@ Our shoe recommendations are based on the following criteria and sources:
 
 ---
 
-**About the Author**
 
-Sarah Mitchell is a Certified Ergonomics Consultant specialising in musculoskeletal health and workplace wellness. With a background in biomechanics and over a decade of experience reviewing ergonomic and therapeutic products, Sarah focuses on evidence-based recommendations that help people manage chronic pain conditions. She is a regular contributor to Plantar Fasciitis Guides and consults on footwear selection for runners recovering from lower extremity injuries.
+
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.

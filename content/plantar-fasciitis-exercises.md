@@ -4,18 +4,16 @@ slug: "plantar-fasciitis-exercises"
 meta_description: "Category:** Strengthening | **Difficulty:** Beginner | **Duration:"
 datePublished: "2026-03-15"
 dateModified: "2026-03-15"
-author: "Dr. Sarah Mitchell"
-faq_schema: "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"How many times a day should I do plantar fasciitis exercises?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Stretching exercises should be performed at least two to three times per day for optimal results. The most critical sessions are first thing in the morning before standing and in the evening before bed. Strengthening exercises like heel raises and towel toe curls can be done once daily or every other day to allow muscle recovery.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can plantar fasciitis exercises make the pain worse?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Some exercises, particularly high-load strengthening movements like heel raises, may temporarily increase pain during the first one to two weeks. This is a normal part of the tissue adaptation process. However, sharp or severe pain during an exercise is a signal to stop and modify the movement.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"How long does it take for plantar fasciitis exercises to work?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Most patients experience noticeable improvement within two to four weeks of consistent daily exercise. Significant relief typically occurs by the six to eight-week mark. Full resolution of symptoms may take three to six months depending on the severity and duration of the condition.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Should I stretch before or after walking with plantar fasciitis?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Both. Stretching before walking prepares the plantar fascia and calf muscles for the loading demands of walking, reducing the risk of micro-tears. Stretching after walking helps prevent the fascia from tightening up and reduces post-activity soreness.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can I do plantar fasciitis exercises every day?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Yes, stretching exercises are safe and recommended for daily practice. Strengthening exercises should be performed three to four times per week with rest days in between to allow for muscle recovery and tissue adaptation.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"What is the single best exercise for plantar fasciitis?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"The seated plantar fascia stretch has the strongest clinical evidence behind it. The DiGiovanni study demonstrated that this single stretch, when performed consistently, produced superior outcomes compared to Achilles tendon stretching. However, the best results come from a comprehensive program that combines both stretching and strengthening exercises.\"\n      }\n    }\n  ]\n}"
-article_schema: "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"How many times a day should I do plantar fasciitis exercises?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Stretching exercises should be performed at least two to three times per day for optimal results. The most critical sessions are first thing in the morning before standing and in the evening before bed. Strengthening exercises like heel raises and towel toe curls can be done once daily or every other day to allow muscle recovery.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can plantar fasciitis exercises make the pain worse?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Some exercises, particularly high-load strengthening movements like heel raises, may temporarily increase pain during the first one to two weeks. This is a normal part of the tissue adaptation process. However, sharp or severe pain during an exercise is a signal to stop and modify the movement.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"How long does it take for plantar fasciitis exercises to work?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Most patients experience noticeable improvement within two to four weeks of consistent daily exercise. Significant relief typically occurs by the six to eight-week mark. Full resolution of symptoms may take three to six months depending on the severity and duration of the condition.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Should I stretch before or after walking with plantar fasciitis?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Both. Stretching before walking prepares the plantar fascia and calf muscles for the loading demands of walking, reducing the risk of micro-tears. Stretching after walking helps prevent the fascia from tightening up and reduces post-activity soreness.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can I do plantar fasciitis exercises every day?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Yes, stretching exercises are safe and recommended for daily practice. Strengthening exercises should be performed three to four times per week with rest days in between to allow for muscle recovery and tissue adaptation.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"What is the single best exercise for plantar fasciitis?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"The seated plantar fascia stretch has the strongest clinical evidence behind it. The DiGiovanni study demonstrated that this single stretch, when performed consistently, produced superior outcomes compared to Achilles tendon stretching. However, the best results come from a comprehensive program that combines both stretching and strengthening exercises.\"\n      }\n    }\n  ]\n}\n```\n\n```json\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"headline\": \"Plantar Fasciitis Exercises: 10 Stretches for Relief\",\n  \"description\": \"10 podiatrist-recommended stretches and strengthening exercises to heal plantar fasciitis at home.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Dr. Sarah Mitchell\",\n    \"jobTitle\": \"Podiatrist & Sports Medicine Physician\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Plantar Fasciitis Guides\",\n    \"url\": \"https://plantarfasciitisguides.com\"\n  },\n  \"datePublished\": \"2026-03-15\",\n  \"dateModified\": \"2026-03-15\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://plantarfasciitisguides.com/plantar-fasciitis-exercises\"\n  },\n  \"image\": \"https://plantarfasciitisguides.com/images/articles/plantar-anatomy-illustration.png\",\n  \"keywords\": [\"plantar fasciitis exercises\", \"plantar fasciitis stretches\", \"heel pain relief\", \"plantar fascia stretch\", \"foot exercises\"]\n}"
+author: "Plantar Fasciitis Guides Editorial Team"
 ---
-<video autoplay muted loop playsinline poster="/images/articles/plantar-fasciitis-exercises-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/plantar-fasciitis-exercises-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/plantar-fasciitis-exercises-demo.mp4" type="video/mp4">
 </video>
 
 
 **Plantar fasciitis exercises are targeted stretches and strengthening movements that reduce heel pain by improving flexibility in the plantar fascia, Achilles tendon, and surrounding muscles. Podiatrists recommend performing these exercises daily — especially first thing in the morning — to accelerate healing and prevent recurring flare-ups without medication or surgery.**
 
-*By Dr. Sarah Mitchell, Podiatrist & Sports Medicine Physician | Last updated: March 2026*
+By Plantar Fasciitis Guides Editorial Team
 
 ---
 
@@ -124,7 +122,7 @@ Tight calf muscles are one of the primary contributors to plantar fasciitis. The
 5. Hold for 30 seconds, then slightly bend the back knee to target the soleus muscle deeper in the calf. Hold for another 30 seconds.
 6. Repeat 3 times on each side.
 
-**Tips:** Perform this stretch before getting out of bed by using a resistance band looped around the ball of your foot. A [high-quality resistance band set](https://www.amazon.com/s?k=resistance+bands+for+plantar+fasciitis+stretching&tag=theforge05-20) is an inexpensive investment that makes morning stretching far more convenient.
+**Tips:** Perform this stretch before getting out of bed by using a resistance band looped around the ball of your foot. A [high-quality resistance band set](https://www.amazon.com/s?k=resistance+bands+for+plantar+fasciitis+stretching&tag=plantarfasciitisg-20) is an inexpensive investment that makes morning stretching far more convenient.
 
 ### 3. Seated Plantar Fascia Stretch
 
@@ -197,7 +195,7 @@ Heel raises strengthen the calf muscles, Achilles tendon, and plantar fascia thr
 
 **Category:** Self-massage / Myofascial Release | **Difficulty:** Beginner | **Duration:** 5 minutes
 
-Rolling the foot over a tennis ball or specialized [foot roller](https://www.amazon.com/s?k=foot+roller+plantar+fasciitis&tag=theforge05-20) provides targeted self-massage that breaks up adhesions in the fascia, increases blood flow, and reduces pain. This technique is particularly effective as a warm-up before other exercises.
+Rolling the foot over a tennis ball or specialized [foot roller](https://www.amazon.com/s?k=foot+roller+plantar+fasciitis&tag=plantarfasciitisg-20) provides targeted self-massage that breaks up adhesions in the fascia, increases blood flow, and reduces pain. This technique is particularly effective as a warm-up before other exercises.
 
 **How to perform:**
 
@@ -206,7 +204,7 @@ Rolling the foot over a tennis ball or specialized [foot roller](https://www.ama
 3. When you find a particularly tender spot, pause and maintain gentle pressure for 15 to 20 seconds until the discomfort diminishes.
 4. Continue rolling for 2 to 3 minutes per foot.
 
-**Tips:** For a deeper massage, use a frozen water bottle — the cold provides additional anti-inflammatory benefits. You can also upgrade to a purpose-built [foot massage roller](https://www.amazon.com/s?k=foot+roller+massager+plantar+fasciitis&tag=theforge05-20) for more targeted pressure and durability compared to a tennis ball.
+**Tips:** For a deeper massage, use a frozen water bottle — the cold provides additional anti-inflammatory benefits. You can also upgrade to a purpose-built [foot massage roller](https://www.amazon.com/s?k=foot+roller+massager+plantar+fasciitis&tag=plantarfasciitisg-20) for more targeted pressure and durability compared to a tennis ball.
 
 ![Foot rolling over a textured massage roller](/images/foot-roller-massage-photo.jpg)
 
@@ -219,7 +217,7 @@ The towel stretch is the perfect before-you-get-out-of-bed exercise. It lets you
 **How to perform:**
 
 1. Sit on your bed or the floor with your affected leg extended straight in front of you.
-2. Loop a towel (or a [stretching strap](https://www.amazon.com/s?k=stretching+strap+plantar+fasciitis&tag=theforge05-20)) around the ball of your foot.
+2. Loop a towel (or a [stretching strap](https://www.amazon.com/s?k=stretching+strap+plantar+fasciitis&tag=plantarfasciitisg-20)) around the ball of your foot.
 3. Gently pull the towel toward you, keeping your knee straight, until you feel a stretch in the calf and the bottom of the foot.
 4. Hold for 30 seconds.
 5. Repeat 3 to 5 times before standing up.
@@ -291,14 +289,14 @@ Ankle circles improve overall ankle mobility and joint lubrication while gently 
 - **Requires consistency:** Benefits only accumulate with daily practice over weeks to months. Sporadic effort yields minimal results.
 - **Delayed results:** Unlike a cortisone injection that provides near-immediate relief, exercise programs typically require two to four weeks before noticeable improvement.
 - **Temporary pain increase possible:** Some exercises, particularly heel raises, may temporarily increase discomfort during the initial loading phase.
-- **Not sufficient for severe cases:** Patients with chronic plantar fasciitis lasting over 12 months or those with structural abnormalities may need additional interventions such as custom [orthotics](https://www.amazon.com/s?k=orthotics+plantar+fasciitis&tag=theforge05-20), shockwave therapy, or surgery.
+- **Not sufficient for severe cases:** Patients with chronic plantar fasciitis lasting over 12 months or those with structural abnormalities may need additional interventions such as custom [orthotics](https://www.amazon.com/s?k=orthotics+plantar+fasciitis&tag=plantarfasciitisg-20), shockwave therapy, or surgery.
 - **Technique matters:** Incorrect form can aggravate symptoms. Patients with limited mobility may need professional guidance initially.
 
 ## The Ideal Morning Routine for Plantar Fasciitis
 
 Morning is when plantar fasciitis pain is typically at its worst. During sleep, the plantar fascia contracts into a shortened position. When you stand up, the sudden stretch on the contracted tissue causes intense pain. A targeted morning routine can dramatically reduce or even eliminate this first-step pain.
 
-Here is the five-exercise morning sequence I recommend to my patients, to be performed before standing:
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 **Step 1 — Towel Stretch (2 minutes):** While still sitting in bed, loop a towel around the ball of your foot and gently pull to stretch the calf and plantar fascia. Hold for 30 seconds, repeat 3 times.
 
@@ -348,9 +346,9 @@ A podiatrist or sports medicine physician can perform imaging studies, assess yo
 
 You do not need expensive equipment to perform these exercises, but a few affordable items can make your routine more effective and comfortable:
 
-- **Foot massage roller:** Provides deeper, more targeted pressure than a tennis ball. [Browse top-rated foot rollers on Amazon](https://www.amazon.com/s?k=foot+massage+roller+plantar+fasciitis&tag=theforge05-20).
-- **Resistance bands:** Essential for seated calf stretches and ankle strengthening. [Shop resistance bands for foot exercises](https://www.amazon.com/s?k=resistance+bands+for+plantar+fasciitis+stretching&tag=theforge05-20).
-- **Stretching strap:** A yoga strap with loops makes towel stretches easier and more precise. [Find stretching straps on Amazon](https://www.amazon.com/s?k=stretching+strap+yoga+plantar+fasciitis&tag=theforge05-20).
+- **Foot massage roller:** Provides deeper, more targeted pressure than a tennis ball. [Browse top-rated foot rollers on Amazon](https://www.amazon.com/s?k=foot+massage+roller+plantar+fasciitis&tag=plantarfasciitisg-20).
+- **Resistance bands:** Essential for seated calf stretches and ankle strengthening. [Shop resistance bands for foot exercises](https://www.amazon.com/s?k=resistance+bands+for+plantar+fasciitis+stretching&tag=plantarfasciitisg-20).
+- **Stretching strap:** A yoga strap with loops makes towel stretches easier and more precise. [Find stretching straps on Amazon](https://www.amazon.com/s?k=stretching+strap+yoga+plantar+fasciitis&tag=plantarfasciitisg-20).
 - **Frozen water bottle:** A free alternative for cold massage — simply freeze a standard water bottle and roll it under your foot.
 
 ## Frequently Asked Questions
@@ -361,8 +359,7 @@ Stretching exercises should be performed at least two to three times per day for
 **Can plantar fasciitis exercises make the pain worse?**
 Some exercises, particularly high-load strengthening movements like heel raises, may temporarily increase pain during the first one to two weeks. This is a normal part of the tissue adaptation process. However, sharp or severe pain during an exercise is a signal to stop and modify the movement. If pain consistently worsens despite proper form, consult a healthcare professional.
 
-**How long does it take for plantar fasciitis exercises to work?**
-Most patients experience noticeable improvement within two to four weeks of consistent daily exercise. Significant relief typically occurs by the six to eight-week mark. Full resolution of symptoms may take three to six months depending on the severity and duration of the condition. Our guide on [how long plantar fasciitis lasts](/how-long-does-plantar-fasciitis-take-to-heal) provides a detailed recovery timeline.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 **Should I stretch before or after walking with plantar fasciitis?**
 Both. Stretching before walking prepares the plantar fascia and calf muscles for the loading demands of walking, reducing the risk of micro-tears. Stretching after walking helps prevent the fascia from tightening up and reduces post-activity soreness. The seated plantar fascia stretch and standing calf stretch are particularly effective as pre- and post-walk exercises.

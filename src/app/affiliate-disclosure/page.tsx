@@ -1,4 +1,30 @@
-export const metadata = { title: "Affiliate Disclosure", alternates: { canonical: "https://plantarfasciitisguides.com/affiliate-disclosure" } };
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Affiliate Disclosure",
+  description: "Plantar Fasciitis Guides is transparent about affiliate links and sponsorships, with clear disclosures for every sponsored recommendation.",
+  alternates: { canonical: "https://plantarfasciitisguides.com/affiliate-disclosure" },
+  openGraph: {
+    title: "Affiliate Disclosure",
+    description: "Plantar Fasciitis Guides is transparent about affiliate links and sponsorships, with clear disclosures for every sponsored recommendation.",
+    url: "https://plantarfasciitisguides.com/affiliate-disclosure",
+    siteName: "Plantar Fasciitis Guides",
+    type: "website",
+    images: [
+      {
+        url: "https://plantarfasciitisguides.com/editorial-hero.png",
+        width: 1200,
+        height: 630,
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Affiliate Disclosure",
+    description: "Plantar Fasciitis Guides is transparent about affiliate links and sponsorships, with clear disclosures for every sponsored recommendation.",
+    images: ["https://plantarfasciitisguides.com/editorial-hero.png"],
+  },
+};
 
 export default function AffiliateDisclosurePage() {
   return (

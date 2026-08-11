@@ -269,7 +269,7 @@ Most people can perform this entire routine comfortably within 2 weeks. When it 
 
 *Step-ups:* Find a bottom stair. Holding the railing for safety, step up onto the stair with one foot, then push through your heel to bring the other foot up. Step down the same way. 3 sets of 10 per leg. This loads the plantar fascia in a functional way.
 
-*Rolling pin or ball massage:* After the routine, roll the sole of your foot over a tennis ball or frozen water bottle for 2 minutes. The cold provides analgesic effect while the pressure breaks up adhesions in the fascia. [Check Price on Amazon](https://www.amazon.com/s?k=tennis+ball&tag=theforge05-20)
+*Rolling pin or ball massage:* After the routine, roll the sole of your foot over a tennis ball or frozen water bottle for 2 minutes. The cold provides analgesic effect while the pressure breaks up adhesions in the fascia. [Check Price on Amazon](https://www.amazon.com/s?k=tennis+ball&tag=plantarfasciitisg-20)
 
 ---
 

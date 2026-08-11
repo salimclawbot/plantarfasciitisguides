@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="mx-auto grid max-w-6xl gap-8 px-4 py-10 text-sm text-slate-700 sm:px-6 md:grid-cols-3">
         <div>
           <h3 className="font-semibold text-slate-900">Office Chair Picks</h3>
-          <p className="mt-2">Expert-tested office chair reviews, comparisons, and buying guides focused on pain relief and long-session comfort.</p>
+          <p className="mt-2">Specification-Based office chair reviews, comparisons, and buying guides focused on pain relief and long-session comfort.</p>
         </div>
         <div>
           <h3 className="font-semibold text-slate-900">Guides</h3>

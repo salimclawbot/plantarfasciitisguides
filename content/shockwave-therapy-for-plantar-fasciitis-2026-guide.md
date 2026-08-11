@@ -4,14 +4,12 @@ description: "Discover how shockwave therapy for plantar fasciitis works, how ef
 slug: shockwave-therapy-for-plantar-fasciitis-2026-guide
 publishedAt: "2026-04-24"
 dateModified: "2026-04-24"
-author: "Dr. Alex Chen, Physiotherapist & Sports Medicine Specialist"
+author: "Plantar Fasciitis Guides Editorial Team"
 category: "Plantar Fasciitis Treatments"
 image: "/images/articles/shockwave-therapy-for-plantar-fasciitis-hero.jpg"
 site_id: "plantarfasciitis-site"
 target_domain: "plantarfasciitisguides.com"
 primary_topic: "Shockwave Therapy for Plantar Fasciitis"
-faq_schema: '[{"@type":"Question","name":"What is shockwave therapy for plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"Shockwave therapy for plantar fasciitis is a non-invasive treatment that uses acoustic waves to deliver high-energy pulses to the affected plantar fascia tissue. The sound waves promote healing by increasing blood flow and stimulating cellular repair processes in the heel."}},{"@type":"Question","name":"Does shockwave therapy actually work for plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"Yes, clinical research supports shockwave therapy as an effective treatment for plantar fasciitis. Multiple randomized controlled trials have shown significant pain reduction and improved function, particularly for chronic cases that have not responded to conservative treatments like stretching and orthotics."}},{"@type":"Question","name":"How many sessions of shockwave therapy do you need for plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"Most patients require 3 to 5 shockwave therapy sessions, spaced 1 to 2 weeks apart. Each session typically lasts 10 to 15 minutes. Some patients begin feeling relief after the first session, while others may need the full course to achieve optimal results."}},{"@type":"Question","name":"What does shockwave therapy feel like? Does it hurt?","acceptedAnswer":{"@type":"Answer","text":"Shockwave therapy can be uncomfortable or mildly painful during treatment, similar to a deep massage on a bruised area. Pain levels vary by individual and the intensity setting used. Your clinician can adjust the energy level to keep you comfortable while maintaining effectiveness."}},{"@type":"Question","name":"How much does shockwave therapy cost for plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"The cost of shockwave therapy for plantar fasciitis ranges from $200 to $600 per session in the United States. A full course of 3 to 5 sessions can cost between $600 and $3,000. Some insurance plans cover ESWT when documented as medically necessary for chronic plantar fasciitis."}},{"@type":"Question","name":"What is the difference between focused and radial shockwave therapy?","acceptedAnswer":{"@type":"Answer","text":"Focused shockwave therapy (FSWT) directs high-energy waves to a specific depth in the tissue, making it suitable for deeper pathologies. Radial shockwave therapy (RSWT) distributes energy more broadly across the surface area and is typically more comfortable. Both types are used for plantar fasciitis, with focused shockwave generally considered more precise."}},{"@type":"Question","name":"Can you do shockwave therapy for plantar fasciitis at home?","acceptedAnswer":{"@type":"Answer","text":"Professional shockwave therapy requires specialized medical equipment that is not available for home use. Some handheld massage devices are marketed for plantar fasciitis, but they produce much lower energy levels and are not equivalent to clinical shockwave therapy. Always consult a qualified clinician for proper diagnosis and treatment."}},{"@type":"Question","name":"What should you not do after shockwave therapy for plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"After shockwave therapy, avoid high-impact activities like running, jumping, or prolonged standing for 24 to 48 hours. Do not take anti-inflammatory medications as they may reduce the therapy''s healing effect. Ice and rest are generally recommended, along with any prescribed stretching exercises."}}]'
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Shockwave Therapy for Plantar Fasciitis: A 2026 Guide","author":{"@type":"Person","name":"Dr. Alex Chen","jobTitle":"Physiotherapist & Sports Medicine Specialist"},"publisher":{"@type":"Organization","name":"Plantar Fasciitis Guides","url":"https://plantarfasciitisguides.com"},"datePublished":"2026-04-24","dateModified":"2026-04-24","mainEntityOfPage":{"@type":"WebPage","@id":"https://plantarfasciitisguides.com/shockwave-therapy-for-plantar-fasciitis-2026-guide"},"image":{"@type":"ImageObject","url":"https://plantarfasciitisguides.com/images/articles/shockwave-therapy-for-plantar-fasciitis-hero.jpg"},"about":{"@type":"MedicalCondition","name":"Plantar Fasciitis","alternateName":"Plantar Fascia Pain"}}'
 og_title: "Shockwave Therapy for Plantar Fasciitis: A 2026 Guide"
 og_description: "Complete guide to shockwave therapy for plantar fasciitis. Learn about effectiveness, costs, what to expect, and whether ESWT is right for you."
 og_image: "/images/articles/shockwave-therapy-for-plantar-fasciitis-og.jpg"
@@ -41,7 +39,7 @@ If you have been struggling with plantar fasciitis for months or years and are e
 - [Home Devices: Are They Worth It?](#home-devices-are-they-worth-it)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Sources & Methodology](#sources--methodology)
-- [Author Bio](#author-bio)
+
 
 ---
 
@@ -231,7 +229,7 @@ Shockwave therapy for plantar fasciitis has been studied extensively. Here is a 
 
 **Systematic reviews and meta-analyses:**
 
-- A 2022 meta-analysis published in the *Journal of Orthopaedic Surgery and Research* reviewed 14 randomized controlled trials involving over 1,000 patients with chronic plantar fasciitis. The authors concluded that ESWT significantly reduced morning pain and improved function compared to sham treatment, with effects maintained at 12-week and 6-month follow-ups.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 - A 2020 review in the *British Journal of Sports Medicine* analysed 29 trials and found ESWT produced a clinically meaningful reduction in pain (defined as a >30-point improvement on a 100-point visual analogue scale) in approximately 70–75% of patients treated for chronic plantar fasciitis.
 
@@ -327,7 +325,7 @@ Yes, and combination therapy is often recommended. Common combinations include:
 - **ESWT + orthotics:** Orthotics correct foot alignment issues that may be contributing to plantar fascia overload; ESWT treats the existing damage.
 - **ESWT + night splints:** The two treatments work synergistically — night splints provide continuous gentle stretch during sleep while ESWT stimulates repair.
 
-For more information on combining treatments, see our guide to [the best night splints for plantar fasciitis](https://plantarfasciitisguides.com/best-night-splints-for-plantar-fasciitis/) and our [complete guide to plantar fasciitis insoles](https://plantarfasciitisguides.com/plantar-fasciitis-insoles-complete-guide/).
+For more information on combining treatments, see our guide to the best night splints for plantar fasciitis and our complete guide to plantar fasciitis insoles.
 
 ![Treatment Escalation Pathway](/images/articles/shockwave-therapy-for-plantar-fasciitis-escalation.jpg)
 
@@ -397,7 +395,7 @@ Consumer devices may provide temporary symptomatic relief through massage and in
 
 If you are between clinical ESWT sessions, a quality percussion massager can help manage muscle tension in the calf and arch, which indirectly reduces load on the plantar fascia. Some patients also find them helpful for post-session soreness management.
 
-If you are considering purchasing a device, look for one from a reputable brand with positive reviews specifically mentioning plantar fasciitis. Our [guide to the best foot massagers for plantar fasciitis](https://plantarfasciitisguides.com/best-foot-massagers-for-plantar-fasciitis/) covers options in detail.
+If you are considering purchasing a device, look for one from a reputable brand with positive reviews specifically mentioning plantar fasciitis. Our guide to the best foot massagers for plantar fasciitis covers options in detail.
 
 ![Percussion Massager Lifestyle](/images/articles/shockwave-therapy-for-plantar-fasciitis-lifestyle.jpg)
 
@@ -466,23 +464,3 @@ After shockwave therapy, avoid high-impact activities like running, jumping, or 
 12. **American College of Foot and Ankle Surgeons (ACFAS).** "Position statement on ESWT for plantar fasciitis." Revised 2024.
 
 ---
-
-## Author Bio
-
-**Dr. Alex Chen** is a licensed physiotherapist and sports medicine specialist with over 15 years of clinical experience treating chronic musculoskeletal conditions including plantar fasciitis, Achilles tendinopathy, and lateral epicondylitis. He holds a Doctorate in Physical Therapy from the University of Pittsburgh and has completed advanced training in extracorporeal shockwave therapy through the International Society for Medical Shockwave Treatment (ISMST). In his clinical practice at a sports medicine clinic in Melbourne, Australia, Dr. Chen treats approximately 80–100 patients with chronic plantar fasciitis annually using a combination of manual therapy, exercise prescription, and ESWT. He is a member of the Australian Physiotherapy Association and the American Physical Therapy Association. This article was last updated on 24 April 2026.
-
-*Disclaimer: This article is for informational purposes only and does not constitute medical advice. Always consult a qualified healthcare professional before beginning any new treatment for plantar fasciitis.*
-
----
-
-**Internal links used in this article:**
-- [Best Night Splints for Plantar Fasciitis](https://plantarfasciitisguides.com/best-night-splints-for-plantar-fasciitis/) — linked in treatment comparison section
-- [Plantar Fasciitis Insoles Complete Guide](https://plantarfasciitisguides.com/plantar-fasciitis-insoles-complete-guide/) — linked in treatment comparison section
-- [Best Foot Massagers for Plantar Fasciitis](https://plantarfasciitisguides.com/best-foot-massagers-for-plantar-fasciitis/) — linked in home devices section
-- [Plantar Fasciitis Stretches Guide](https://plantarfasciitisguides.com/plantar-fasciitis-stretches-complete-guide/) — cross-reference to related content
-
-**Cross-network links:**
-- [Sciatica Spot — Plantar Fasciitis vs. Sciatica: How to Tell the Difference](https://sciaticaspot.com/plantar-fasciitis-vs-sciatica/) — linked in differential diagnosis context (cross-network)
-- [Tailbone Pain Relief Options](https://coccyxrelief.com/) — linked in comparative treatment section context (cross-network)
-
-*This article was researched and written by Rachel for plantarfasciitisguides.com on 24 April 2026.*

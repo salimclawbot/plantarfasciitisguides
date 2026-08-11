@@ -2,16 +2,14 @@
 title: "Night Splints for Plantar Fasciitis: Do They Work?"
 slug: "night-splints-for-plantar-fasciitis"
 meta_description: "Do night splints work for plantar fasciitis? Yes — clinical evidence shows 80%+ improvement. Best night splint picks, how they work, and how to wear them correctly. 2026."
-author: "Dr. Sarah Mitchell"
+author: "Plantar Fasciitis Guides Editorial Team"
 datePublished: "2026-03-21"
 dateModified: "2026-03-21"
-faq_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Do night splints actually work for plantar fasciitis?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes — clinical evidence supports night splints as an effective plantar fasciitis treatment. A 2002 study in Foot and Ankle International found that 80% of patients wearing night splints for 1-3 months experienced significant pain reduction. Night splints work by maintaining the foot in a dorsiflexed position during sleep, keeping the plantar fascia gently stretched. This prevents the micro-tears that form during sleep when the fascia shortens, which cause the characteristic first-step morning pain.\"}},{\"@type\":\"Question\",\"name\":\"How long does it take for night splints to work?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Most patients notice reduced morning pain within 2-4 weeks of consistent night splint use. Significant improvement typically occurs at 4-8 weeks. For best results, night splints should be worn every night for 8-12 weeks. About 10-20% of patients find night splints too uncomfortable to wear consistently, which limits their effectiveness — choosing the right splint type (sock-style vs hard boot) significantly affects compliance.\"}},{\"@type\":\"Question\",\"name\":\"What is the best night splint for plantar fasciitis?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The best night splint depends on comfort tolerance. For first-time users: sock-style compression night splints are the most comfortable, easiest to sleep in, and recommended for mild-to-moderate plantar fasciitis. For more severe cases or users who struggle with sock splints: dorsal night splints provide stronger dorsiflexion with better compliance rates than hard boot splints. Hard boot (posterior shell) splints provide the most therapeutic stretch but have the highest discontinuation rates due to discomfort.\"}},{\"@type\":\"Question\",\"name\":\"Can you sleep with a night splint on?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes — night splints are specifically designed to be worn during sleep. Modern sock-style and dorsal splints are comfortable enough that most users sleep through the night without significant disruption. Hard boot splints take more adjustment, typically 1-2 weeks for full comfort adaptation. If a splint consistently wakes you or prevents sleep, switch to a sock-style or dorsal design — a splint you don't wear provides no benefit.\"}},{\"@type\":\"Question\",\"name\":\"Can wearing a night splint disrupt sleep quality?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Some disruption is possible, particularly during the first 1-2 weeks of adaptation. Hard boot splints have the highest rates of sleep disruption. A 2016 study found that dorsal splints had significantly better compliance than posterior boot splints because they caused less sleep disruption. If sleep quality is a concern, start with a sock-style compression splint or dorsal splint and consider resources like sleepbetterfaster.com for managing sleep disruption during plantar fasciitis treatment.\"}},{\"@type\":\"Question\",\"name\":\"How tight should a night splint be?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Night splints should hold the foot at 90 degrees or slight dorsiflexion (5-10 degrees past neutral). The fit should be firm but not painful — you should feel a gentle stretch along the bottom of the foot and calf, not sharp pain. Tightness that causes numbness, tingling, or circulation issues indicates the splint is too tight and should be loosened immediately.\"}},{\"@type\":\"Question\",\"name\":\"Should I wear a night splint on both feet?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Wear a night splint only on the affected foot unless both feet are symptomatic. If bilateral plantar fasciitis is present, a single splint alternated each night is more practical and more comfortable than wearing two simultaneously, which significantly disrupts sleep and mobility.\"}},{\"@type\":\"Question\",\"name\":\"Are night splints covered by insurance?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Many health insurance plans cover night splints when prescribed by a physician for plantar fasciitis. Coverage varies by plan — some require pre-authorization or a podiatrist's prescription. Night splints on Amazon range from $20-65, making them affordable even without insurance coverage. Check your plan's durable medical equipment (DME) benefits for specifics.\"}}]}"
-article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Night Splints for Plantar Fasciitis: Do They Work?\",\"description\":\"Do night splints work for plantar fasciitis? Clinical evidence shows 80%+ improvement. Best night splint picks, how they work, and how to wear them correctly.\",\"author\":{\"@type\":\"Person\",\"name\":\"Dr. Sarah Mitchell\",\"jobTitle\":\"Podiatric Physician\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Plantar Fasciitis Guides\",\"url\":\"https://www.plantarfasciitisguides.com\"},\"datePublished\":\"2026-03-21\",\"dateModified\":\"2026-03-21\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.plantarfasciitisguides.com/night-splints-for-plantar-fasciitis\"},\"image\":\"https://www.plantarfasciitisguides.com/images/articles/night-splints-plantar-fasciitis-hero.jpg\"}"
 ---
 
 # Night Splints for Plantar Fasciitis: Do They Work?
 
-**By Dr. Sarah Mitchell, Podiatric Physician** | Last updated: March 21, 2026
+By Plantar Fasciitis Guides Editorial Team
 
 *This article is for informational purposes only. Consult a healthcare provider for diagnosis and treatment.*
 
@@ -95,7 +93,7 @@ A 2006 systematic review of non-surgical plantar fasciitis treatments ranked nig
       <p><strong>Best for:</strong> First-time users, most comfortable</p>
       <p><strong>Type:</strong> Sock-style | <strong>Rating:</strong> ⭐⭐⭐⭐⭐</p>
       <p><strong>Price:</strong> ~$45</p>
-      <a href="https://www.amazon.com/s?k=Strassburg+Sock+plantar+fasciitis&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=Strassburg+Sock+plantar+fasciitis&tag=plantarfasciitisg-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check on Amazon →</a>
     </div>
   </div>
   <div class="product-card">
@@ -105,7 +103,7 @@ A 2006 systematic review of non-surgical plantar fasciitis treatments ranked nig
       <p><strong>Best for:</strong> Best balance of stretch and sleep comfort</p>
       <p><strong>Type:</strong> Dorsal | <strong>Rating:</strong> ⭐⭐⭐⭐½</p>
       <p><strong>Price:</strong> ~$40</p>
-      <a href="https://www.amazon.com/s?k=Swede-O+dorsal+night+splint+plantar+fasciitis&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=Swede-O+dorsal+night+splint+plantar+fasciitis&tag=plantarfasciitisg-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check on Amazon →</a>
     </div>
   </div>
   <div class="product-card">
@@ -115,7 +113,7 @@ A 2006 systematic review of non-surgical plantar fasciitis treatments ranked nig
       <p><strong>Best for:</strong> Severe plantar fasciitis, maximum stretch</p>
       <p><strong>Type:</strong> Hard boot | <strong>Rating:</strong> ⭐⭐⭐⭐</p>
       <p><strong>Price:</strong> ~$55</p>
-      <a href="https://www.amazon.com/s?k=Ossur+plantar+fascia+night+splint&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=Ossur+plantar+fascia+night+splint&tag=plantarfasciitisg-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check on Amazon →</a>
     </div>
   </div>
   <div class="product-card">
@@ -125,12 +123,12 @@ A 2006 systematic review of non-surgical plantar fasciitis treatments ranked nig
       <p><strong>Best for:</strong> Budget-conscious, mild PF</p>
       <p><strong>Type:</strong> Sock-style | <strong>Rating:</strong> ⭐⭐⭐⭐</p>
       <p><strong>Price:</strong> ~$20</p>
-      <a href="https://www.amazon.com/s?k=BraceAbility+plantar+fasciitis+night+sock&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon →</a>
+      <a href="https://www.amazon.com/s?k=BraceAbility+plantar+fasciitis+night+sock&tag=plantarfasciitisg-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check on Amazon →</a>
     </div>
   </div>
 </div>
 
-<video autoplay muted loop playsinline poster="/images/articles/night-splints-for-plantar-fasciitis-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/night-splints-for-plantar-fasciitis-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/night-splints-for-plantar-fasciitis-demo.mp4" type="video/mp4">
 </video>
 
@@ -258,7 +256,7 @@ Only if both feet are symptomatic. For single-foot plantar fasciitis, wear only 
 
 ![Plantar fasciitis patient wearing night splint in bed comfortable sleeping position side view](/images/articles/night-splints-plantar-fasciitis-wearing-in-bed.jpg)
 
-For additional recovery support, consider [plantar fasciitis insoles](https://www.amazon.com/s?k=plantar+fasciitis+insoles+arch+support&tag=theforge05-20) for daytime footwear and a [plantar fasciitis massage ball](https://www.amazon.com/s?k=plantar+fasciitis+massage+ball&tag=theforge05-20) for morning fascial release before taking first steps.
+For additional recovery support, consider [plantar fasciitis insoles](https://www.amazon.com/s?k=plantar+fasciitis+insoles+arch+support&tag=plantarfasciitisg-20) for daytime footwear and a [plantar fasciitis massage ball](https://www.amazon.com/s?k=plantar+fasciitis+massage+ball&tag=plantarfasciitisg-20) for morning fascial release before taking first steps.
 
 ## Night Splint Sizing Guide
 

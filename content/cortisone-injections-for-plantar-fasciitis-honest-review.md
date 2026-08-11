@@ -73,7 +73,7 @@ faq:
 
 **Featured Snippet:** Cortisone injections for plantar fasciitis provide short-to-medium term pain relief for approximately 70-80% of patients, but carry significant risks including plantar fascia rupture, fat pad atrophy, and nerve damage. They are most effective when used conservatively (2-3 per year maximum) as part of a broader treatment plan that addresses underlying causes through stretching, physical therapy, and supportive footwear.
 
-![Plantar Fasciitis Anatomy](https://plantarfasciitisguides.com/images/articles/plantar-anatomy-illustration.png)
+!Plantar Fasciitis Anatomy
 
 Plantar fasciitis is one of the most common causes of heel pain, affecting an estimated 2 million Americans annually. After months of trying stretches, ice, and better shoes, many people find themselves sitting in a podiatrist's office considering a cortisone injection. It sounds like a quick fix. In reality, it's a nuanced treatment with real benefits and serious risks that you need to understand before you agree to a needle in your heel.
 
@@ -83,7 +83,7 @@ This is that honest conversation. We'll look at what the research actually says,
 
 A cortisone injection delivers a powerful anti-inflammatory corticosteroid directly into the affected area. For plantar fasciitis, the target is the plantar fascia—the thick band of connective tissue running along the bottom of your foot from your heel to your toes.
 
-![Plantar Fasciitis Treatment Pyramid](https://plantarfasciitisguides.com/images/articles/plantar-fasciitis-treatment-pyramid.jpg)
+!Plantar Fasciitis Treatment Pyramid
 
 The injection typically combines a synthetic corticosteroid (commonly triamcinolone, betamethasone, or methylprednisolone) with a local anesthetic like lidocaine. The anesthetic provides immediate—though temporary—pain relief, while the cortisone works to reduce inflammation over days to weeks.
 
@@ -95,9 +95,9 @@ The procedure itself is straightforward: your doctor cleans the area with antise
 
 The honest answer: cortisone injections work, but not as dramatically or as permanently as many patients hope.
 
-![Treatment Timeline Overview](https://plantarfasciitisguides.com/images/articles/plantar-treatment-timeline-infographic.png)
+!Treatment Timeline Overview
 
-![Recovery Timeline Infographic](https://plantarfasciitisguides.com/images/articles/recovery-timeline-infographic.png)
+!Recovery Timeline Infographic
 
 Multiple clinical studies and meta-analyses have evaluated cortisone injection efficacy for plantar fasciitis:
 
@@ -234,7 +234,7 @@ If your goal is to eliminate plantar fasciitis permanently with a single injecti
 
 Rest is still important after an injection. Some athletes feel so good so quickly that they return to running within days—before the cortisone has had time to fully integrate into the tissue—risking rupture. You need to respect the healing timeline, even when you feel no pain.
 
-![Recovery Healing Phases](https://plantarfasciitisguides.com/images/articles/recovery-healing-phases.png)
+!Recovery Healing Phases
 
 ## The Procedure: What to Expect
 
@@ -360,7 +360,7 @@ Patients often make this mistake: they get an injection, feel better, and abando
 ### 4. Choose Footwear Carefully During the Relief Period
 Use the pain-free period to transition to highly supportive footwear—quality running shoes, athletic shoes with good arch support, or shoes recommended by a podiatrist. Do not revert to unsupportive flats, sandals, or high heels just because the pain is gone.
 
-![Best Shoes for Plantar Fasciitis](https://plantarfasciitisguides.com/images/articles/best-shoes-plantar-fasciitis-hero.jpg)
+!Best Shoes for Plantar Fasciitis
 
 ### 5. Follow Return-to-Activity Guidelines
 Your doctor will give you a protocol. Resist the temptation to accelerate it. The tissue needs time to incorporate the cortisone. Returning to running or high-impact exercise too early is one of the strongest predictors of plantar fascia rupture post-injection.
@@ -398,9 +398,9 @@ If you've had 2-3 cortisone injections with diminishing or short-lived benefit, 
 
 ## When to Consider Night Splints Instead
 
-![Night Splints Anatomy](https://plantarfasciitisguides.com/images/articles/night-splints-plantar-fasciitis-anatomy.jpg)
+!Night Splints Anatomy
 
-![Night Splints for Plantar Fasciitis](https://plantarfasciitisguides.com/images/articles/night-splints-plantar-fasciitis-treatment-infographic.jpg)
+!Night Splints for Plantar Fasciitis
 
 If you're considering a cortisone injection but haven't tried night splints yet, you should try night splints first. These devices hold your ankle in a neutral-to-slightly-flexed position overnight, applying a sustained gentle stretch to the plantar fascia and Achilles tendon while you sleep.
 
@@ -415,7 +415,7 @@ Night splints are recommended for at least 4-6 weeks before considering injectio
 
 ## The Bottom Line
 
-Cortisone injections for plantar fasciitis are a legitimate, evidence-based treatment option with meaningful benefits and real risks. When used appropriately—sparingly, with proper spacing, and as part of a comprehensive treatment plan—they can provide significant relief for patients who have exhausted conservative options.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 They are not a shortcut. They are not a cure. They are a tool—and like any tool, their value depends entirely on how they are used.
 

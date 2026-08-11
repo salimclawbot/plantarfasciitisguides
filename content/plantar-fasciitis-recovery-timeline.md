@@ -1,102 +1,11 @@
----
-title: "Plantar Fasciitis Recovery Timeline: What to Expect"
-description: "Complete plantar fasciitis recovery timeline from Week 1 through Month 6+. Learn what to expect at each stage, which treatments work fastest, and when to see a doctor."
-slug: plantar-fasciitis-recovery-timeline
-datePublished: "2026-03-22"
-dateModified: "2026-03-22"
-author: "Dr. Lisa Park, Podiatrist"
-category: "Recovery & Treatment"
-faq_schema: |
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "How long does plantar fasciitis take to heal completely?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Most cases of plantar fasciitis resolve within 6 to 12 months with consistent conservative treatment. Approximately 80% of patients recover within 12 months using a combination of stretching, supportive footwear, orthotics, and activity modification. Mild cases may improve in as little as 6 to 8 weeks, while chronic or severe cases can take 12 to 18 months."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "What does plantar fasciitis recovery feel like week by week?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "In weeks 1-2, pain levels typically remain high but you establish a treatment routine. By weeks 3-4, morning pain often begins to decrease. Months 2-3 usually bring noticeable daily improvement. By months 3-6, most patients experience significant relief and can gradually return to full activity. Recovery is rarely linear — expect some setback days mixed with overall improvement."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Can plantar fasciitis heal in 2 weeks?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "It is unlikely for plantar fasciitis to heal completely in 2 weeks. While acute pain may decrease within the first two weeks of treatment, the underlying tissue damage takes considerably longer to repair. Most patients need at least 6 to 8 weeks of consistent conservative care before experiencing significant improvement. Rushing recovery increases the risk of re-injury."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "What slows down plantar fasciitis recovery?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "The most common factors that slow plantar fasciitis recovery include: continuing high-impact activities too early, wearing unsupportive shoes or going barefoot on hard surfaces, inconsistent stretching routines, excess body weight placing additional load on the fascia, standing for long periods on concrete or tile floors, and ignoring early symptoms until the condition becomes chronic."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "When should I see a doctor for plantar fasciitis?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "See a doctor if your heel pain persists after 4 to 6 weeks of consistent home treatment, if pain is severe enough to limit daily activities, if you experience numbness or tingling in the foot, if pain worsens despite treatment, or if you notice swelling, redness, or warmth around the heel. A podiatrist or orthopedic specialist can provide imaging, rule out other conditions, and recommend advanced treatments like shockwave therapy or corticosteroid injections."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Does plantar fasciitis ever go away permanently?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, plantar fasciitis can go away permanently. Studies show that over 90% of cases resolve with conservative treatment and do not recur when patients maintain preventive habits like regular stretching, wearing supportive footwear, maintaining a healthy weight, and using orthotics. However, approximately 10-15% of patients experience recurrence, typically when preventive measures are abandoned."
-        }
-      }
-    ]
-  }
-article_schema: |
-  {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Plantar Fasciitis Recovery Timeline: What to Expect",
-    "description": "Complete plantar fasciitis recovery timeline from Week 1 through Month 6+. Learn what to expect at each stage, which treatments work fastest, and when to see a doctor.",
-    "datePublished": "2026-03-22",
-    "dateModified": "2026-03-22",
-    "author": {
-      "@type": "Person",
-      "name": "Dr. Lisa Park",
-      "jobTitle": "Podiatrist"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Plantar Fasciitis Guides",
-      "url": "https://plantarfasciitisguides.com"
-    },
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://plantarfasciitisguides.com/plantar-fasciitis-recovery-timeline"
-    },
-    "image": [
-      "https://plantarfasciitisguides.com/images/articles/recovery-timeline-hero.png",
-      "https://plantarfasciitisguides.com/images/articles/recovery-timeline-infographic.png",
-      "https://plantarfasciitisguides.com/images/articles/recovery-week-1-2-rest.png"
-    ]
-  }
----
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 *This article contains affiliate links. If you purchase through our links, we may earn a small commission at no extra cost to you. This helps support our independent research and guides.*
 
 
 **Plantar fasciitis recovery typically takes 6 to 12 months with consistent conservative treatment, though mild cases can improve in as little as 6 to 8 weeks. Understanding what to expect at each stage — from the acute pain of the first weeks through gradual tissue healing over several months — helps you stay on track, avoid setbacks, and know when professional intervention is warranted.**
 
-*By Dr. Lisa Park, Podiatrist · Last updated March 2026*
+By Plantar Fasciitis Guides Editorial Team
 
 ---
 
@@ -207,7 +116,7 @@ By the end of the third and fourth weeks, most patients begin to notice the firs
 Recovery from plantar fasciitis is not linear. You will have good days and bad days during this phase, and that is entirely normal. A single bad morning does not mean your treatment is failing. Track your pain levels weekly rather than daily to get a more accurate picture of your overall trajectory. If you are consistently applying conservative treatment, the trend line should be gradually moving downward even if individual days fluctuate.
 
 <div class="video-container">
-  <video autoplay muted loop playsinline width="100%" style="border-radius:8px;margin:2rem 0">
+  <video class="w-full rounded-lg my-6" preload="metadata" controls muted width="100%" style="border-radius:8px;margin:2rem 0">
     <source src="/videos/plantar-fasciitis-recovery-timeline.mp4" type="video/mp4">
   </video>
   <p class="video-caption">Recovery timeline overview: What to expect from Week 1 through Month 6</p>
@@ -366,7 +275,7 @@ The Strassburg Sock is a lightweight night splint alternative that holds the foo
 **Pros:** Lightweight, breathable, clinically studied, affordable
 **Cons:** Can slip on narrow calves, some patients find the toe strap uncomfortable initially
 
-[Check Price on Amazon](https://www.amazon.com/s?k=Strassburg+Sock&tag=theforge05-20)
+[Check Price on Amazon](https://www.amazon.com/s?k=Strassburg+Sock&tag=plantarfasciitisg-20)
 
 </div>
 
@@ -383,7 +292,7 @@ The Powerstep Pinnacle is one of the most widely recommended over-the-counter or
 **Pros:** Strong arch support, durable construction, fits most shoes, podiatrist recommended
 **Cons:** May feel firm initially, arch height may not suit all foot shapes, trim-to-fit required
 
-[Check Price on Amazon](https://www.amazon.com/s?k=Powerstep+Pinnacle+Insoles&tag=theforge05-20)
+[Check Price on Amazon](https://www.amazon.com/s?k=Powerstep+Pinnacle+Insoles&tag=plantarfasciitisg-20)
 
 </div>
 
@@ -400,7 +309,7 @@ The TheraBand Foot Roller is a compact, ridged roller designed specifically for 
 **Pros:** Affordable, effective ridged surface, freezer-safe for cold therapy, portable
 **Cons:** Small size requires precise foot placement, may be too firm for acute inflammation
 
-[Check Price on Amazon](https://www.amazon.com/s?k=TheraBand+Foot+Roller&tag=theforge05-20)
+[Check Price on Amazon](https://www.amazon.com/s?k=TheraBand+Foot+Roller&tag=plantarfasciitisg-20)
 
 </div>
 
@@ -417,7 +326,7 @@ The Hoka Bondi 8 is one of the most popular shoes among plantar fasciitis patien
 **Pros:** Exceptional cushioning, smooth ride, comfortable out of the box, wide option available
 **Cons:** Heavy compared to minimal shoes, expensive, cushioning may feel too soft for some
 
-[Check Price on Amazon](https://www.amazon.com/s?k=Hoka+Bondi+8&tag=theforge05-20)
+[Check Price on Amazon](https://www.amazon.com/s?k=Hoka+Bondi+8&tag=plantarfasciitisg-20)
 
 </div>
 
@@ -434,7 +343,7 @@ The Orthofeet Coral is a walking shoe designed with therapeutic features that di
 **Pros:** Built-in orthotic insole, extra depth for custom inserts, lightweight, wide toe box
 **Cons:** Limited style options, may feel bulky, higher price point for a walking shoe
 
-[Check Price on Amazon](https://www.amazon.com/s?k=Orthofeet+Coral+Walking+Shoes&tag=theforge05-20)
+[Check Price on Amazon](https://www.amazon.com/s?k=Orthofeet+Coral+Walking+Shoes&tag=plantarfasciitisg-20)
 
 </div>
 
@@ -502,12 +411,6 @@ Moderate walking in supportive shoes is beneficial for plantar fasciitis recover
 
 ---
 
-## About the Author
-
-**Dr. Lisa Park, DPM** is a board-certified podiatrist with over 15 years of clinical experience specializing in heel pain, sports-related foot injuries, and biomechanical assessment. She received her Doctor of Podiatric Medicine from the Temple University School of Podiatric Medicine and completed her surgical residency at Hahnemann University Hospital in Philadelphia. Dr. Park is a Fellow of the American College of Foot and Ankle Surgeons and has published peer-reviewed research on plantar fasciitis treatment outcomes. She currently practices in Philadelphia, PA, and serves as a clinical advisor to Plantar Fasciitis Guides.
-
----
-
 ## Sources and Methodology
 
 This article was developed through a thorough review of current medical literature, clinical guidelines, and expert recommendations. The following sources were consulted:
@@ -524,8 +427,7 @@ This article was developed through a thorough review of current medical literatu
 - American College of Foot and Ankle Surgeons (ACFAS) Heel Pain Clinical Consensus Guidelines
 - National Institute for Health and Care Excellence (NICE) Guidelines on Musculoskeletal Conditions
 
-**Expert Consultation:**
-Treatment protocols and recovery timelines described in this article align with standard-of-care practices recommended by board-certified podiatrists, sports medicine physicians, and physical therapists. Dr. Lisa Park reviewed all content for clinical accuracy.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 **Product Evaluation Methodology:**
 Products featured in this article were evaluated based on clinical evidence supporting the product category, aggregate consumer reviews from major retail platforms, input from healthcare professionals, durability and build quality, and overall value. No manufacturer provided compensation, free products, or editorial influence in exchange for inclusion. Affiliate links are included for reader convenience; purchasing through these links may generate a small commission at no additional cost to you, which supports the ongoing maintenance of this site.

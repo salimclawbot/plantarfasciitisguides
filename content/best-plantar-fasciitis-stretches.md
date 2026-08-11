@@ -4,8 +4,7 @@ meta_description: "Discover 10 proven plantar fasciitis stretches for morning re
 slug: best-plantar-fasciitis-stretches
 datePublished: 2026-03-17
 dateModified: "2026-03-17"
-author: "Dr. Sarah Olsen, DPT, Sports Physiotherapist"
-faq_schema: |
+author: "Plantar Fasciitis Guides Editorial Team"
   {
     "@context": "https://schema.org",
     "@type": "FAQPage",
@@ -60,7 +59,6 @@ faq_schema: |
       }
     ]
   }
-article_schema: |
   {
     "@context": "https://schema.org",
     "@type": "Article",
@@ -68,7 +66,7 @@ article_schema: |
     "description": "Discover 10 proven plantar fasciitis stretches for morning relief. Step-by-step routine from a sports physiotherapist to reduce heel pain fast.",
     "author": {
       "@type": "Person",
-      "name": "Dr. Sarah Olsen, DPT, Sports Physiotherapist"
+      "name": "Plantar Fasciitis Guides Editorial Team"
     },
     "publisher": {
       "@type": "Organization",
@@ -87,11 +85,11 @@ article_schema: |
 
 # Best Plantar Fasciitis Stretches: Morning Routine That Actually Works (2026)
 
-<video autoplay muted loop playsinline poster="/images/articles/best-plantar-fasciitis-stretches-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/best-plantar-fasciitis-stretches-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/best-plantar-fasciitis-stretches-demo.mp4" type="video/mp4">
 </video>
 
-**If you dread those first morning steps because of stabbing heel pain, the right stretching routine can change everything. Research shows that a targeted 10-minute morning stretch protocol—performed before your feet even hit the floor—reduces plantar fasciitis pain by up to 52% within six weeks. Below is the exact evidence-based routine I prescribe to my patients.**
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 
 <figure style="margin:1.5rem 0;">
@@ -102,13 +100,13 @@ article_schema: |
 <div style="background:linear-gradient(135deg,#b45309,#d97706);border-radius:16px;padding:24px;color:white;margin:2rem 0;">
 <p style="font-size:0.75rem;font-weight:700;letter-spacing:0.2em;text-transform:uppercase;opacity:0.8;margin:0 0 8px 0;">Morning Tip</p>
 <p style="font-size:1.1rem;font-weight:700;margin:0 0 4px 0;">🌅 Stretch before your first step — every single morning</p>
-<p style="font-size:0.9rem;opacity:0.85;margin:0;">The fascia tightens overnight. 2 minutes of stretching before standing reduces first-step pain by up to 60%</p>
+<p style="font-size:0.9rem;opacity:0.85;margin:0;">Some people find gentle movement before standing more comfortable; stop if symptoms worsen and ask a qualified clinician for individual advice.</p>
 </div>
 
 
-As a sports physiotherapist who has treated thousands of plantar fasciitis cases over the past 15 years, I can tell you one thing with certainty: most people stretch incorrectly, at the wrong time, or give up too soon. The difference between patients who recover in weeks versus those who suffer for months almost always comes down to having a structured, daily stretching routine—and doing it at the right moment.
+Published guidance commonly includes consistent, appropriately paced stretching as one part of conservative care. Technique, timing, tolerance, and recovery vary, so this guide does not claim a practitioner identity or guarantee a recovery timeline.
 
-In this guide, I'll walk you through 10 specific stretches that target the plantar fascia, Achilles tendon, calf muscles, and the entire posterior chain. You'll get exact instructions, sets, reps, and the science behind why each one works. More importantly, you'll learn *when* to do them for maximum benefit.
+This guide outlines 10 movements involving the plantar fascia, Achilles tendon, calf muscles, and posterior chain, with practical technique and timing considerations. Use the instructions as general education rather than an individual treatment prescription.
 
 If you're also looking for strengthening exercises to complement your stretching, check out our complete guide to [plantar fasciitis exercises](/plantar-fasciitis-exercises).
 
@@ -150,8 +148,8 @@ This doesn't mean evening stretching is useless (we'll cover that later), but if
 
 Most of these stretches require no equipment at all. However, a few optional tools can enhance your routine:
 
-- **Stretch board / slant board** — [ProStretch Original Calf Stretcher](https://www.amazon.com/dp/B001HTFZZ8?tag=theforge05-20) provides a consistent angle for calf stretches
-- **Massage ball or frozen water bottle** — [TheraBand Foot Roller](https://www.amazon.com/dp/B01BXXWXCY?tag=theforge05-20) is purpose-built for plantar fascia release
+- **Stretch board / slant board** — [ProStretch Original Calf Stretcher](https://www.amazon.com/dp/B001HTFZZ8?tag=plantarfasciitisg-20) provides a consistent angle for calf stretches
+- **Massage ball or frozen water bottle** — [TheraBand Foot Roller](https://www.amazon.com/dp/B01BXXWXCY?tag=plantarfasciitisg-20) is purpose-built for plantar fascia release
 - **A towel or resistance band** — for seated toe stretches
 
 ---
@@ -177,7 +175,7 @@ This is the single most evidence-supported stretch for plantar fasciitis. It spe
 
 **Sets/Reps:** 3 sets of 30-second holds. Perform before your first step out of bed.
 
-**Pro tip:** This stretch is most effective when performed *before standing up*. I tell my patients to set an alarm 5 minutes earlier and do this stretch while still sitting on the bed.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ---
 
@@ -254,7 +252,7 @@ This stretch uses gravity and your body weight for a deeper stretch than wall-ba
 
 **Sets/Reps:** 3 sets of 30-second holds. Do both straight-leg and bent-knee versions.
 
-**Pro tip:** A [slant board](https://www.amazon.com/dp/B001HTFZZ8?tag=theforge05-20) can replicate this stretch on flat ground, which is useful when stairs aren't available or if balance is a concern.
+**Pro tip:** A [slant board](https://www.amazon.com/dp/B001HTFZZ8?tag=plantarfasciitisg-20) can replicate this stretch on flat ground, which is useful when stairs aren't available or if balance is a concern.
 
 ---
 
@@ -266,7 +264,7 @@ This is both a stretch and a self-massage technique. The cold from the frozen bo
 
 **How to do it:**
 
-1. Fill a water bottle and freeze it, or use a [foot roller](https://www.amazon.com/dp/B01BXXWXCY?tag=theforge05-20).
+1. Fill a water bottle and freeze it, or use a [foot roller](https://www.amazon.com/dp/B01BXXWXCY?tag=plantarfasciitisg-20).
 2. Sit in a chair and place the bottle on the floor.
 3. Place the arch of your affected foot on the bottle.
 4. Slowly roll your foot back and forth from heel to the ball of the foot.
@@ -438,7 +436,7 @@ Evening stretching still plays an important supporting role:
 
 For persistent cases, a [night splint](/best-night-splints-plantar-fasciitis) holds your foot in a dorsiflexed position while you sleep, preventing the fascia from contracting overnight. This essentially gives you 6-8 hours of passive stretching.
 
-Popular options include the [Strassburg Sock](https://www.amazon.com/dp/B000LFJJIQ?tag=theforge05-20), which is lighter and more comfortable than rigid boot-style splints, and the [Mars Wellness Dorsal Night Splint](https://www.amazon.com/dp/B07B3RT57S?tag=theforge05-20), which offers more aggressive dorsiflexion for severe cases.
+Popular options include the [Strassburg Sock](https://www.amazon.com/dp/B000LFJJIQ?tag=plantarfasciitisg-20), which is lighter and more comfortable than rigid boot-style splints, and the [Mars Wellness Dorsal Night Splint](https://www.amazon.com/dp/B07B3RT57S?tag=plantarfasciitisg-20), which offers more aggressive dorsiflexion for severe cases.
 
 Combining a night splint with your morning stretch routine is one of the most effective conservative treatment strategies available. Our guide to the [best night splints for plantar fasciitis](/best-night-splints-plantar-fasciitis) reviews the top options in detail.
 
@@ -545,8 +543,7 @@ The patients who recover fastest are the ones who make this routine as automatic
 
 And remember: stretching is the foundation, but a complete recovery plan includes [proper footwear and insoles](/best-insoles-plantar-fasciitis), [targeted strengthening exercises](/plantar-fasciitis-exercises), and possibly a [night splint](/best-night-splints-plantar-fasciitis) for stubborn cases. Give your body the support it needs during the day and the gentle stretch it needs every morning, and those stabbing first steps will become a thing of the past.
 
-*Dr. Sarah Olsen is a Doctor of Physical Therapy and board-certified sports physiotherapist with over 15 years of clinical experience treating foot and ankle conditions. She has published peer-reviewed research on conservative management of plantar fasciitis and lectures nationally on evidence-based rehabilitation strategies.*
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 
 ## Visual Guide Gallery
-

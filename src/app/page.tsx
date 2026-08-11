@@ -1,21 +1,30 @@
 import Link from "next/link";
 import { getAllArticles } from "@/lib/articles";
+import { isIndexableContentSlug } from "@/lib/content-index-policy";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: { absolute: "Plantar Fasciitis Guides: Evidence-Based Heel Pain Relief (2026)" },
-  description: "Physiotherapist-reviewed plantar fasciitis guides for shoes, insoles, night splints, stretches, and treatments that work.",
+  title: { absolute: "Plantar Fasciitis Guide: Heel Pain Relief 2026" },
+  description:
+    "Research-informed plantar fasciitis guidance on shoes, insoles, night splints, and movement recovery with transparent comparison criteria.",
   alternates: { canonical: "https://plantarfasciitisguides.com" },
   openGraph: {
-    title: "Plantar Fasciitis Guides: Evidence-Based Heel Pain Relief (2026)",
-    description: "Physiotherapist-reviewed plantar fasciitis guides for shoes, insoles, night splints, stretches, and treatments that work.",
+    title: "Plantar Fasciitis Guide: Heel Pain Relief 2026",
+    description:
+      "Research-informed plantar fasciitis guidance on shoes, insoles, night splints, and movement recovery with transparent comparison criteria.",
     url: "https://plantarfasciitisguides.com",
     type: "website",
   },
-};
+
+  twitter: {
+    card: "summary_large_image",
+    title: "Plantar Fasciitis Guide: Heel Pain Relief 2026",
+    description: "Research-informed plantar fasciitis guidance on shoes, insoles, night splints, and movement recovery with transparent ranking criteria for safer purchase decisions.",
+    images: ["https://plantarfasciitisguides.com/editorial-hero.png"],
+  }};
 
 export default async function HomePage() {
-  const articles = await getAllArticles();
+  const articles = (await getAllArticles()).filter((article) => isIndexableContentSlug(article.slug));
   return (
     <>
       <section className="bg-gradient-to-br from-amber-50 via-white to-orange-50 py-16 sm:py-24">
@@ -25,7 +34,7 @@ export default async function HomePage() {
             Plantar Fasciitis Guides: Stop the Morning Heel Pain
           </h1>
           <p className="mt-6 text-lg sm:text-xl text-gray-600 max-w-2xl mx-auto leading-relaxed">
-            Physio-reviewed guides for plantar fasciitis shoes, insoles, night splints, stretches, and recovery strategies.
+            research-informed guides for plantar fasciitis shoes, insoles, night splints, stretches, and recovery strategies.
           </p>
           <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/plantar-fasciitis-exercises" className="inline-flex items-center justify-center bg-amber-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-amber-700 transition-colors">Best Stretches</Link>

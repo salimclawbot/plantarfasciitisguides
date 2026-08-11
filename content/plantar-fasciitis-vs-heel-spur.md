@@ -3,10 +3,8 @@ title: "Plantar Fasciitis vs Heel Spur: What Is the Difference?"
 description: "Learn the key differences between plantar fasciitis and heel spurs, including causes, symptoms, diagnosis, and treatment options. Expert podiatrist guide with comparison table and FAQs."
 slug: plantar-fasciitis-vs-heel-spur
 publishedAt: '2026-03-18'
-author: "Dr. Lisa Park, Podiatrist DPM"
+author: "Plantar Fasciitis Guides Editorial Team"
 image: '/images/plantar-fasciitis-vs-heel-spur-hero.jpg'
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Plantar Fasciitis vs Heel Spur: What Is the Difference?","description":"Learn the key differences between plantar fasciitis and heel spurs, including causes, symptoms, diagnosis, and treatment options. Expert podiatrist guide with comparison table and FAQs.","author":{"@type":"Person","name":"Dr. Lisa Park"},"publisher":{"@type":"Organization","name":"Plantar Fasciitis Guides","url":"https://plantarfasciitisguides.com"},"datePublished":"2026-03-18","dateModified":"2026-03-18","mainEntityOfPage":{"@type":"WebPage","@id":"https://plantarfasciitisguides.com/plantar-fasciitis-vs-heel-spur"},"image":"https://plantarfasciitisguides.com/og-image.jpg"}'
-faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Understanding the Anatomy of Your Heel","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://plantarfasciitisguides.com/plantar-fasciitis-vs-heel-spur for comprehensive information about understanding the anatomy of your heel."}},{"@type":"Question","name":"What Is Plantar Fasciitis?","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://plantarfasciitisguides.com/plantar-fasciitis-vs-heel-spur for comprehensive information about what is plantar fasciitis?."}},{"@type":"Question","name":"What Is a Heel Spur?","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://plantarfasciitisguides.com/plantar-fasciitis-vs-heel-spur for comprehensive information about what is a heel spur?."}},{"@type":"Question","name":"Plantar Fasciitis vs Heel Spur: Key Differences","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://plantarfasciitisguides.com/plantar-fasciitis-vs-heel-spur for comprehensive information about plantar fasciitis vs heel spur: key differences."}},{"@type":"Question","name":"Comparison Table: Plantar Fasciitis vs Heel Spur","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://plantarfasciitisguides.com/plantar-fasciitis-vs-heel-spur for comprehensive information about comparison table: plantar fasciitis vs heel spur."}},{"@type":"Question","name":"How Are They Diagnosed?","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://plantarfasciitisguides.com/plantar-fasciitis-vs-heel-spur for comprehensive information about how are they diagnosed?."}}]}'
 ---
 
 # Plantar Fasciitis vs Heel Spur: What Is the Difference?
@@ -22,7 +20,7 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 ## Table of Contents
 
 
-<video autoplay muted loop playsinline poster="/images/plantar-fasciitis-vs-heel-spur/hero.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/plantar-fasciitis-vs-heel-spur/hero.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/plantar-fasciitis-vs-heel-spur-demo.mp4" type="video/mp4">
 </video>
 
@@ -253,19 +251,19 @@ Because plantar fasciitis and heel spurs share biomechanical causes, several tre
 
 Supportive insoles remain one of the most effective non-invasive treatments for both conditions. A well-designed orthotic redistributes plantar pressure, supports the arch, and reduces strain on both the plantar fascia and the area surrounding the heel spur. A randomized controlled trial published in *Foot & Ankle International* found that prefabricated orthotics were as effective as custom orthotics for most patients with plantar heel pain at the 12-month follow-up.
 
-**Recommended:** [Superfeet GREEN Insoles](https://www.amazon.com/dp/B003COM52S?tag=theforge05-20) — Professional-grade orthotic insoles with a deep heel cup and structured arch support that benefits both plantar fasciitis and heel spur pain.
+**Recommended:** [Superfeet GREEN Insoles](https://www.amazon.com/dp/B003COM52S?tag=plantarfasciitisg-20) — Professional-grade orthotic insoles with a deep heel cup and structured arch support that benefits both plantar fasciitis and heel spur pain.
 
 ### Night Splints
 
 Night splints hold the ankle at a 90-degree angle during sleep, preventing the plantar fascia from contracting overnight. This reduces the intensity of that characteristic first-step morning pain. For heel spur patients, the gentle sustained stretch also reduces tension at the calcaneal attachment where the spur has formed.
 
-**Recommended:** [Mars Wellness Plantar Fasciitis Night Splint](https://www.amazon.com/dp/B07BDFFT5K?tag=theforge05-20) — An adjustable dorsal night splint that keeps the foot in a neutral position overnight, with padded straps designed to avoid pressure on the heel spur area.
+**Recommended:** [Mars Wellness Plantar Fasciitis Night Splint](https://www.amazon.com/dp/B07BDFFT5K?tag=plantarfasciitisg-20) — An adjustable dorsal night splint that keeps the foot in a neutral position overnight, with padded straps designed to avoid pressure on the heel spur area.
 
 ### Heel Cups
 
 Gel or silicone heel cups provide targeted cushioning directly under the calcaneus. They absorb shock during heel strike and redistribute pressure away from the central heel — directly benefiting patients with heel spurs while also reducing impact forces transmitted through the plantar fascia.
 
-**Recommended:** [Tuli's Heavy Duty Heel Cups](https://www.amazon.com/dp/B000GCZP68?tag=theforge05-20) — Multi-cell, multi-layer waffle design that provides superior shock absorption. Recommended by podiatrists for both plantar fasciitis and heel spur pain relief.
+**Recommended:** [Tuli's Heavy Duty Heel Cups](https://www.amazon.com/dp/B000GCZP68?tag=plantarfasciitisg-20) — Multi-cell, multi-layer waffle design that provides superior shock absorption. Recommended by podiatrists for both plantar fasciitis and heel spur pain relief.
 
 ### Physical Therapy
 
@@ -305,7 +303,7 @@ Whether you have had plantar fasciitis, a heel spur, or want to avoid both, thes
 ![A lifestyle photograph of a person performing a standing calf stretch against a wall with proper for](/images/plantar-fasciitis-vs-heel-spur/heel-spur-xray.jpg)
 
 
-> **See also:** [low-impact walking for plantar fasciitis recovery](https://walkingpadpicks.com/best-walking-pad-for-heavy-users)
+> **See also:** low-impact walking for plantar fasciitis recovery
 
 
 ## Frequently Asked Questions
@@ -400,7 +398,7 @@ Yes, but you should modify your activities. High-impact exercises like running a
   "image": "/images/plantar-fasciitis-vs-heel-spur-hero.jpg",
   "author": {
     "@type": "Person",
-    "name": "Dr. Lisa Park",
+    "name": "Plantar Fasciitis Guides Editorial Team",
     "jobTitle": "Podiatrist DPM"
   },
   "publisher": {
@@ -421,7 +419,7 @@ Yes, but you should modify your activities. High-impact exercises like running a
 
 ## Sources and Methodology
 
-This article was written by Dr. Lisa Park, DPM, and reviewed for medical accuracy using peer-reviewed research and clinical guidelines from leading orthopedic and podiatric organizations. All statistical claims, treatment recommendations, and diagnostic criteria are supported by the following sources:
+By Plantar Fasciitis Guides Editorial Team
 
 1. **Riddle, D.L., et al.** "Risk factors for plantar fasciitis: a matched case-control study." *Journal of Bone and Joint Surgery*, vol. 85, no. 5, 2003, pp. 872–877. — Foundational epidemiological study on plantar fasciitis risk factors.
 
@@ -443,7 +441,7 @@ This article was written by Dr. Lisa Park, DPM, and reviewed for medical accurac
 
 ---
 
-*Reviewed and updated: March 2026. For more guides on managing heel pain and related foot conditions, explore our full library at [plantarfasciitisguides.com](https://www.plantarfasciitisguides.com).*
+*Reviewed and updated: March 2026. For more guides on managing heel pain and related foot conditions, explore our full library at plantarfasciitisguides.com.*
 
 
 ![KT tape application guide for plantar fasciitis](/images/plantar-fasciitis-vs-heel-spur/plantar-fasciitis-taping.jpg)

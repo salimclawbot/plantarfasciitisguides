@@ -3,7 +3,7 @@ title: "Plantar Fasciitis Exercises: 10-Minute Morning Routine for Heel Pain Rel
 slug: plantar-fasciitis-exercises-10-minute-morning-routine
 publishedAt: "2026-04-22"
 dateModified: "2026-04-22"
-author: "Dr. James Mitchell, DPT, Physical Therapy Specialist"
+author: "Plantar Fasciitis Guides Editorial Team"
 category: "Plantar Fasciitis Treatment"
 image: "/images/articles/plantar-fasciitis-morning-exercises-hero.jpg"
 site_id: "plantarfasciitis-site"
@@ -15,11 +15,9 @@ og_description: "Spend 10 minutes each morning doing these targeted plantar fasc
 og_image: "/images/articles/plantar-fasciitis-morning-exercises-og.jpg"
 og_site_name: "Plantar Fasciitis Guides"
 twitter_card: "summary_large_image"
-faq_schema: '[{"@type":"Question","name":"How long should I do these morning exercises for plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"Most people see improvement within 2-3 weeks of consistent daily exercise. Continue the routine even after symptoms improve to prevent recurrence. Consistency is more important than intensity — 10 minutes every morning is better than 30 minutes twice a week."}},{"@type":"Question","name":"Should I do these exercises before or after getting out of bed?","acceptedAnswer":{"@type":"Answer","text":"The first few exercises (calf stretch and toe stretches) should be done while still in bed before your foot touches the floor. This pre-loads the tissues gently and reduces the sharp heel pain that many plantar fasciitis sufferers experience with their first steps. Once you are seated and have done the seated stretches, you can stand for the final exercises."}},{"@type":"Question","name":"Can morning exercises completely cure plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"Morning exercises alone cannot cure plantar fasciitis, but they are a critical component of a comprehensive treatment plan. Research published in the Journal of Foot and Ankle Research (2019) found that a combination of stretching, strengthening, and activity modification produced the best long-term outcomes. Exercises work best when combined with supportive footwear, arch support, and appropriate rest."}},{"@type":"Question","name":"What is the first sign that plantar fasciitis exercises are working?","acceptedAnswer":{"@type":"Answer","text":"Most people first notice a reduction in the sharp heel pain when they take their first steps in the morning. Over 2-4 weeks, you should also notice improved ability to stand for longer periods, reduced pain after exercise, and better overall foot flexibility. Keep a daily pain diary on a 0-10 scale to track your progress objectively."}},{"@type":"Question","name":"Can I do these exercises if I also have heel spurs?","acceptedAnswer":{"@type":"Answer","text":"Yes, these exercises are safe and appropriate for people with both plantar fasciitis and heel spurs. Heel spurs themselves rarely cause pain — it is the inflamed plantar fascia tissue surrounding the spur that produces symptoms. Stretching and strengthening addresses the soft tissue component. If any exercise causes sharp, worsening pain, stop and consult your physical therapist or podiatrist."}},{"@type":"Question","name":"Is heat or ice better before morning exercises?","acceptedAnswer":{"@type":"Answer","text":"Ice is generally more beneficial before morning exercises if you experience significant first-step pain. Apply an ice pack for 10-15 minutes while still in bed, then perform the exercises. The cold reduces inflammation and temporarily dulls pain receptors, allowing you to move more comfortably. Heat is better reserved for the evening to promote blood flow and tissue relaxation. Some people prefer a contrast approach — 5 minutes ice, 5 minutes heat — for maximum benefit."}}]'
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Plantar Fasciitis Exercises: 10-Minute Morning Routine for Heel Pain Relief","author":{"@type":"Person","name":"Dr. James Mitchell, DPT"},"publisher":{"@type":"Organization","name":"Plantar Fasciitis Guides","url":"https://plantarfasciitisguides.com"},"datePublished":"2026-04-22","dateModified":"2026-04-22","mainEntityOfPage":{"@type":"WebPage","@id":"https://plantarfasciitisguides.com/plantar-fasciitis-exercises-10-minute-morning-routine"},"image":{"@type":"ImageObject","url":"https://plantarfasciitisguides.com/images/articles/plantar-fasciitis-morning-exercises-hero.jpg"}}'
 ---
 
-*Last updated on 22 April 2026 — Reviewed by Dr. James Mitchell, DPT*
+By Plantar Fasciitis Guides Editorial Team
 
 # Plantar Fasciitis Exercises: 10-Minute Morning Routine for Heel Pain Relief
 
@@ -274,7 +272,7 @@ Most people can perform this entire routine comfortably within 2 weeks. When it 
 
 *Step-ups:* Find a bottom stair. Holding the railing for safety, step up onto the stair with one foot, then push through your heel to bring the other foot up. Step down the same way. 3 sets of 10 per leg. This loads the plantar fascia in a functional way.
 
-*Ball massage:* After the routine, roll the sole of your foot over a tennis ball or frozen water bottle for 2 minutes. The cold provides analgesic effect while the pressure breaks up adhesions in the fascia. [Check Price on Amazon](https://www.amazon.com/s?k=tennis+ball&tag=theforge05-20)
+*Ball massage:* After the routine, roll the sole of your foot over a tennis ball or frozen water bottle for 2 minutes. The cold provides analgesic effect while the pressure breaks up adhesions in the fascia. [Check Price on Amazon](https://www.amazon.com/s?k=tennis+ball&tag=plantarfasciitisg-20)
 
 ---
 
@@ -296,7 +294,7 @@ Even with the best intentions, people with plantar fasciitis often make these mi
 
 ## Cross-Network Resource
 
-For complementary morning routines that address related conditions, explore our sister site on sciatica management. Many people with plantar fasciitis also experience lower limb biomechanical issues that can contribute to or result from sciatic nerve tension. The [sciatica morning stretches guide on SciaticaSpot.com](https://sciaticaspot.com/sciatica-morning-stretches/) covers a related routine that may support your overall lower body health.
+For complementary morning routines that address related conditions, explore our sister site on sciatica management. Many people with plantar fasciitis also experience lower limb biomechanical issues that can contribute to or result from sciatic nerve tension. The sciatica morning stretches guide on SciaticaSpot.com covers a related routine that may support your overall lower body health.
 
 ---
 
@@ -362,12 +360,11 @@ Once a day is sufficient for most people. Some individuals with particularly sev
 
 ---
 
-**Methodology notes:**
-This article was written by a licensed physical therapist and references peer-reviewed research from PubMed-indexed journals. All exercise instructions include safety cues and contraindications. The 10-minute routine was designed to address the three primary issues in morning plantar fasciitis pain: tissue shortening overnight, reduced blood flow at rest, and weak intrinsic foot support. Each exercise was selected based on clinical evidence of efficacy for plantar fasciitis management. This article does not substitute for professional medical advice — consult your physical therapist or podiatrist before beginning any new exercise programme.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ---
 
-*Dr. James Mitchell is a Doctor of Physical Therapy with 12 years of clinical experience in sports medicine and orthopaedic rehabilitation. He specialises in lower limb biomechanics and has treated over 1,000 patients with plantar fasciitis. His approach combines evidence-based exercise prescription with patient education for long-term outcomes.*
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ---
 

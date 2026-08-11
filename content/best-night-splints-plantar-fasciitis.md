@@ -2,22 +2,20 @@
 title: "Best Night Splints for Plantar Fasciitis (2026)"
 slug: best-night-splints-plantar-fasciitis
 date: "2026-03-13"
-author: Dr. James O'Brien, Podiatrist & Sports Medicine Specialist
+author: "Plantar Fasciitis Guides Editorial Team"
 site: plantarfasciitisguides
 type: article
 status: published
 meta_description: "Best night splints for plantar fasciitis in 2026. Podiatrist-reviewed picks with comparison table, pros & cons. Find your ideal splint for relief today."
 source_path: /Users/openclaw/plantarfasciitisguides/best-night-splints-plantar-fasciitis
-faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do night splints really work for plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"Yes. Clinical research supports night splint use for plantar fasciitis. A 2019 systematic review in the Journal of Foot and Ankle Research found that patients who used night splints experienced a 68% improvement in morning heel pain within 8 to 12 weeks compared to 43% in the control group receiving stretching alone. Night splints work by maintaining the plantar fascia and Achilles tendon in a gentle stretch during sleep, which prevents the micro-contracture cycle that causes intense first-step morning pain."}},{"@type":"Question","name":"How long should I wear a plantar fasciitis night splint?","acceptedAnswer":{"@type":"Answer","text":"Most podiatrists recommend wearing a night splint for at least 6 to 8 hours during sleep, consistently for 8 to 12 weeks. Some patients notice improvement in morning heel pain within the first 1 to 2 weeks, but the full therapeutic benefit typically requires at least 4 weeks of consistent use. After symptoms resolve, many clinicians advise continuing use 2 to 3 nights per week for an additional month to prevent relapse."}},{"@type":"Question","name":"What is the difference between a boot-style and a sock-style night splint?","acceptedAnswer":{"@type":"Answer","text":"Boot-style (dorsal or posterior) night splints are rigid or semi-rigid devices that hold the foot at a fixed 90-degree angle. They provide the strongest stretch and most consistent dorsiflexion, but are bulkier and can be uncomfortable for side sleepers. Sock-style night splints use elastic tension straps attached to a sock or sleeve to maintain a gentle stretch. They are lighter, more comfortable, and easier to sleep in, but deliver a less aggressive stretch. Boot-style splints are generally recommended for moderate to severe cases, while sock-style splints suit mild cases or patients who cannot tolerate a rigid device."}},{"@type":"Question","name":"Can I walk in a night splint for plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"Night splints are not designed for walking. Boot-style splints lack a proper sole tread and the fixed dorsiflexion angle makes normal gait biomechanically impossible. Sock-style splints have no structural support for weight-bearing. Walking in either type risks falls and provides no therapeutic benefit beyond what occurs during sleep. If you need a walking boot for plantar fasciitis, use a dedicated CAM boot prescribed by your podiatrist."}},{"@type":"Question","name":"Should I use a night splint on one foot or both?","acceptedAnswer":{"@type":"Answer","text":"Use the night splint only on the affected foot unless both feet have diagnosed plantar fasciitis. Bilateral plantar fasciitis affects roughly 20 to 30 percent of patients. Wearing a splint on an unaffected foot provides no preventive benefit and may disrupt sleep quality. If you have bilateral symptoms, you can use two splints, but many patients find it more practical to alternate feet each night and gradually progress to wearing both simultaneously."}},{"@type":"Question","name":"Are night splints or Strassburg socks better for plantar fasciitis?","acceptedAnswer":{"@type":"Answer","text":"The Strassburg Sock is technically a type of night splint — a sock-style design that uses a single adjustable strap from the toe area to the shin to maintain dorsiflexion. A 2002 study in the Journal of Foot and Ankle Surgery found the Strassburg Sock resolved symptoms in 97.8 percent of patients within an average of 18.5 days. However, boot-style splints provide a more controlled and consistent dorsiflexion angle. For most patients, the best option is whichever device they will actually wear consistently. Compliance is the strongest predictor of outcomes."}}]}'
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Best Night Splints for Plantar Fasciitis (2026)","description":"Podiatrist-reviewed guide to the best night splints for plantar fasciitis in 2026. Expert comparison of boot-style, dorsal, and sock-style splints with clinical evidence and buying advice.","author":{"@type":"Person","name":"Dr. James O''''Brien","jobTitle":"Podiatrist & Sports Medicine Specialist"},"publisher":{"@type":"Organization","name":"Plantar Fasciitis Guides","url":"https://plantarfasciitisguides.com","logo":{"@type":"ImageObject","url":"https://plantarfasciitisguides.com/images/logo.png"}},"datePublished":"2026-03-13","dateModified":"2026-03-13","mainEntityOfPage":{"@type":"WebPage","@id":"https://plantarfasciitisguides.com/articles/best-night-splints-plantar-fasciitis"},"image":{"@type":"ImageObject","url":"https://plantarfasciitisguides.com/images/best-night-splints-plantar-fasciitis/night-splint-hero.jpg"},"sameAs":["https://plantarfasciitisguides.com"]}'
 ---
 # Best Night Splints for Plantar Fasciitis (2026)
 
 **The best night splints for plantar fasciitis hold your foot at a gentle 85–90 degree dorsiflexion angle during sleep, stretching the plantar fascia and Achilles tendon to eliminate the brutal first-step morning pain that affects over 2 million Americans each year. After testing 14 splints over 12 weeks with 30 patients, here are our podiatrist-reviewed top picks for 2026.**
 
-*By Dr. James O'Brien, Podiatrist & Sports Medicine Specialist* · Last updated March 13, 2026
+By Plantar Fasciitis Guides Editorial Team
 
-**Medical Disclaimer:** This article is for informational purposes only and does not constitute medical advice. The content is written by a qualified podiatrist but should not replace a consultation with your physician, orthopaedic surgeon, or sports medicine specialist. If you are experiencing severe, worsening, or persistent heel pain, please seek professional medical assessment. Individual conditions vary.
+**Medical Disclaimer:** This article is for informational purposes only and does not constitute medical advice. The content is published by the site editorial team but should not replace a consultation with your physician, orthopaedic surgeon, or sports medicine specialist. If you are experiencing severe, worsening, or persistent heel pain, please seek professional medical assessment. Individual conditions vary.
 
 **Affiliate Disclosure:** PlantarFasciitisGuides.com is reader-supported. When you purchase through links on this page, we may earn a small affiliate commission at no extra cost to you. This does not influence our recommendations — all products are independently assessed based on clinical experience and patient feedback. [Read our full disclosure](/affiliate-disclosure).
 
@@ -29,17 +27,7 @@ article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"
 *Comparison visual for Table of Contents*
 
 
-- [Why Night Splints Work for Plantar Fasciitis](#why-night-splints-work-for-plantar-fasciitis)
-- [Types of Night Splints Explained](#types-of-night-splints-explained)
-- [How We Tested and Selected Our Picks](#how-we-tested-and-selected-our-picks)
-- [Top 7 Night Splints — Comparison Table](#top-7-night-splints-comparison-table)
-- [Detailed Reviews](#detailed-reviews)
-- [How to Choose the Right Night Splint](#how-to-choose-the-right-night-splint)
-- [How to Use a Night Splint Effectively](#how-to-use-a-night-splint-effectively)
-- [Combining Night Splints with Other Treatments](#combining-night-splints-with-other-treatments)
-- [Frequently Asked Questions](#frequently-asked-questions)
-- [Sources & Methodology](#sources-and-methodology)
-- [Conclusion](#conclusion)
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ---
 
@@ -57,7 +45,7 @@ Night splints interrupt this cycle by maintaining the foot in a neutral or sligh
 - **Lengthens the Achilles tendon–calf complex**, which directly reduces strain on the plantar fascia's calcaneal attachment
 - **Promotes aligned collagen remodeling** at the micro-tear site
 
-> "Night splints remain one of the most evidence-based conservative interventions for plantar fasciitis. In my clinical experience, patients who comply with nightly use for at least 8 weeks show significantly faster resolution than those relying on stretching alone." — Dr. Benedict DiGiovanni, Professor of Orthopaedics, University of Rochester Medical Center
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 A landmark study by Powell et al. in the *Journal of Bone and Joint Surgery* (1998) found that 88% of patients who added a night splint to their treatment regimen achieved satisfactory outcomes, compared to 69% using stretching and orthotics alone.
 
@@ -100,18 +88,7 @@ These use a fabric sleeve or sock with one or more tension straps running from t
 
 ---
 
-## How We Tested and Selected Our Picks
-![Best Night Splints for Plantar Fasciitis (2026): detail image for How We Tested and Selected Our Picks](/images/articles/best-night-splints-plantar-fasciitis-detail.jpg)
-*Detail visual for How We Tested and Selected Our Picks*
-
-
-Our evaluation process combined clinical expertise with real-world patient testing:
-
-1. **Initial screening:** We identified 23 night splints currently available on Amazon with 100+ reviews and a minimum 3.5-star rating
-2. **Clinical evaluation:** Dr. O'Brien assessed each device for biomechanical effectiveness, material quality, adjustability, and build quality
-3. **Patient testing:** 30 patients with diagnosed plantar fasciitis (confirmed via ultrasound) tested the top 14 devices over 12 weeks. Each patient rotated through 2–3 devices and rated them on pain reduction, comfort, sleep disruption, and ease of use
-4. **Pain measurement:** We used the Visual Analogue Scale (VAS) to measure first-step morning pain at baseline, 4 weeks, 8 weeks, and 12 weeks
-5. **Durability assessment:** All devices were evaluated for material degradation, strap integrity, and velcro effectiveness after 90 days of nightly use
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 We prioritised products that delivered measurable pain reduction while maintaining high sleep-quality compliance scores — because the best night splint is the one you'll actually wear.
 
@@ -124,13 +101,13 @@ We prioritised products that delivered measurable pain reduction while maintaini
 
 | Rank | Product | Type | Dorsiflexion | Weight | Price | Rating | Pros | Cons | Buy |
 |------|---------|------|-------------|--------|-------|--------|------|------|-----|
-| 1 | **Mars Wellness Posterior Night Splint** | Posterior Boot | 90° fixed, adjustable | 480g | $24–30 | 4.5/5 | • Strong 90° stretch • Well-padded liner • Affordable | • Heavy (480g) • 3–5 night break-in | [Check Price on Amazon](https://www.amazon.com/dp/B07BDHK8V1?tag=theforge05-20) |
-| 2 | **BraceAbility Dorsal Night Splint** | Dorsal | 85–90° adjustable | 280g | $27–35 | 4.4/5 | • Great for side sleepers • Lightweight (280g) • Adjustable dial | • Foot can shift if straps loosen • Less aggressive stretch | [Check Price on Amazon](https://www.amazon.com/dp/B019PORTNA?tag=theforge05-20) |
-| 3 | **Strassburg Sock** | Sock-Style | Adjustable via strap | 85g | $30–38 | 4.3/5 | • Ultra-light (85g) • Highest compliance (94%) • Machine washable | • Strap can loosen overnight • Not ideal for severe cases | [Check Price on Amazon](https://www.amazon.com/dp/B000NFXFDI?tag=theforge05-20) |
-| 4 | **Nice Stretch 90 Plantar Fasciitis Splint** | Posterior Boot | 90° fixed | 410g | $35–45 | 4.3/5 | • Contoured footplate • Excellent padding • Bilateral stretch | • Higher price ($35–45) • Heavy at 410g | [Check Price on Amazon](https://www.amazon.com/dp/B074W4S2TR?tag=theforge05-20) |
-| 5 | **Vive Dorsal Night Splint** | Dorsal | 85–90° adjustable | 310g | $20–28 | 4.2/5 | • Lowest-price dorsal option • Adjustable angle • Lightweight | • Strap quality below BraceAbility • May not last beyond 5 months | [Check Price on Amazon](https://www.amazon.com/dp/B07BGRM3HD?tag=theforge05-20) |
-| 6 | **Thermoskin Plantar FXT Night Support** | Sock-Style | Moderate via strap | 90g | $35–42 | 4.1/5 | • Thermal therapy layer • Extremely packable • All sleep positions | • Too warm for hot sleepers • Limited stretch adjustability | [Check Price on Amazon](https://www.amazon.com/dp/B003QX3MMO?tag=theforge05-20) |
-| 7 | **Medline Ventilated Posterior Night Splint** | Posterior Boot | 90° fixed | 520g | $22–30 | 4.0/5 | • Best ventilation in class • Breathable mesh liner • Solid 90° hold | • Heaviest at 520g • Velcro shows wear at 90 days | [Check Price on Amazon](https://www.amazon.com/dp/B091TT78YJ?tag=theforge05-20) |
+| 1 | **Mars Wellness Posterior Night Splint** | Posterior Boot | 90° fixed, adjustable | 480g | $24–30 | 4.5/5 | • Strong 90° stretch • Well-padded liner • Affordable | • Heavy (480g) • 3–5 night break-in | [Check Price on Amazon](https://www.amazon.com/dp/B07BDHK8V1?tag=plantarfasciitisg-20) |
+| 2 | **BraceAbility Dorsal Night Splint** | Dorsal | 85–90° adjustable | 280g | $27–35 | 4.4/5 | • Great for side sleepers • Lightweight (280g) • Adjustable dial | • Foot can shift if straps loosen • Less aggressive stretch | [Check Price on Amazon](https://www.amazon.com/dp/B019PORTNA?tag=plantarfasciitisg-20) |
+| 3 | **Strassburg Sock** | Sock-Style | Adjustable via strap | 85g | $30–38 | 4.3/5 | • Ultra-light (85g) • Highest compliance (94%) • Machine washable | • Strap can loosen overnight • Not ideal for severe cases | [Check Price on Amazon](https://www.amazon.com/dp/B000NFXFDI?tag=plantarfasciitisg-20) |
+| 4 | **Nice Stretch 90 Plantar Fasciitis Splint** | Posterior Boot | 90° fixed | 410g | $35–45 | 4.3/5 | • Contoured footplate • Excellent padding • Bilateral stretch | • Higher price ($35–45) • Heavy at 410g | [Check Price on Amazon](https://www.amazon.com/dp/B074W4S2TR?tag=plantarfasciitisg-20) |
+| 5 | **Vive Dorsal Night Splint** | Dorsal | 85–90° adjustable | 310g | $20–28 | 4.2/5 | • Lowest-price dorsal option • Adjustable angle • Lightweight | • Strap quality below BraceAbility • May not last beyond 5 months | [Check Price on Amazon](https://www.amazon.com/dp/B07BGRM3HD?tag=plantarfasciitisg-20) |
+| 6 | **Thermoskin Plantar FXT Night Support** | Sock-Style | Moderate via strap | 90g | $35–42 | 4.1/5 | • Thermal therapy layer • Extremely packable • All sleep positions | • Too warm for hot sleepers • Limited stretch adjustability | [Check Price on Amazon](https://www.amazon.com/dp/B003QX3MMO?tag=plantarfasciitisg-20) |
+| 7 | **Medline Ventilated Posterior Night Splint** | Posterior Boot | 90° fixed | 520g | $22–30 | 4.0/5 | • Best ventilation in class • Breathable mesh liner • Solid 90° hold | • Heaviest at 520g • Velcro shows wear at 90 days | [Check Price on Amazon](https://www.amazon.com/dp/B091TT78YJ?tag=plantarfasciitisg-20) |
 
 ---
 
@@ -141,9 +118,7 @@ We prioritised products that delivered measurable pain reduction while maintaini
 
 ### 1. Mars Wellness Posterior Night Splint — Best Overall
 
-The Mars Wellness Posterior Night Splint delivers the most consistent and effective dorsiflexion stretch in our testing cohort. The rigid posterior shell is lined with soft foam padding that prevented the shin pressure complaints common with cheaper boot-style models. Three adjustable straps allow you to fine-tune the dorsiflexion angle and overall compression.
-
-In our 12-week patient trial, the Mars Wellness group showed a mean VAS pain reduction of 62% at the 8-week mark — the highest of any device tested. The open-toe design prevents claustrophobia and allows heat dissipation, which was a major comfort factor during summer testing months.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 **Pros:**
 - Strong, consistent 90° dorsiflexion hold
@@ -157,9 +132,9 @@ In our 12-week patient trial, the Mars Wellness group showed a mean VAS pain red
 - Back sleepers only may find it comfortable initially
 - Break-in period of 3–5 nights needed
 
-**Our verdict:** The best night splint for plantar fasciitis for most people. If you can tolerate a boot-style design for the first week, the Mars Wellness delivers the strongest clinical outcomes in our testing.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07BDHK8V1?tag=theforge05-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B07BDHK8V1?tag=plantarfasciitisg-20)
 
 ### 2. BraceAbility Dorsal Night Splint — Best for Side Sleepers
 
@@ -181,13 +156,11 @@ Our side-sleeping patients reported 78% fewer sleep disturbances compared to the
 
 **Our verdict:** The best night splint for plantar fasciitis if sleep quality is your primary concern. The dorsal design trades a small amount of stretch intensity for dramatically better comfort and compliance.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B019PORTNA?tag=theforge05-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B019PORTNA?tag=plantarfasciitisg-20)
 
 ### 3. Strassburg Sock — Best Sock-Style / Most Comfortable
 
-The Strassburg Sock is the original sock-style night splint, developed by physical therapist David Strassburg. A single adjustable strap runs from the toe area to just below the knee, maintaining a gentle dorsiflexion stretch with minimal bulk. At only 85 grams, patients often forget they're wearing it.
-
-The 2002 landmark study by Batt et al. in the *Journal of Foot and Ankle Surgery* found the Strassburg Sock resolved plantar fasciitis symptoms in 97.8% of patients within an average of 18.5 days — though our clinical experience suggests this timeline is optimistic for moderate-to-severe cases. In our trial, Strassburg Sock users showed a 46% mean VAS reduction at 8 weeks, lower than boot-style devices but with a compliance rate of 94% versus 72% for the posterior splints.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 **Pros:**
 - Extremely lightweight (85g) and packable
@@ -204,7 +177,7 @@ The 2002 landmark study by Batt et al. in the *Journal of Foot and Ankle Surgery
 
 **Our verdict:** The Strassburg Sock proves that the best night splint is the one you'll actually wear. If you've tried rigid splints and given up, or if your plantar fasciitis is mild to moderate, this is your best option.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B000NFXFDI?tag=theforge05-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B000NFXFDI?tag=plantarfasciitisg-20)
 
 *Wearing a night splint should become part of your regular bedtime routine for best results.*
 
@@ -212,7 +185,7 @@ The 2002 landmark study by Batt et al. in the *Journal of Foot and Ankle Surgery
 
 The Nice Stretch 90 distinguishes itself with a patented bilateral design that applies a symmetrical stretch across both the plantar fascia and Achilles tendon. The contoured footplate has a slight rocker profile that many patients described as more "natural" than the flat footplate on the Mars Wellness.
 
-The premium foam liner is noticeably thicker than competing boot-style splints, and the three-strap system distributes pressure evenly. Our patients recorded a mean VAS pain reduction of 58% at 8 weeks — slightly behind the Mars Wellness but with fewer comfort complaints.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 **Pros:**
 - Contoured footplate feels more natural
@@ -227,7 +200,7 @@ The premium foam liner is noticeably thicker than competing boot-style splints, 
 
 **Our verdict:** Worth the premium if you've experienced discomfort with cheaper posterior splints. The superior padding and contoured footplate make this the most comfortable boot-style option.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B074W4S2TR?tag=theforge05-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B074W4S2TR?tag=plantarfasciitisg-20)
 
 ### 5. Vive Dorsal Night Splint — Best Budget Dorsal
 
@@ -248,7 +221,7 @@ In our trial, the Vive performed comparably to the BraceAbility for mild to mode
 
 **Our verdict:** An excellent entry-level dorsal splint if budget is a concern. For long-term use, invest in the BraceAbility.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07BGRM3HD?tag=theforge05-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B07BGRM3HD?tag=plantarfasciitisg-20)
 
 ### 6. Thermoskin Plantar FXT Night Support — Best for Travel
 
@@ -270,13 +243,13 @@ At 90g, it packs flat in a suitcase and is ideal for travellers who don't want t
 
 **Our verdict:** A niche but excellent option for patients who travel frequently or who respond well to heat therapy.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B003QX3MMO?tag=theforge05-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B003QX3MMO?tag=plantarfasciitisg-20)
 
 ### 7. Medline Ventilated Posterior Night Splint — Best Ventilated Boot
 
 The Medline Posterior Night Splint addresses the biggest complaint about boot-style devices: heat and sweating. The ventilated shell features perforations throughout the posterior plate and a breathable mesh liner that significantly reduces moisture build-up.
 
-Our patients in warm-climate testing (Arizona, July) rated the Medline's breathability 4.2/5 compared to 2.1/5 for non-ventilated posterior splints. Pain reduction was solid at 55% mean VAS reduction at 8 weeks.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 **Pros:**
 - Best ventilation of any posterior boot
@@ -291,7 +264,7 @@ Our patients in warm-climate testing (Arizona, July) rated the Medline's breatha
 
 **Our verdict:** The best posterior night splint for hot sleepers or warm climates. Solid clinical performance with meaningfully better breathability.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B091TT78YJ?tag=theforge05-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B091TT78YJ?tag=plantarfasciitisg-20)
 
 ---
 
@@ -318,7 +291,7 @@ Selecting the right night splint depends on several personal factors. Use this d
 
 This is the most important point in this article. A 2018 study in *Foot & Ankle International* found that night splint compliance was the single strongest predictor of outcomes — stronger than splint type, dorsiflexion angle, or concurrent treatments. Patients who wore their splint 5+ nights per week had 3.2x better outcomes than those averaging 2–3 nights per week.
 
-> "I tell my patients: the best night splint is the one you'll actually wear every night. A Strassburg Sock worn consistently beats a rigid boot that sits in the closet." — Dr. James O'Brien
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 *Having a podiatrist assess your foot and recommend the right splint type can improve outcomes significantly.*
 
@@ -375,9 +348,9 @@ For acute flare-ups, rolling your foot over a frozen water bottle for 10 minutes
 
 ### Video: Understanding Plantar Fasciitis Night Splints
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s2GKMuvCVNc" title="Plantar Fasciitis Night Splint - How to Use a Night Splint" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><strong>Video content moved here to keep the site YouTube-free.</strong> <span class="video-removed"><strong>Video content moved here to keep the site YouTube-free.</strong> Watch this content on our media page</span></p>
 
-*Dr. Matthew Neuhaus explains how night splints work and demonstrates proper fitting technique.*
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ---
 
@@ -411,7 +384,7 @@ The Strassburg Sock is technically a type of night splint — a sock-style desig
 
 ## Conclusion
 
-Choosing the best night splints for plantar fasciitis comes down to three factors: your sleep position, the severity of your symptoms, and how likely you are to wear the device consistently. In our 12-week clinical testing, posterior boot-style splints like the Mars Wellness delivered the strongest pain reduction, while sock-style options like the Strassburg Sock earned the highest compliance rates. Dorsal splints offered a practical middle ground for side sleepers who need both comfort and effective dorsiflexion.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 No matter which splint you choose, consistency is the single biggest predictor of success. Wear your splint every night for at least 8 weeks before judging results, and pair it with supportive footwear and targeted stretching during the day. If your symptoms persist beyond 12 weeks of conservative treatment, consult a podiatrist for further evaluation. The right night splint, used consistently, can make a meaningful difference in your recovery from plantar fasciitis.
 
@@ -444,7 +417,7 @@ This article is based on peer-reviewed clinical research, the author's 18 years 
 
 ---
 
-*This article was written by Dr. James O'Brien, a board-certified podiatrist and sports medicine specialist with 18 years of clinical experience treating plantar fasciitis and related foot conditions. Dr. O'Brien has treated over 4,000 plantar fasciitis patients and regularly contributes to continuing medical education programmes on lower extremity biomechanics.*
+By Plantar Fasciitis Guides Editorial Team
 
 *For personalised treatment recommendations, please consult with a qualified podiatrist or sports medicine physician in your area.*
 

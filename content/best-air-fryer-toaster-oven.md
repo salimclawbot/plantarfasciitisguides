@@ -16,26 +16,11 @@ meta_description: 'Best air fryer toaster oven picks for 2026, ranked and tested
 
 ## Table of Contents
 
-- [How We Tested](#how-we-tested)
-- [Quick Comparison Table](#quick-comparison-table)
-- [Top 5 Air Fryer Toaster Ovens Reviewed](#top-5-air-fryer-toaster-ovens-reviewed)
-  - [1. Ninja Foodi XL Pro — Best Overall](#1-ninja-foodi-xl-pro--best-overall)
-  - [2. Breville Smart Oven Air — Best Premium](#2-breville-smart-oven-air--best-premium)
-  - [3. Cuisinart TOA-60 — Best Compact Option](#3-cuisinart-toa-60--best-compact-option)
-  - [4. COSORI Air Fryer Toaster Oven — Best Budget Pick](#4-cosori-air-fryer-toaster-oven--best-budget-pick)
-  - [5. Instant Omni Plus — Best for Versatility](#5-instant-omni-plus--best-for-versatility)
-- [Buying Guide: What to Look For](#buying-guide-what-to-look-for)
-- [Air Fryer Toaster Oven vs. Standalone Air Fryer](#air-fryer-toaster-oven-vs-standalone-air-fryer)
-- [FAQ](#faq)
-- [Sources](#sources)
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ---
 
-## How We Tested
-
-We evaluated each air fryer toaster oven across five core categories: **air frying performance**, **toasting evenness**, **temperature accuracy**, **ease of use**, and **build quality**. Every model went through the same battery of real-world cooking tests — frozen french fries, bone-in chicken thighs, a full sheet of toast, homemade pizza, and dehydrated apple slices — to measure consistency and versatility.
-
-We used a calibrated thermocouple to verify internal temperatures against dial and digital readouts. We measured preheat times, tracked energy consumption with a Kill-A-Watt meter, and tested noise levels at one foot from each unit. Each oven was used daily for a minimum of three weeks before final scoring.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 We also factored in counter footprint, weight, included accessories, warranty terms, and long-term owner feedback aggregated from verified purchase reviews across major retailers.
 
@@ -57,7 +42,7 @@ We also factored in counter footprint, weight, included accessories, warranty te
 
 ### 1. Ninja Foodi XL Pro — Best Overall
 
-The Ninja Foodi XL Pro earns our top spot because it strikes the ideal balance between performance, capacity, and price. During testing, it produced the crispiest frozen fries of any model under $250 — golden and evenly browned in just 18 minutes with no shaking required halfway through. The dual-heat technology circulates superheated air from the top while radiant heat works from the bottom, eliminating the common problem of soggy undersides.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 The 10 cooking functions cover everything most households need: air fry, air roast, bake, whole roast, broil, toast, bagel, dehydrate, reheat, and pizza. The digital display is intuitive, with clearly labeled presets and manual override for temperature and time. We fit a full 5-pound chicken inside with room to spare, and it roasted evenly in about 55 minutes — roughly 30% faster than a conventional oven.
 
@@ -131,11 +116,11 @@ Cuisinart backs this model with a three-year limited warranty, the longest stand
 
 ### 4. COSORI Air Fryer Toaster Oven — Best Budget Pick
 
-The COSORI Air Fryer Toaster Oven delivers the most features per dollar of any model we tested. Priced well under $150 at most retailers, it offers 12 cooking presets, a bright digital display, and surprisingly capable air frying that rivaled models costing twice as much.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 In our french fry test, the COSORI produced evenly golden results in 20 minutes — just two minutes behind the Ninja. Chicken thighs developed a satisfying crackly skin, and the convection bake mode turned out consistent cookies across both rack positions. The 26-quart interior fits a 5-pound chicken, giving it capacity that competes with the Ninja at a significantly lower price.
 
-The 12 presets — air fry, bake, roast, broil, toast, pizza, bagel, dehydrate, ferment, warm, cookies, and rotisserie — look comprehensive on paper, though we noted the ferment function ran slightly warmer than ideal in our testing. The rotisserie function requires the included rotisserie fork and spit, a nice bonus for whole-chicken enthusiasts.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 Build quality is where the price shows. The exterior is thinner gauge steel than the Ninja or Breville, and the door hinge felt slightly loose after three weeks of daily use. The knobs and buttons are functional but lack the tactile precision of higher-end models. Fan noise is the loudest on this list — not disruptive, but noticeable in a quiet kitchen.
 
@@ -193,7 +178,7 @@ More presets do not always mean better cooking. Focus on the functions you will 
 
 ### Temperature Accuracy
 
-This is the hidden differentiator. A toaster oven that says 400°F but actually runs at 375°F will produce undercooked food and frustration. Breville leads the industry here, but the Ninja and COSORI both performed within acceptable ranges in our testing. If precise baking matters to you — macarons, pastries, delicate proteins — invest in a model with proven temperature consistency.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ### Build Quality and Durability
 

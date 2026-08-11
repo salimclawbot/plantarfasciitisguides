@@ -17,16 +17,7 @@ Article written to `best-air-fryer-oven-under-100.md` — approximately 2,700 wo
 
 ## Table of Contents
 
-- [Our Top 5 Picks at a Glance](#our-top-5-picks-at-a-glance)
-- [How We Tested](#how-we-tested)
-- [1. COSORI CO130-AO — Best Overall Under $100](#1-cosori-co130-ao--best-overall-under-100)
-- [2. Instant Omni 9-in-1 — Best for Families](#2-instant-omni-9-in-1--best-for-families)
-- [3. Ninja DT201 Foodi 10-in-1 — Best Dual Heat](#3-ninja-dt201-foodi-10-in-1--best-dual-heat)
-- [4. COSORI Smart Air Fryer Toaster Oven Lite — Best Compact](#4-cosori-smart-air-fryer-toaster-oven-lite--best-compact)
-- [5. Hamilton Beach Sure-Crisp 31436 — Best Budget Buy](#5-hamilton-beach-sure-crisp-31436--best-budget-buy)
-- [What You Sacrifice at This Price Point](#what-you-sacrifice-at-this-price-point)
-- [Buyer's Guide: What to Look for Under $100](#buyers-guide-what-to-look-for-under-100)
-- [FAQ](#faq)
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ---
 
@@ -42,11 +33,9 @@ Article written to `best-air-fryer-oven-under-100.md` — approximately 2,700 wo
 
 ---
 
-## How We Tested
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
-We ran each air fryer toaster oven through a standardized gauntlet: frozen french fries, a full sheet of toast (six slices), a whole 4-pound chicken, and a batch of chocolate chip cookies. We measured interior temperature accuracy with a thermocouple probe, timed preheat speeds, recorded noise levels at one foot, and tracked exterior surface temperatures during a 30-minute air fry session at 400°F.
-
-Every model lived on our test counter for a minimum of two weeks to evaluate ease of daily use, cleaning difficulty, and long-term consistency. We also factored in warranty coverage, accessory quality, and the availability of replacement parts.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ---
 
@@ -54,7 +43,7 @@ Every model lived on our test counter for a minimum of two weeks to evaluate eas
 
 The COSORI CO130-AO is the air fryer toaster oven that made us stop and recalibrate what "budget" means. At a street price that consistently stays below $95, it delivers 12 cooking functions in a 30-liter cavity that comfortably fits a 13-inch pizza or six slices of bread.
 
-Air frying performance is where this unit earns its ranking. Frozen fries came out evenly golden in 18 minutes at 400°F with no basket shaking required. The dual heating element design circulates heat more effectively than single-element competitors, and the interior temperature held within 8°F of our target setting throughout testing — a result that rivals ovens costing twice as much.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 The control panel uses a simple dial-and-button interface. There is no touchscreen and no Wi-Fi, and at this price, that is exactly the right call. The dials feel solid, the interior light works, and the included accessories — a baking pan, wire rack, air fry basket, and crumb tray — are all functional rather than flimsy.
 
@@ -98,7 +87,7 @@ One practical advantage for families is the one-touch preheat that remembers you
 
 The Ninja DT201 frequently dips below $100 during sales, and if you catch it at that price, it is arguably the most capable air fryer toaster oven in this guide. The standout feature is Ninja's dual heat technology, which uses independently controlled top and bottom heating elements to cook food faster and more evenly.
 
-In our roast chicken test, the DT201 finished a 4-pound bird in 55 minutes with crispy skin on all sides and an internal breast temperature of 165°F without any repositioning. That is 15 minutes faster than the average across our test group. The air fry results were equally strong — frozen fries were uniformly crisp with a tender interior.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 The 10 cooking functions include air fry, air roast, air broil, bake, bagel, toast, dehydrate, reheat, pizza, and keep warm. The XL capacity handles a 13-inch pizza or a 5-pound chicken, giving it an edge for larger households.
 
@@ -243,5 +232,4 @@ Generally no. While interior dimensions may seem similar, the exact width, depth
 
 ---
 
-*Sarah Kim is a kitchen appliance writer and product tester at Air Fryer Oven Guide. She has reviewed over 80 air fryer toaster ovens since 2022. Last updated: March 10, 2026.*
-```
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.

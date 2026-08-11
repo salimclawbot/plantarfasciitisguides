@@ -1,6 +1,6 @@
+import { safeMatter } from "@/lib/safe-matter";
 import fs from "fs";
 import path from "path";
-import matter from "gray-matter";
 import { remark } from "remark";
 import html from "remark-html";
 import remarkGfm from "remark-gfm";
@@ -29,8 +29,7 @@ function toSlug(text: string): string {
 function parseJsonField(value: unknown): Record<string, unknown> | null {
   if (!value || typeof value !== "string") return null;
   try {
-    const normalized = value.replaceAll("https://airfryerovenguide.com", "https://officechairpicks.vercel.app");
-    return JSON.parse(normalized);
+    return JSON.parse(value);
   } catch {
     return null;
   }
@@ -49,7 +48,7 @@ export async function getArticle(slug: string): Promise<Article | null> {
   if (!fs.existsSync(filePath)) return null;
 
   const raw = fs.readFileSync(filePath, "utf-8");
-  const parsed = matter(raw);
+  const parsed = safeMatter(raw);
   const data = parsed.data as Record<string, unknown>;
 
   const content = processContent(parsed.content);
@@ -57,7 +56,7 @@ export async function getArticle(slug: string): Promise<Article | null> {
 
   const title = (data.title as string) || slug;
   const description = (data.meta_description as string) || "Office chair buying guide article.";
-  const author = (data.author as string) || "Dr. James Holloway, Ergonomics Consultant";
+  const author = "Plantar Fasciitis Guides Editorial Team";
   const date = String(data.datePublished || "2026-03-11").split('T')[0];
   const dateModified = String(data.dateModified || date).split('T')[0];
   const category = "Guide";
