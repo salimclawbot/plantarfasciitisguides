@@ -370,5 +370,5 @@ Once a day is sufficient for most people. Some individuals with particularly sev
 - [Best Night Splints for Plantar Fasciitis](/best-night-splints-for-plantar-fasciitis/) — Continue your treatment with a night splint to maintain calf and fascia length while you sleep
 - [Plantar Fasciitis vs Heel Spurs: What's Actually Causing Your Pain](/plantar-fasciitis-vs-heels-spurs/) — Understand the difference between these two commonly confused conditions
 - [How to Tape Plantar Fasciitis for Maximum Relief](/how-to-tape-plantar-fasciitis/) — Add supportive taping to your morning routine for even better results
-- [Best Shoes for Plantar Fasciitis](/best-shoes-for-plantar-fasciitis/) — The right footwear is essential for protecting your feet throughout the day
+- [Best Shoes for Plantar Fasciitis](/best-shoes-plantar-fasciitis/) — The right footwear is essential for protecting your feet throughout the day
 - [Plantar Fasciitis Stretches: Complete Guide](/plantar-fasciitis-stretches/) — A comprehensive guide to all the stretches that help manage plantar fasciitis
