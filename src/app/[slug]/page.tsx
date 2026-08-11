@@ -36,7 +36,7 @@ function TableOfContents({ items }: { items: TocItem[] }) {
   );
 }
 
-function InternalLinks({ currentSlug }: { currentSlug: string }) {
+function InternalLinks() {
   const related = [
     { label: "Best Shoes for Plantar Fasciitis", slug: "best-shoes-for-plantar-fasciitis" },
     { label: "Plantar Fasciitis Stretches for Better Mornings", slug: "plantar-fasciitis-stretches-guide" },
@@ -56,7 +56,6 @@ function InternalLinks({ currentSlug }: { currentSlug: string }) {
           </li>
         ))}
       </ul>
-      <p className="mt-3 text-xs text-slate-500">Current focus: {currentSlug}</p>
     </aside>
   );
 }
@@ -144,7 +143,7 @@ export default async function ArticlePage({ params }: PageProps) {
       <TableOfContents items={toc} />
       <AmazonProductShowcase group={amazonProductGroup} slug={article.slug} />
       <div className="prose prose-slate max-w-none mt-8" dangerouslySetInnerHTML={{ __html: html }} />
-      <InternalLinks currentSlug={article.slug} />
+      <InternalLinks />
     </article>
   );
 }
