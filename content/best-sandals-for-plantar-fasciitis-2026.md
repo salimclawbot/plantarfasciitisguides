@@ -6,10 +6,10 @@ publishedAt: "2026-04-21"
 dateModified: "2026-04-21"
 author: "Rachel Mercer, Certified Foot Health Writer"
 category: "Plantar Fasciitis"
-image: "/images/articles/best-sandals-for-plantar-fasciitis-hero.jpg"
+image: "/images/articles/plantar-supportive-sandals-hero.png"
 og_title: "Best Sandals for Plantar Fasciitis (2026) — Expert Guide"
 og_description: "Stop heel pain in its tracks. Our 2026 guide covers the best sandals for plantar fasciitis with podiatrist-approved arch support and cushioning."
-og_image: "/images/articles/best-sandals-for-plantar-fasciitis-hero.jpg"
+og_image: "/images/articles/plantar-supportive-sandals-hero.png"
 og_site_name: "Plantar Fasciitis Guides"
 twitter_card: "summary_large_image"
 site_id: plantarfasciitis-site
@@ -24,8 +24,6 @@ amazon_tag: "tag=plantarfasciitisg-20"
 
 *Last updated: April 2026*
 
-![Hero image: A person walking comfortably on a beach in supportive sandals, illustrating pain-free plantar fasciitis management](images/articles/best-sandals-for-plantar-fasciitis-hero.jpg)
-
 ---
 
 ## Table of Contents
@@ -37,8 +35,6 @@ amazon_tag: "tag=plantarfasciitisg-20"
 ## What Is Plantar Fasciitis and Why Footwear Matters {#what-is-plantar-fasciitis-and-why-footwear-matters}
 
 Plantar fasciitis is one of the most common causes of heel pain, affecting an estimated [2 million people in the United States](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3687890/) and roughly 10% of the global population over a lifetime. The condition develops when the plantar fascia — a thick band of connective tissue running along the sole of your foot from heel to toes — becomes overloaded, develops microtears, and inflames.
-
-![Anatomy diagram showing the plantar fascia band on the sole of the foot](images/articles/plantar-fascia-anatomy-diagram.jpg)
 
 The pain is most intense with the first steps in the morning or after long periods of sitting. That sharp, stabbing sensation under the heel occurs because the fascia tightens overnight; when you step down, it stretches suddenly and pulls on the inflamed attachment point at the calcaneus (heel bone).
 
@@ -64,8 +60,6 @@ We cross-referenced recommendations from the [American Podiatric Medical Associa
 ## Top 10 Best Sandals for Plantar Fasciitis in 2026 {#top-10-best-sandals-for-plantar-fasciitis}
 
 ### 1. Vionic Tide II — Best Overall Sandal for Plantar Fasciitis
-
-![Vionic Tide II sandal on a sunny boardwalk](images/articles/vionic-tide-ii-sandal.jpg)
 
 The Vionic Tide II earns our top spot because it delivers the complete package: a podiatrist-designed contoured footbed with built-in orthotic arch support, a deep heel cup, and a flexible, lightweight outsole that moves with your foot rather than fighting it.
 
@@ -96,8 +90,6 @@ The Vionic Tide II earns our top spot because it delivers the complete package: 
 
 ### 2. Orthaheel Tide — Best for Active Lifestyles
 
-![Orthaheel Tide sandal with contoured footbed](images/articles/orthaheel-tide-sandal.jpg)
-
 The Orthaheel Tide was co-developed with Australian podiatrist Phillip Vasyli and uses the same biomechanical principles as the Vionic line (they share parent company). The deep heel cup and medial posted footbed make this an excellent choice for people who overpronate — the single most common mechanical contributor to plantar fasciitis.
 
 **Key features for plantar fasciitis:**
@@ -123,8 +115,6 @@ The Orthaheel Tide was co-developed with Australian podiatrist Phillip Vasyli an
 
 ### 3. Chaco Z/Cloud — Best for Customisable Arch Support
 
-![Chaco Z/Cloud sandal with adjustable straps](images/articles/chaco-zcloud-sandal.jpg)
-
 Chaco has built its reputation on fully adjustable strap systems and durable outsole engineering. The Z/Cloud version adds a new midsole compound that dramatically improves cushioning without losing the configurability that makes Chacos a favourite among people who spend long hours on their feet.
 
 **Key features for plantar fasciitis:**
@@ -149,8 +139,6 @@ Chaco has built its reputation on fully adjustable strap systems and durable out
 ---
 
 ### 4. OOFOS OOriginal — Best for Maximum Shock Absorption
-
-![OOFOS OOriginal sandal in black](images/articles/oofos-ooriginal-sandal.jpg)
 
 OOFOS is purpose-built for recovery. Their proprietary OOfoam technology absorbs 37% more impact than traditional EVA footwear foams, according to the company's own research published in the [Journal of Foot and Ankle Research](https://jfootankleres.biomedcentral.com/articles/10.1186/1757-1146-7-S1-A38). For people whose plantar fasciitis flares up after exercise, long shifts on their feet, or high-impact activity, the OOFOS OOriginal provides a level of cushioning that genuinely stands apart.
 
@@ -178,8 +166,6 @@ OOFOS is purpose-built for recovery. Their proprietary OOfoam technology absorbs
 
 ### 5. Birkenstock Arizona Essentials — Best Classic Sandal with Proven Arch Support
 
-![Birkenstock Arizona Essentials in EVA](images/articles/birkenstock-arizona-essentials.jpg)
-
 Birkenstocks have been providing biomechanically sound foot support since the 18th century, and the Arizona Essentials brings that same engineering to an affordable, water-resistant EVA package. The contoured cork-latex footbed — or its EVA equivalent in the Essentials line — is intentionally designed to mimic the shape of a healthy foot print, encouraging the toes to spread and the arch to rest in its natural position.
 
 **Key features for plantar fasciitis:**
@@ -204,8 +190,6 @@ Birkenstocks have been providing biomechanically sound foot support since the 18
 ---
 
 ### 6. Aetrex Lorie — Best for Metatarsal Support and Ball-of-Foot Comfort
-
-![Aetrex Lorie sandal with metatarsal pad](images/articles/aetrex-lorie-sandal.jpg)
 
 Aetrex has built a strong reputation in the orthotic footwear space, and the Lorie combines their signature Lynco orthotic footbed with a stylish wedge sandal design. What sets Aetrex apart for plantar fasciitis sufferers is their attention to metatarsal support — the ball-of-foot area that, when unsupported, can cause compensatory pain that radiates back to the heel.
 
@@ -232,8 +216,6 @@ Aetrex has built a strong reputation in the orthotic footwear space, and the Lor
 
 ### 7. Clarks Cloudsteppers Sillian Tzana — Best Lightweight Everyday Sandal
 
-![Clarks Sillian Tzana with cloud-like midsole](images/articles/clarks-sillian-tzana.jpg)
-
 Clarks has been making comfortable footwear for generations, and the Cloudsteppers line translates that expertise into an exceptionally lightweight sandal. At just 170 grams per shoe, the Sillian Tzana is one of the lightest supportive sandals available, making it a favourite for people who want genuine comfort without any feeling of clunkiness.
 
 **Key features for plantar fasciitis:**
@@ -259,8 +241,6 @@ Clarks has been making comfortable footwear for generations, and the Cloudsteppe
 
 ### 8. Skechers Performance On the GO 600 — Best Budget Orthotic Sandal
 
-![Skechers On the GO 600 sandal](images/articles/skechers-onthego-600.jpg)
-
 Skechers has entered the orthotic sandal market with its Performance line, and the On the GO 600 punches well above its price point. For people who want genuine arch support without spending over $100, this is the most capable budget option available.
 
 **Key features for plantar fasciitis:**
@@ -285,8 +265,6 @@ Skechers has entered the orthotic sandal market with its Performance line, and t
 ---
 
 ### 9. Taos Triumph — Best for Dressy Casual Style
-
-![Taos Triumph sandal in premium leather](images/articles/taos-triumph-sandal.jpg)
 
 Taos has carved out a niche in the "footwear that does not look medical" space. The Triumph uses a curved-sole design that gives it a distinctive, almost sculptural look while housing a serious orthotic footbed underneath. For people who need to wear supportive sandals to a summer wedding or a business-casual office, the Triumph delivers support without the orthotic aesthetic.
 
@@ -314,8 +292,6 @@ Taos has carved out a niche in the "footwear that does not look medical" space. 
 
 ### 10. Olukai Ohana — Best for Water Activities and Outdoor Use
 
-![Olukai Ohana sandal with water-resistant design](images/articles/olukai-ohana-sandal.jpg)
-
 Olukai builds their footwear for Hawaiian island life — which means it must handle water, sand, rocks, and long days of walking. The Ohana combines a rugged non-marking outsole with a compression-moulded EVA footbed that provides genuine arch support while being completely water-friendly.
 
 **Key features for plantar fasciitis:**
@@ -340,8 +316,6 @@ Olukai builds their footwear for Hawaiian island life — which means it must ha
 ---
 
 ## Quick Comparison Table {#quick-comparison-table}
-
-![Comparison table infographic showing all 10 sandals ranked by arch support, heel cushioning, water resistance, and price](images/articles/sandals-comparison-table.jpg)
 
 | Sandal | Arch Support | Heel Cushioning | Adjustability | Water-Friendly | Best For | Price |
 |--------|:-----------:|:---------------:|:------------:|:--------------:|----------|:-----:|
@@ -369,8 +343,6 @@ Olukai builds their footwear for Hawaiian island life — which means it must ha
 ## What to Look for in a Sandal for Plantar Fasciitis {#what-to-look-for}
 
 Not all "arch support sandals" are created equal. Here is what actually matters when evaluating a sandal for plantar fasciitis.
-
-![Infographic showing the key features of a plantar fasciitis-friendly sandal: contoured arch, deep heel cup, cushioned midsole, adjustable straps](images/articles/sandals-features-infographic.jpg)
 
 ### Contoured Arch Support vs. Raised Bumps
 
@@ -415,8 +387,6 @@ A sandal that cannot be adjusted cannot accommodate the natural swelling that fe
 ## How to Use These Sandals in Your Recovery Routine {#how-to-use-these-sandals-in-your-recovery-routine}
 
 Supportive sandals are not a standalone cure for plantar fasciitis. They are one component of a comprehensive approach. Here is how to incorporate them effectively.
-
-![Morning routine infographic showing supportive sandals beside the bed, a stretching mat, and an ice pack for complete plantar fasciitis management](images/articles/plantar-fasciitis-recovery-routine.jpg)
 
 ### Morning Routine
 

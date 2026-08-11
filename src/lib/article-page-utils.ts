@@ -25,7 +25,7 @@ function truncateAtWord(value: string, max: number): string {
 }
 
 export function normalizeMetaTitle(value: string | undefined): string {
-  return truncateAtWord(cleanText(value) || "Practical Editorial Guide", 46);
+  return truncateAtWord(cleanText(value) || "Practical Editorial Guide", 36);
 }
 
 export function normalizeMetaDescription(description: unknown, title = "This guide"): string {
