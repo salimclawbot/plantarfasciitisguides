@@ -10,6 +10,13 @@ export const metadata: Metadata = {
   title: { default: "Plantar Fasciitis Guides", template: "%s | Plantar Fasciitis Guides" },
   description:
     "Expert plantar fasciitis guides, shoe and insole recommendations, and treatment-focused comparison reviews from podiatrists and movement experts.",
+  keywords: ["plantar fasciitis","heel pain","plantar fasciitis shoes","insoles","foot support"],
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 },
+  },
+
   metadataBase: new URL("https://plantarfasciitisguides.com"),
   alternates: { canonical: "https://plantarfasciitisguides.com" },
   openGraph: {

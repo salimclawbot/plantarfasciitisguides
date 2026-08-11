@@ -14,6 +14,7 @@ export const metadata: Metadata = {
       "Research-informed plantar fasciitis guidance on shoes, insoles, night splints, and movement recovery with transparent comparison criteria.",
     url: "https://plantarfasciitisguides.com",
     type: "website",
+    images: [{ url: "https://plantarfasciitisguides.com/editorial-hero.png", width: 1200, height: 630, alt: "Plantar Fasciitis Guides" }],
   },
 
   twitter: {

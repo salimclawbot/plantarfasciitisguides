@@ -4,6 +4,7 @@ import path from "path";
 import { remark } from "remark";
 import html from "remark-html";
 import remarkGfm from "remark-gfm";
+import { normalizeArticleHeadings, resolveArticleDescription, resolveArticleTitle } from "@/lib/article-copy";
 
 export interface Article {
   slug: string;
@@ -19,6 +20,8 @@ export interface Article {
   faqSchema?: Record<string, unknown> | null;
   articleSchema?: Record<string, unknown> | null;
 }
+
+const EXCLUDED_SLUGS = new Set(["air-fryer-vs-toaster-oven","best-air-fryer-oven-large-families","best-air-fryer-oven-under-100","best-air-fryer-toaster-oven"]);
 
 const CONTENT_DIR = path.join(process.cwd(), "content");
 
@@ -54,14 +57,14 @@ export async function getArticle(slug: string): Promise<Article | null> {
   const content = processContent(parsed.content);
   const result = await remark().use(remarkGfm).use(html, { sanitize: false }).process(content);
 
-  const title = (data.title as string) || slug;
-  const description = (data.meta_description as string) || "Office chair buying guide article.";
+  const title = resolveArticleTitle(data.title, slug);
+  const description = resolveArticleDescription(data.meta_description || data.description, parsed.content, title);
   const author = "Plantar Fasciitis Guides Editorial Team";
   const date = String(data.datePublished || "2026-03-11").split('T')[0];
   const dateModified = String(data.dateModified || date).split('T')[0];
   const category = "Guide";
 
-  let htmlContent = result.toString();
+  let htmlContent = normalizeArticleHeadings(result.toString());
 
   htmlContent = htmlContent.replace(/<(h[2-6])>(.*?)<\/\1>/g, (match: string, tag: string, text: string) => {
     const customIdMatch = text.match(/\{#([^}]+)\}/);
@@ -99,7 +102,7 @@ export async function getArticle(slug: string): Promise<Article | null> {
 export function getAllSlugs(): string[] {
   return fs
     .readdirSync(CONTENT_DIR)
-    .filter((f) => f.endsWith(".md"))
+    .filter((f) => f.endsWith(".md") && !EXCLUDED_SLUGS.has(f.replace(/\.md$/, "")))
     .map((f) => f.replace(/\.md$/, ""));
 }
 
