@@ -21,7 +21,16 @@ export interface Article {
   articleSchema?: Record<string, unknown> | null;
 }
 
-const EXCLUDED_SLUGS = new Set(["air-fryer-vs-toaster-oven","best-air-fryer-oven-large-families","best-air-fryer-oven-under-100","best-air-fryer-toaster-oven"]);
+const EXCLUDED_SLUGS = new Set([
+  "air-fryer-vs-toaster-oven",
+  "best-air-fryer-oven-large-families",
+  "best-air-fryer-oven-under-100",
+  "best-air-fryer-toaster-oven",
+  "plantar-fasciitis-guides",
+  "plantar-fasciitis-taping-guide",
+  "shockwave-therapy-for-plantar-fasciitis-2026-guide",
+  "shockwave-therapy-plantar-fasciitis",
+]);
 
 const CONTENT_DIR = path.join(process.cwd(), "content");
 
@@ -60,7 +69,7 @@ export async function getArticle(slug: string): Promise<Article | null> {
   const title = resolveArticleTitle(data.title, slug);
   const description = resolveArticleDescription(data.meta_description || data.description, parsed.content, title);
   const author = "Plantar Fasciitis Guides Editorial Team";
-  const date = String(data.datePublished || "2026-03-11").split('T')[0];
+  const date = String(data.publishedAt || data.datePublished || "2026-03-11").split('T')[0];
   const dateModified = String(data.dateModified || date).split('T')[0];
   const category = "Guide";
 
